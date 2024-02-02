@@ -8,7 +8,6 @@ const SignUpPage = () => {
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
     const [inviteCode, setInviteCode] = useState('');
-    const[showExplanation,setShowExplanation]=useState(false);
     const navigate = useNavigate();
     const [errorMessage, setErrorMessage] = useState('');
 
@@ -26,9 +25,7 @@ const SignUpPage = () => {
         
     };
      // Function to toggle the visibility of the explanation section.
-    const toggleExplanation=()=>{
-        setShowExplanation(!showExplanation);
-    }
+   
     // Function to navigate to the login page.
     const hanldeLogin=()=>{
         navigate('/login');

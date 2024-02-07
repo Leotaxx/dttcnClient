@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import quizDataEN from '../dttqen.json';
 import quizDataCN from '../dttcn.json';
-//  import { useNavigate } from 'react-router-dom';
+ import { useNavigate,useLocation } from 'react-router-dom';
 
 
 const getImagePath = (imageName) => {
@@ -94,6 +94,11 @@ return (
 };
 
 const AllQ = ({ fullAccess }) => {
+    const navigate=useNavigate();
+    const location = useLocation();
+    const user = location.state.user;
+    const userId = user.userId;
+   
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(() => {
         // Retrieve and parse the index from local storage, or default to 0
         const savedIndex = JSON.parse(localStorage.getItem('currentQuestionIndex'));
@@ -292,7 +297,7 @@ if (redoIncorrect) {
     const currentRedoQuestion = quizData.find(q => q.question_id === currentRedoQuestionId);
     
     return <Question index={currentRedoIndex}  data={currentRedoQuestion} onAnswer={handleAnswerClick} selectedAnswer={selectedAnswer}
-                    showExplanation={showExplanation} nextQuestion={nextRedoQuestion} language={language} redoIncorrect={redoIncorrect} nextRedoQuestion={nextRedoQuestion}/>;
+                    showExplanation={showExplanation} nextQuestion={nextRedoQuestion} language={language} redoIncorrect={redoIncorrect} nextRedoQuestion={nextRedoQuestion} disableOnSelect={true} />;
 }
 
 return (
@@ -300,8 +305,8 @@ return (
     
     <div className="bg-gray-100 p-4 pt-2 sm:p-6 min-h-screen">
     <Question index={currentQuestionIndex} data={quizData[currentQuestionIndex]} onAnswer={handleAnswerClick} selectedAnswer={selectedAnswer}
-                showExplanation={showExplanation} nextQuestion={nextQuestion} language={language}/>
-    <ProgressBarSlider current={currentQuestionIndex+1} total={quizData.length} onSliderChange={handleSliderChange} ></ProgressBarSlider> 
+                showExplanation={showExplanation} nextQuestion={nextQuestion} language={language} disableOnSelect={true} />
+    <ProgressBarSlider current={currentQuestionIndex+1} total={quizData.length} onSliderChange={handleSliderChange}  ></ProgressBarSlider> 
               
     <div className="text-center mb-8 md:mb-12">
         <div className="bg-gray-100 p-4 pt-2 sm:p-6 flex flex-col sm:flex-row items-center justify-center">  
@@ -324,6 +329,8 @@ return (
                 >
                 {language === 'CN' ? `错题练习 (${incorrectQuestionIds.length}题)` : `Practice Incorrect (${incorrectQuestionIds.length})`}
                 </button>
+                <button onClick={() => navigate(`/UserProfile/${userId}`,{state:{user:user}})}className="bg-red-400 text-green-900 px-3 ml-2 py-1 rounded-full text-sm  hover:bg-red-500 md:text-base shadow-sm">
+              {language === 'CN' ? '回到菜单页' : 'back to profile'}</button>
             </div>
             </div>
           </div>

@@ -1,89 +1,5 @@
 [
     {
-        "question_id": "275",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": "只有向上的交通。",
-        "option_b": "前方陡峭的上坡。",
-        "option_c": "前方陡峭的下坡。",
-        "option_d": "前方是拱背桥。",
-        "correct_answer": "B",
-        "explanation": "这个标志预先警示前方有陡峭的上坡/上行的斜坡。您应通过选择合适的档位来做出反应。",
-        "image_name": "ABMW0077U19.png"
-    },
-    {
-        "question_id": "362",
-        "catalog_id": "10",
-        "question_text": "这个警察信号是什么意思？",
-        "option_a": "左转。",
-        "option_b": "如果从前方接近，则可通行。",
-        "option_c": "如果从前方或后方接近，则停止。",
-        "option_d": "右转。",
-        "correct_answer": "C",
-        "explanation": "当你接近一个发出此信号的警察时，你必须停下。",
-        "image_name": "ABMW0154R.jpg"
-    },
-    {
-        "question_id": "399",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": "前方无桥。",
-        "option_b": "结束高架桥区域。",
-        "option_c": "结束高速公路。",
-        "option_d": "禁止超车。",
-        "correct_answer": "C",
-        "explanation": "这个标志表示高速公路的终点。您将离开高速公路，其规则不再适用。",
-        "image_name": "ABMW0111RU19.png"
-    },
-    {
-        "question_id": "285",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": "只有双层巴士。",
-        "option_b": "逆向公交车道。",
-        "option_c": "双向交通系统。",
-        "option_d": "顺向公交车道。",
-        "correct_answer": "B",
-        "explanation": "这个标志告诉你必须靠左行驶，不得使用逆向公交车道，无论是白天还是晚上。逆向公交车道指的是公交车与其他车辆行驶方向相反的车道。",
-        "image_name": "ABMW0046U19.png"
-    },
-    {
-        "question_id": "20",
-        "catalog_id": "1",
-        "question_text": "哪辆车处于从次要道路右转进入主要道路的正确位置？",
-        "option_a": "1",
-        "option_b": "4",
-        "option_c": "3",
-        "option_d": "2",
-        "correct_answer": "A",
-        "explanation": "从次要道路向右转进入主要道路的正确位置是道路中心略偏左的位置。你应该及时占据正确的位置，并通过驶入主要道路的左侧来完成转弯。",
-        "image_name": "ABMW0312R.png"
-    },
-    {
-        "question_id": "74",
-        "catalog_id": "1",
-        "question_text": "司机应该采取什么行动？",
-        "option_a": "在停车线停车。",
-        "option_b": "示意公共汽车继续行驶。",
-        "option_c": "在自行车前通行。",
-        "option_d": "在公共汽车前通行。",
-        "correct_answer": "A",
-        "explanation": "根据法律规定你必须在停车线处（如果没有停车线就在停车标志处）停车，并且等待其他交通清除后才能继续前行。",
-        "image_name": "ABMW0254R.jpg"
-    },
-    {
-        "question_id": "286",
-        "catalog_id": "10",
-        "question_text": "除非另有指示，拖拽拖车的汽车在国道上的最大允许速度是多少？",
-        "option_a": "120 公里/小时。",
-        "option_b": "100 公里/小时。",
-        "option_c": "80 公里/小时。",
-        "option_d": "60 公里/小时。",
-        "correct_answer": "C",
-        "explanation": "在国道上拖拽拖车时，超过 80 公里/小时是非法的 - 超速将使车辆不稳定。",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "1",
         "catalog_id": "1",
         "question_text": "在光线不足的街道上驾驶为什么可能是危险的？",
@@ -130,18 +46,6 @@
         "correct_answer": "C",
         "explanation": "当你从主要道路右转进入次要道路时，你必须给迎面来的交通让行，并且只有在安全的情况下才能继续行驶。然而，次要道路上的车辆必须给主要道路上的交通让行。",
         "image_name": "ABMW0230R.jpg"
-    },
-    {
-        "question_id": "18",
-        "catalog_id": "1",
-        "question_text": "在这种情况下想要右转的司机应该怎么做？",
-        "option_a": "继续直行或左转。",
-        "option_b": "从左车道右转。",
-        "option_c": "倒车并进入右车道。",
-        "option_d": "继续直行并做宽转弯到右边。",
-        "correct_answer": "A",
-        "explanation": "当你接近一个你想要右转的交叉路口时，你应该提前读路并及时占据转弯的正确位置。",
-        "image_name": "ABMW0306RU19.jpg"
     },
     {
         "question_id": "5",
@@ -252,18 +156,6 @@
         "image_name": "ABMW0275R.jpg"
     },
     {
-        "question_id": "98",
-        "catalog_id": "2",
-        "question_text": "在处理撞车受害者时，记住 A B C。C 代表什么？",
-        "option_a": "循环。",
-        "option_b": "昏迷。",
-        "option_c": "咳嗽。",
-        "option_d": "冠状。",
-        "correct_answer": "A",
-        "explanation": "在评估碰撞事故受害者的生命体征时，应使用以下基本程序：首先检查受害者的气道是否通畅，然后检查他们是否呼吸，然后检查他们的循环（ABC）。",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "14",
         "catalog_id": "1",
         "question_text": "如果司机在道路上看到一个红色警告三角牌应该怎么做？",
@@ -312,6 +204,18 @@
         "image_name": "ABMW0223RU19.jpg"
     },
     {
+        "question_id": "18",
+        "catalog_id": "1",
+        "question_text": "在这种情况下想要右转的司机应该怎么做？",
+        "option_a": "继续直行或左转。",
+        "option_b": "从左车道右转。",
+        "option_c": "倒车并进入右车道。",
+        "option_d": "继续直行并做宽转弯到右边。",
+        "correct_answer": "A",
+        "explanation": "当你接近一个你想要右转的交叉路口时，你应该提前读路并及时占据转弯的正确位置。",
+        "image_name": "ABMW0306RU19.jpg"
+    },
+    {
         "question_id": "19",
         "catalog_id": "1",
         "question_text": "哪辆车，如果有的话，停放不当？",
@@ -322,6 +226,18 @@
         "correct_answer": "D",
         "explanation": "在人行横道前15米或后5米内停车是违法的。这样停车可能会限制接近横道的驾驶员的视野并危及行人。",
         "image_name": "ABMW0251.jpg"
+    },
+    {
+        "question_id": "20",
+        "catalog_id": "1",
+        "question_text": "哪辆车处于从次要道路右转进入主要道路的正确位置？",
+        "option_a": "1",
+        "option_b": "4",
+        "option_c": "3",
+        "option_d": "2",
+        "correct_answer": "A",
+        "explanation": "从次要道路向右转进入主要道路的正确位置是道路中心略偏左的位置。你应该及时占据正确的位置，并通过驶入主要道路的左侧来完成转弯。",
+        "image_name": "ABMW0312R.png"
     },
     {
         "question_id": "21",
@@ -492,18 +408,6 @@
         "image_name": "ABMW0242R.jpg"
     },
     {
-        "question_id": "452",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": "双车道结束。",
-        "option_b": "前方隧道。",
-        "option_c": "前方路面变窄",
-        "option_d": "对向来车有优先权。",
-        "correct_answer": "A",
-        "explanation": "这个标志预先警告双车道的结束。你将很快进入一条双向道路。",
-        "image_name": "ABMW0074.png"
-    },
-    {
         "question_id": "35",
         "catalog_id": "1",
         "question_text": "迟发信号如何影响其他道路使用者？",
@@ -588,18 +492,6 @@
         "image_name": "ABMW0237R.jpg"
     },
     {
-        "question_id": "100",
-        "catalog_id": "2",
-        "question_text": "在处理车祸受害者时，记住 A B C。A 代表什么？",
-        "option_a": "呼吸道。",
-        "option_b": "手臂。",
-        "option_c": "协助。",
-        "option_d": "事故。",
-        "correct_answer": "A",
-        "explanation": "在评估车祸受害者的生命体征时，应使用以下基本程序：首先检查受害者的呼吸道是否通畅，然后检查他们是否在呼吸，然后检查他们的循环（ABC）。",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "42",
         "catalog_id": "1",
         "question_text": "大雨过后，为什么司机应该与前车保持更大的距离？",
@@ -670,18 +562,6 @@
         "correct_answer": "C",
         "explanation": "当你接近背驼桥或山时，你应该知道前方可能有看不见的危险——例如，迎面超车的交通。你应该时刻观察前方道路，并准备好应对此类变化的交通情况。",
         "image_name": "loader.gif"
-    },
-    {
-        "question_id": "453",
-        "catalog_id": "10",
-        "question_text": "这个警察手势是什么意思？",
-        "option_a": "左转。",
-        "option_b": "如果从后面接近，请停车。",
-        "option_c": "如果从前面接近，请停车。",
-        "option_d": "右转。",
-        "correct_answer": "B",
-        "explanation": "当你接近做这个手势的警察时，你必须停下来。",
-        "image_name": "ABMW0153R.jpg"
     },
     {
         "question_id": "48",
@@ -900,6 +780,126 @@
         "image_name": "ABMW0224R.jpg"
     },
     {
+        "question_id": "66",
+        "catalog_id": "1",
+        "question_text": "What should a driver be aware of when following the motorcyclist, and the white car is reversing onto the road?",
+        "option_a": "The motorcyclist may signal the reversing driver to stop.",
+        "option_b": "The driver following the motorcycle may need a longer braking distance than normal.",
+        "option_c": "The brake lights on the motorcycle may not be working.",
+        "option_d": "The reversing driver will stop when they see the motorcyclist.",
+        "correct_answer": "B",
+        "explanation": "You should always keep a safe distance from the vehicle in front if it is slowing down or stopping. Always read the road and be prepared to react correctly to changes in the traffic ahead.",
+        "image_name": "ABMW0282RU19.jpg"
+    },
+    {
+        "question_id": "67",
+        "catalog_id": "1",
+        "question_text": "这位司机正在跟随这两辆车并希望超车 - 在这里超车之前司机需要考虑什么？",
+        "option_a": "司机的视野不够好，不足以安全超车。",
+        "option_b": " 银色车的司机可能会决定向右转。",
+        "option_c": " 道路标线禁止在这里超车。",
+        "option_d": " 司机应该一起超过两辆车。",
+        "correct_answer": "A",
+        "explanation": " 你应该始终确保前方道路畅通，这样才有足够的距离让你能够超车并且回到正确的路侧，无需迫使其他道路使用者改变速度或路线。在这种情况下，山丘的顶部太近，不允许司机安全超车。",
+        "image_name": "ABMW0239R.jpg"
+    },
+    {
+        "question_id": "68",
+        "catalog_id": "1",
+        "question_text": "在驾驶时，如果前面的巴士正在打左转信号，同时又有迎面而来的交通流，司机应该怎么做？",
+        "option_a": " 不要从右侧超车。",
+        "option_b": " 留在后面，让巴士完成转弯。",
+        "option_c": " 轻踩刹车并鸣喇叭，向其他车辆发出减速信号。",
+        "option_d": " 不要从左侧超车。",
+        "correct_answer": "B",
+        "explanation": " 总是让巴士完成左转，因为你的视野受限，试图超车可能会很危险。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "69",
+        "catalog_id": "1",
+        "question_text": "如果路边有小孩玩耍，司机应该怎么做",
+        "option_a": " 保持原速行驶，因为孩子们可以在这一点上非常清晰地看到来车。",
+        "option_b": " 加速并向道路的右侧移动以避开孩子。",
+        "option_c": " 减速，小心驾驶并随时准备刹车。",
+        "option_d": " 发出警告信号并以相同的速度驶过。",
+        "correct_answer": "C",
+        "explanation": " 因为很难预测孩子们的行为，你应该始终准备好应对交通情况的变化，并准备停车。",
+        "image_name": "ABMW0232R.jpg"
+    },
+    {
+        "question_id": "70",
+        "catalog_id": "1",
+        "question_text": "在白天，当司机驾车进入一个被树木枝叶密集遮蔽的区域时，可能会出现什么危险？",
+        "option_a": "轮胎气压可能会降低。",
+        "option_b": "车辆的挡风玻璃可能会起雾。",
+        "option_c": "车辆引擎可能会突然变冷。",
+        "option_d": "能见度可能会突然降低。",
+        "correct_answer": "D",
+        "explanation": "当你在明亮的阳光下驾驶后进入一个阴影密集的区域时，你的眼睛可能需要一些时间来适应变化，你可能会立即看不到前方的危险。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "71",
+        "catalog_id": "1",
+        "question_text": "当在这个路口右转时，司机应该做什么？ ",
+        "option_a": " 允许红车先行。 ",
+        "option_b": " 允许蓝车先行。 ",
+        "option_c": " 在两辆车之前先行。 ",
+        "option_d": " 允许两辆车先行。 ",
+        "correct_answer": "A",
+        "explanation": " 当您从主路右转进入辅路时，即使对向车辆也在转弯进入同一条道路，您也必须让在主路上的对向来车先行。",
+        "image_name": "ABMW0291R.jpg"
+    },
+    {
+        "question_id": "72",
+        "catalog_id": "1",
+        "question_text": "驾驶员在越过这个山头时应注意什么危险？ ",
+        "option_a": " 可能会有斑马线交叉路口。 ",
+        "option_b": " 有可能有车辆抛锚。 ",
+        "option_c": " 可能有高边车辆正在接近。 ",
+        "option_d": " 可能有安全摄像头在运作。 ",
+        "correct_answer": "B",
+        "explanation": " 在接近山头时，您应格外小心，并准备应对交通状况的变化。",
+        "image_name": "ABMW0273R.jpg"
+    },
+    {
+        "question_id": "73",
+        "catalog_id": "1",
+        "question_text": "当驾驶员在车流中行驶并且不打算超车时，他们应该怎么做？",
+        "option_a": " 靠近前车行驶。 ",
+        "option_b": " 向后面的车辆示意超车。 ",
+        "option_c": " 打左转向灯作为让后面的车辆超车的信号。 ",
+        "option_d": " 保持距离，为其他驾驶员超车留出空间。 ",
+        "correct_answer": "D",
+        "explanation": " 你应该始终在你的车辆和前车之间保持足够的距离。这将使你能够安全地停车（在你能看清的距离内）。它还将给超车的车辆足够的空间在超过你之后安全地并入到左侧车道。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "74",
+        "catalog_id": "1",
+        "question_text": "司机应该采取什么行动？",
+        "option_a": "在停车线停车。",
+        "option_b": "示意公共汽车继续行驶。",
+        "option_c": "在自行车前通行。",
+        "option_d": "在公共汽车前通行。",
+        "correct_answer": "A",
+        "explanation": "根据法律规定你必须在停车线处（如果没有停车线就在停车标志处）停车，并且等待其他交通清除后才能继续前行。",
+        "image_name": "ABMW0254R.jpg"
+    },
+    {
+        "question_id": "75",
+        "catalog_id": "1",
+        "question_text": "在这种情况下司机应该怎么做？",
+        "option_a": " 司机必须让橙色的车先过。",
+        "option_b": " 司机可以右转。",
+        "option_c": " 司机必须左转。",
+        "option_d": " 司机不允许右转。",
+        "correct_answer": "B",
+        "explanation": " 如果没有迎面而来的交通，你可以右转，但你也应该意识到可能会有交通从次要道路涌出。",
+        "image_name": "ABMW0234RU19.jpg"
+    },
+    {
         "question_id": "76",
         "catalog_id": "1",
         "question_text": "在这种情况下司机应该怎么做？",
@@ -1020,6 +1020,54 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "86",
+        "catalog_id": "1",
+        "question_text": "遇见闪烁的琥珀色信号灯的车辆时，驾驶员应该怎么做",
+        "option_a": " 增加速度并保持左行。",
+        "option_b": " 应减速并准备停车。",
+        "option_c": " 必须停车，因为它是一辆紧急车辆。",
+        "option_d": " 闪烁大灯以示对信号灯的认可。",
+        "correct_answer": "B",
+        "explanation": " 闪烁琥珀色信号灯通常由救援车辆和运载异常货物的车辆使用。您应该意识到这些车辆可能需要额外的空间，并且可能遮挡后面的来车。当您遇到这样的车辆时，应减速并做好必要时停车的准备。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "87",
+        "catalog_id": "1",
+        "question_text": "当面对这种情况时，司机应该怎么做？",
+        "option_a": " 司机应该为前面的车辆加速做好准备。",
+        "option_b": " 降低速度并随时准备刹车，因为人行道上的女孩可能会突然穿越马路。",
+        "option_c": " 司机可以超过汽车和女孩，因为道路上标有断续白线。",
+        "option_d": " 司机应该保持当前速度并减少与银色汽车的距离。",
+        "correct_answer": "B",
+        "explanation": " 预测其它道路使用者的行为通常很难。如果行人步入道路并且银色汽车突然停车，你应该做好准备。",
+        "image_name": "ABMW0249RU19.jpg"
+    },
+    {
+        "question_id": "88",
+        "catalog_id": "1",
+        "question_text": "在高速公路或双车道公路上可以追尾吗？",
+        "option_a": " 不可以，因为其他车辆没有空间超车。",
+        "option_b": " 不可以，因为前车可能会突然停车。",
+        "option_c": " 可以，因为所有交通都同时朝一个方向移动。",
+        "option_d": " 可以，因为有迎面而来的交通。",
+        "correct_answer": "B",
+        "explanation": " 如果你离前车太近，并且它突然刹车，你将没有足够的时间反应。因此，你应该始终与前车保持安全距离。在干燥天气下计算安全距离的一种方法是两秒钟规则：至少让两秒钟的时间流逝，然后你的车和前车通过一个固定点，比如灯柱或标志柱。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "89",
+        "catalog_id": "1",
+        "question_text": "司机在越过这座小山的顶端时应该预计哪些危险？",
+        "option_a": "可能前方没有道路标记。",
+        "option_b": "可能前方有一个公交车站。",
+        "option_c": "你的车道中可能有一辆慢速行驶的车辆。",
+        "option_d": "可能适用减速交通措施。",
+        "correct_answer": "C",
+        "explanation": "在接近山顶时，你应该格外小心，并准备好应对交通状况的变化。",
+        "image_name": "ABMW0272R.jpg"
+    },
+    {
         "question_id": "90",
         "catalog_id": "1",
         "question_text": "这个路口司机打算左转 - 司机应该怎么做？",
@@ -1116,6 +1164,42 @@
         "image_name": "ABMW0288R.jpg"
     },
     {
+        "question_id": "98",
+        "catalog_id": "2",
+        "question_text": "在处理撞车受害者时，记住 A B C。C 代表什么？",
+        "option_a": "循环。",
+        "option_b": "昏迷。",
+        "option_c": "咳嗽。",
+        "option_d": "冠状。",
+        "correct_answer": "A",
+        "explanation": "在评估碰撞事故受害者的生命体征时，应使用以下基本程序：首先检查受害者的气道是否通畅，然后检查他们是否呼吸，然后检查他们的循环（ABC）。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "99",
+        "catalog_id": "2",
+        "question_text": "在碰撞事故中有人受伤时，驾驶员应该怎么做?",
+        "option_a": " 将伤者移至路边。",
+        "option_b": " 将车辆挪开以避免造成阻碍。",
+        "option_c": " 仅当有火灾或进一步受伤的危险时才移动伤者。",
+        "option_d": " 始终移动伤者和车辆。",
+        "correct_answer": "C",
+        "explanation": " 除非存在火灾或进一步受伤的风险，否则永远不要在碰撞现场移动受伤者。移动伤者可能会加剧他们的伤害。受过训练的人员最知道如何照料受伤者。呼叫紧急服务（拨打999或112），或确保有其他人已经呼叫了他们。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "100",
+        "catalog_id": "2",
+        "question_text": "在处理车祸受害者时，记住 A B C。A 代表什么？",
+        "option_a": "呼吸道。",
+        "option_b": "手臂。",
+        "option_c": "协助。",
+        "option_d": "事故。",
+        "correct_answer": "A",
+        "explanation": "在评估车祸受害者的生命体征时，应使用以下基本程序：首先检查受害者的呼吸道是否通畅，然后检查他们是否在呼吸，然后检查他们的循环（ABC）。",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "101",
         "catalog_id": "2",
         "question_text": "如果驾驶员抵达一起涉及携带危险物品的车辆的碰撞现场，他们应该做什么？",
@@ -1164,16 +1248,16 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "454",
-        "catalog_id": "10",
-        "question_text": "这个手势是什么意思？",
-        "option_a": "自行车手打算穿过马路。",
-        "option_b": "自行车手打算左转。",
-        "option_c": "自行车手打算停下。",
-        "option_d": "自行车手在示意驾驶员停下。",
+        "question_id": "105",
+        "catalog_id": "2",
+        "question_text": "在车祸后，如果有人失去意识，司机应采取以下措施",
+        "option_a": " 尝试用毯子或大衣保暖,打电话给紧急服务（拨打999或112），或确保有人已经打了电话。",
+        "option_b": " 尝试让失去意识的人喝点东西。",
+        "option_c": " 抬起失去意识的人的头并保持这个位置。",
+        "option_d": " 立即将失去意识的人转移到最近的医院。",
         "correct_answer": "B",
-        "explanation": "这个手势告知其他道路使用者，自行车手打算左转。",
-        "image_name": "ABMW0145R.jpg"
+        "explanation": "正确的做法是用毛毯或外套保暖，等待急救人员到达。在得到专业医疗人员的建议之前，不应移动或给予任何饮料给伤者。",
+        "image_name": "loader.gif"
     },
     {
         "question_id": "106",
@@ -1197,6 +1281,66 @@
         "option_d": "尽可能靠右停车。",
         "correct_answer": "A",
         "explanation": "当一辆车抛锚时，重要的是为了其他道路使用者的便利和车辆乘员的安全，尽可能地靠左移动",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "108",
+        "catalog_id": "2",
+        "question_text": "在高速公路紧急电话上呼叫求助时，电话接通的是谁？",
+        "option_a": " Garda。",
+        "option_b": " 国家道路管理局。",
+        "option_c": " 国家安全委员会。",
+        "option_d": " 道路安全管理局。",
+        "correct_answer": "A",
+        "explanation": " 高速公路旁的紧急电话直接连线到An Garda Síochána，以便他们尽快作出适当的响应。加尔达通过这些电话准确知道每个呼叫的位置。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "109",
+        "catalog_id": "2",
+        "question_text": "当一个人在碰撞中受伤时，应该首先联系谁？",
+        "option_a": " 受伤者的保险公司。",
+        "option_b": " 受伤者的律师。",
+        "option_c": " 受伤者的亲属。",
+        "option_d": " 紧急服务部门。",
+        "correct_answer": "D",
+        "explanation": " 当有人在碰撞中受伤时，重要的是立即拨打紧急服务电话999或112。受过训练的紧急服务人员最知道如何照顾受伤者。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "110",
+        "catalog_id": "2",
+        "question_text": "在交通事故中受伤的人应该喝什么类型的饮料？ ",
+        "option_a": " 冷饮。",
+        "option_b": " 热饮。",
+        "option_c": " 非酒精饮料。",
+        "option_d": " 不应该给饮料。",
+        "correct_answer": "D",
+        "explanation": " 在交通事故中受伤的人不应该给予任何饮料，因为这可能会导致他们呛水。理想情况下，应先咨询受过培训的人员，再处理受伤者。拨打紧急服务电话（999或112），或确保有人已经拨打了这些电话。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "111",
+        "catalog_id": "2",
+        "question_text": "如果驾驶员在与另一辆车发生碰撞的情况下没有人受伤，应该采取什么措施？ ",
+        "option_a": " 不交换任何细节，但向爱尔兰国家警察报告事故。 ",
+        "option_b": " 与其他驾驶员交换所有相关细节。 ",
+        "option_c": " 仅向对方提供姓名和地址。 ",
+        "option_d": " 向爱尔兰保险局提交书面报告。 ",
+        "correct_answer": "B",
+        "explanation": " 如果驾驶员在与另一辆车发生碰撞的情况下没有人受伤，应该与其他驾驶员交换所有相关细节 - 包括姓名、地址、车辆注册、制造和型号以及所有保险详细信息。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "112",
+        "catalog_id": "2",
+        "question_text": "当司机涉及仅对财产造成损害的事件时应该怎么办？",
+        "option_a": "如果已经向财产所有者报告了此事件，那么就没有必要向爱尔兰国家警察（Gardaí）报告。",
+        "option_b": "如果车辆没有损害，那么无需报告此事件。",
+        "option_c": "必须在48小时内同时向财产所有者和爱尔兰国家警察报告此事件。",
+        "option_d": "只需在10天内向爱尔兰国家警察报告此事件。",
+        "correct_answer": "A",
+        "explanation": "如果事件仅对财产造成损害，并且现场有爱尔兰国家警察在场，必须向爱尔兰国家警察报告。如果现场没有警察在场，必须通知财产的所有者或负责人。如果这两者都不在现场，那么必须尽快在爱尔兰国家警察局提供相关信息。",
         "image_name": "loader.gif"
     },
     {
@@ -1282,18 +1426,6 @@
         "correct_answer": "B",
         "explanation": "在紧急情况下，为了停车，牢牢踩下脚刹，并保持压力直到车辆停下。在停车前刹那踩下离合器。",
         "image_name": "loader.gif"
-    },
-    {
-        "question_id": "455",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": "前方有儿童游戏区。",
-        "option_b": "前方有儿童游戏区。",
-        "option_c": "前方有行人过街。",
-        "option_d": "前方有学校。",
-        "correct_answer": "D",
-        "explanation": "这个标志提前警告前方有学校。您应当调整速度并相应反应，因为该区域可能有儿童。",
-        "image_name": "ABMW0091RU19.png"
     },
     {
         "question_id": "120",
@@ -1620,18 +1752,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "240",
-        "catalog_id": "7",
-        "question_text": "如果驾驶员想要驾驶一辆车，但是车辆税盘已经过期，他们应该怎么做？",
-        "option_a": "应该在过期后10天内续费。",
-        "option_b": "应该联系加尔达（GardaÍ）获得批准。",
-        "option_c": "应该立即缴税。",
-        "option_d": "只有在紧急情况下才可以驾驶。",
-        "correct_answer": "C",
-        "explanation": "机动车辆必须缴税并且必须在上路前显示最新的税盘。",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "147",
         "catalog_id": "4",
         "question_text": "当在高速公路或快速路上行驶时，驾驶员应该做什么？",
@@ -1944,18 +2064,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "241",
-        "catalog_id": "7",
-        "question_text": "驾驶员在公共道路上行驶需要的最低保险覆盖是什么？",
-        "option_a": "第三方、火灾和盗窃。",
-        "option_b": "个人意外。",
-        "option_c": "第三方。",
-        "option_d": "全面。",
-        "correct_answer": "C",
-        "explanation": "作为一名驾驶员，您必须至少有第三方保险。",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "173",
         "catalog_id": "5",
         "question_text": "驾驶时，冰冷的道路对车辆会有什么影响？",
@@ -2100,6 +2208,54 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "185",
+        "catalog_id": "5",
+        "question_text": "柴油洒在路面上会有什么影响？ ",
+        "option_a": " 它会增加轮胎噪音。 ",
+        "option_b": " 它能提高车辆的制动能力。 ",
+        "option_c": " 它能提高轮胎在弯道上的抓地力。 ",
+        "option_d": " 它会让路面更加滑。 ",
+        "correct_answer": "D",
+        "explanation": " 柴油洒在路面上能让路面变得极其滑，特别是如果路面是湿的话。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "186",
+        "catalog_id": "5",
+        "question_text": "深夜驾车时，司机应注意什么？",
+        "option_a": " 午夜至清晨6点之间不适用速度限制。",
+        "option_b": " 所有行人都将穿着高能见度的衣服。",
+        "option_c": " 卡车可以在高速公路的最外侧车道行驶。",
+        "option_d": " 存在自己或其他驾驶员犯困的危险。",
+        "correct_answer": "D",
+        "explanation": " 疲劳驾驶可能非常危险，驾驶员疲劳是导致严重道路碰撞的主要原因之一。如果驾驶员在驾驶过程中感到困倦，他们应该在安全的地方停下来，喝含咖啡因的饮料并小睡片刻。之后他们应该出去呼吸新鲜空气，并且伸展腿脚几分钟再继续上路。疲劳的唯一解决办法是充足的睡眠。切勿在疲劳时驾车。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "187",
+        "catalog_id": "5",
+        "question_text": "驾驶员夜间跟随其他车辆行驶时应开启哪些灯光？ ",
+        "option_a": " 前雾灯。 ",
+        "option_b": " 远光大灯。 ",
+        "option_c": " 示廓灯。 ",
+        "option_d": " 近光大灯。 ",
+        "correct_answer": "D",
+        "explanation": " 驾驶员在夜间跟随其他车辆行驶时应将近光大灯调低，以免前方驾驶员在后视镜中被您的灯光闪到。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "188",
+        "catalog_id": "5",
+        "question_text": "当道路湿滑时，司机应该如何谨慎驾驶以通过陡峭的山坡或拱背桥？ ",
+        "option_a": " 仅踩离合器。 ",
+        "option_b": " 同时踩离合器和刹车。 ",
+        "option_c": " 挂空挡。 ",
+        "option_d": " 极其小心驾驶。 ",
+        "correct_answer": "D",
+        "explanation": " 在湿滑条件下通过陡峭的山坡或拱背桥时要特别小心。缓慢减速接近，在车辆速度合适的情况下选择正确的挡位，并轻柔地使用转向和加速。",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "189",
         "catalog_id": "5",
         "question_text": "在冰面路上驾驶时最安全的做法是什么？",
@@ -2170,18 +2326,6 @@
         "correct_answer": "B",
         "explanation": "在潮湿和多风的条件下驾车时，司机应注意这些条件可能会影响摩托车手或骑车人等易受影响的道路使用者的稳定性。特别是在开阔和暴露的地区，这些道路使用者可能会被吹到司机的道路上。",
         "image_name": "BW0004RU19.jpg"
-    },
-    {
-        "question_id": "276",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": "车道之间的障碍结束。",
-        "option_b": "两侧交通汇合。",
-        "option_c": "前方双车道结束。",
-        "option_d": "两侧道路变窄。",
-        "correct_answer": "D",
-        "explanation": "这个道路施工警告标志告诉你，两侧道路变窄，形成潜在的危险。准备减速并格外小心驾驶。",
-        "image_name": "ABMW0120RU19.png"
     },
     {
         "question_id": "195",
@@ -2352,18 +2496,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "333",
-        "catalog_id": "10",
-        "question_text": "这个交通信号灯是什么意思？",
-        "option_a": "如果路况明朗，交通可以继续行驶。",
-        "option_b": "交通必须在交通信号灯处停止。",
-        "option_c": "交通可以继续行驶但不得右转。",
-        "option_d": "对任何右转的迎面交通让路。",
-        "correct_answer": "A",
-        "explanation": "如果安全的话，你可以在绿色交通信号灯亮起时继续行驶。",
-        "image_name": "ABMW0177R.png"
-    },
-    {
         "question_id": "209",
         "catalog_id": "6",
         "question_text": "什么时候禁止使用喇叭？",
@@ -2409,6 +2541,18 @@
         "option_d": "通过减少氡水平。",
         "correct_answer": "B",
         "explanation": "一氧化碳是汽车尾气排放到大气中的有毒气体。经济驾驶和保持车辆良好维护可以减少一氧化碳排放量。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "213",
+        "catalog_id": "6",
+        "question_text": "驾驶员应如何做才能使他们的车辆最大限度地减少燃油消耗？ ",
+        "option_a": " 接近红绿灯时硬刹车以快速停车。 ",
+        "option_b": " 在低档位中温和驾驶。 ",
+        "option_c": " 使用平稳的加速和刹车。 ",
+        "option_d": " 变档之间使用最大加速度。 ",
+        "correct_answer": "C",
+        "explanation": " 平稳驾驶将有助于减少燃油消耗。提前阅读路况并及时调整速度，避免剧烈加速和急刹车。",
         "image_name": "loader.gif"
     },
     {
@@ -2506,18 +2650,6 @@
         "correct_answer": "D",
         "explanation": "环保驾驶风格的诸多优势之一，包括提高燃油效率、减少排放和提升驾驶安全。因为环保意识强的驾驶者学会了更远距离地阅读道路并展示出更好的预判技能，从而使他们成为更为高效的驾驶者。这降低了急加速和急刹车的需要，从而实现了更经济的驾驶方式和更平稳的旅程。",
         "image_name": "loader.gif"
-    },
-    {
-        "question_id": "334",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": "前方是单行道。",
-        "option_b": "前方有危险转角。",
-        "option_c": "前方有危险弯道。",
-        "option_d": "左侧有路口。",
-        "correct_answer": "B",
-        "explanation": "这个标志提前预警左边有一个危险转角。你可能需要减速并对前方交通情况的变化做出反应。",
-        "image_name": "ABMW0066U19.png"
     },
     {
         "question_id": "222",
@@ -2736,6 +2868,30 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "240",
+        "catalog_id": "7",
+        "question_text": "如果驾驶员想要驾驶一辆车，但是车辆税盘已经过期，他们应该怎么做？",
+        "option_a": "应该在过期后10天内续费。",
+        "option_b": "应该联系加尔达（GardaÍ）获得批准。",
+        "option_c": "应该立即缴税。",
+        "option_d": "只有在紧急情况下才可以驾驶。",
+        "correct_answer": "C",
+        "explanation": "机动车辆必须缴税并且必须在上路前显示最新的税盘。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "241",
+        "catalog_id": "7",
+        "question_text": "驾驶员在公共道路上行驶需要的最低保险覆盖是什么？",
+        "option_a": "第三方、火灾和盗窃。",
+        "option_b": "个人意外。",
+        "option_c": "第三方。",
+        "option_d": "全面。",
+        "correct_answer": "C",
+        "explanation": "作为一名驾驶员，您必须至少有第三方保险。",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "242",
         "catalog_id": "8",
         "question_text": "想要做U形转弯的驾驶员应该怎么做？",
@@ -2820,18 +2976,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "356",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": "进入高速公路。",
-        "option_b": "前方低桥。",
-        "option_c": "高速公路终点。",
-        "option_d": "前方收费桥。",
-        "correct_answer": "A",
-        "explanation": "这是一个高速公路信息标志，通知道路使用者他们现在正在进入高速公路并必须遵守高速公路规则。这个标志通常出现在高速公路前方标志旁边。",
-        "image_name": "ABMW0109RU19.png"
-    },
-    {
         "question_id": "249",
         "catalog_id": "8",
         "question_text": "当驾驶员在一个能见度极其有限的路口时，应该怎么做？",
@@ -2902,18 +3046,6 @@
         "correct_answer": "B",
         "explanation": "超车后，检查你的后视镜，打信号灯，并在安全的情况下尽快返回到你的正常车道位置。平滑地移回到你的车道，给其他车辆足够的空间，不要猛地切入。",
         "image_name": "loader.gif"
-    },
-    {
-        "question_id": "456",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": "前方有一系列弯路。",
-        "option_b": "前方有陡峭的山路。",
-        "option_c": "从右侧开始道路变窄。",
-        "option_d": "前方路面湿滑。",
-        "correct_answer": "D",
-        "explanation": "这个标志提前警告可能会遇到湿滑的道路表面的潜在危险。",
-        "image_name": "ABMW0088U19.png"
     },
     {
         "question_id": "255",
@@ -2997,18 +3129,6 @@
         "option_d": "在前车通过一个固定点和驾驶员自己的车辆通过之间至少让两秒钟时间流逝。",
         "correct_answer": "A",
         "explanation": "在潮湿条件下，你应该至少保持四秒钟的间隔距离追随前面的车辆 - 至少是干燥条件下的两倍。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "376",
-        "catalog_id": "10",
-        "question_text": "除非另有说明，国道上汽车或摩托车的最高允许速度是多少？",
-        "option_a": "120公里/小时。",
-        "option_b": "80公里/小时。",
-        "option_c": "100公里/小时。",
-        "option_d": "60公里/小时。",
-        "correct_answer": "C",
-        "explanation": "在单车道国道上驾驶时，超过100公里/小时是违法的。",
         "image_name": "loader.gif"
     },
     {
@@ -3172,6 +3292,30 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "275",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "只有向上的交通。",
+        "option_b": "前方陡峭的上坡。",
+        "option_c": "前方陡峭的下坡。",
+        "option_d": "前方是拱背桥。",
+        "correct_answer": "B",
+        "explanation": "这个标志预先警示前方有陡峭的上坡/上行的斜坡。您应通过选择合适的档位来做出反应。",
+        "image_name": "ABMW0077U19.png"
+    },
+    {
+        "question_id": "276",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "车道之间的障碍结束。",
+        "option_b": "两侧交通汇合。",
+        "option_c": "前方双车道结束。",
+        "option_d": "两侧道路变窄。",
+        "correct_answer": "D",
+        "explanation": "这个道路施工警告标志告诉你，两侧道路变窄，形成潜在的危险。准备减速并格外小心驾驶。",
+        "image_name": "ABMW0120RU19.png"
+    },
+    {
         "question_id": "277",
         "catalog_id": "10",
         "question_text": "这个标志是什么意思？",
@@ -3268,6 +3412,30 @@
         "image_name": "ABMW0056RU19.png"
     },
     {
+        "question_id": "285",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "只有双层巴士。",
+        "option_b": "逆向公交车道。",
+        "option_c": "双向交通系统。",
+        "option_d": "顺向公交车道。",
+        "correct_answer": "B",
+        "explanation": "这个标志告诉你必须靠左行驶，不得使用逆向公交车道，无论是白天还是晚上。逆向公交车道指的是公交车与其他车辆行驶方向相反的车道。",
+        "image_name": "ABMW0046U19.png"
+    },
+    {
+        "question_id": "286",
+        "catalog_id": "10",
+        "question_text": "除非另有指示，拖拽拖车的汽车在国道上的最大允许速度是多少？",
+        "option_a": "120 公里/小时。",
+        "option_b": "100 公里/小时。",
+        "option_c": "80 公里/小时。",
+        "option_d": "60 公里/小时。",
+        "correct_answer": "C",
+        "explanation": "在国道上拖拽拖车时，超过 80 公里/小时是非法的 - 超速将使车辆不稳定。",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "287",
         "catalog_id": "10",
         "question_text": "哪些灯光表示有斑马线？",
@@ -3362,18 +3530,6 @@
         "correct_answer": "D",
         "explanation": "这个标志提前警告前方有一个无门或栏杆看守的铁路平交道。这是一个没有门或栏杆的平交道，你应该非常小心地穿过它。",
         "image_name": "ABMW0080R.png"
-    },
-    {
-        "question_id": "417",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": "前方有牛栅。",
-        "option_b": "前方可能有牛或农场动物。",
-        "option_c": "前方有牲畜市场。",
-        "option_d": "前方有兽医手术室。",
-        "correct_answer": "B",
-        "explanation": "这个标志提前警告前方道路上可能有牛或其他农场动物。如果需要，请减速并准备停车。",
-        "image_name": "ABMW0096U19.png"
     },
     {
         "question_id": "295",
@@ -3604,18 +3760,6 @@
         "image_name": "ABMW0057RU19.png"
     },
     {
-        "question_id": "335",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": "除显示时间外，圆盘停车有效。",
-        "option_b": "圆盘停车在显示时间内有效。",
-        "option_c": "在显示的时间内，无需圆盘也可以停车。",
-        "option_d": "在显示的时间内禁止停车。",
-        "correct_answer": "B",
-        "explanation": "这个标志告诉您，车辆在信息牌所示的时间内停放时必须显示停车圆盘。",
-        "image_name": "ABMW0028U19.png"
-    },
-    {
         "question_id": "314",
         "catalog_id": "10",
         "question_text": "在环岛处，这个标志是什么意思？",
@@ -3844,16 +3988,40 @@
         "image_name": "ABMW0117RU19.png"
     },
     {
-        "question_id": "460",
+        "question_id": "333",
+        "catalog_id": "10",
+        "question_text": "这个交通信号灯是什么意思？",
+        "option_a": "如果路况明朗，交通可以继续行驶。",
+        "option_b": "交通必须在交通信号灯处停止。",
+        "option_c": "交通可以继续行驶但不得右转。",
+        "option_d": "对任何右转的迎面交通让路。",
+        "correct_answer": "A",
+        "explanation": "如果安全的话，你可以在绿色交通信号灯亮起时继续行驶。",
+        "image_name": "ABMW0177R.png"
+    },
+    {
+        "question_id": "334",
         "catalog_id": "10",
         "question_text": "这个标志是什么意思？",
-        "option_a": "前方路面不平。",
-        "option_b": "前方有一系列陡峭的山丘。",
-        "option_c": "前方有管道铺设。",
-        "option_d": "前方有工业区。",
-        "correct_answer": "A",
-        "explanation": "这个道路工程警示标志告诉您前方的路面不平，并且您应该小心驾驶。",
-        "image_name": "ABMW0116.png"
+        "option_a": "前方是单行道。",
+        "option_b": "前方有危险转角。",
+        "option_c": "前方有危险弯道。",
+        "option_d": "左侧有路口。",
+        "correct_answer": "B",
+        "explanation": "这个标志提前预警左边有一个危险转角。你可能需要减速并对前方交通情况的变化做出反应。",
+        "image_name": "ABMW0066U19.png"
+    },
+    {
+        "question_id": "335",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "除显示时间外，圆盘停车有效。",
+        "option_b": "圆盘停车在显示时间内有效。",
+        "option_c": "在显示的时间内，无需圆盘也可以停车。",
+        "option_d": "在显示的时间内禁止停车。",
+        "correct_answer": "B",
+        "explanation": "这个标志告诉您，车辆在信息牌所示的时间内停放时必须显示停车圆盘。",
+        "image_name": "ABMW0028U19.png"
     },
     {
         "question_id": "336",
@@ -3902,6 +4070,66 @@
         "correct_answer": "A",
         "explanation": "这个手势通知其他路用户驾驶员打算变道或向右转，车辆将会改变方向。",
         "image_name": "ABMW0147R.png"
+    },
+    {
+        "question_id": "340",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": " 禁止狩猎。",
+        "option_b": " 前方有鹿狩猎。",
+        "option_c": " 前方有鹿或野生动物。",
+        "option_d": " 野生动物保护区 - 禁止停车。",
+        "correct_answer": "C",
+        "explanation": " 这个标志预警可能会有鹿或其他野生动物走上道路。如果需要，请准备减速或突然停车。",
+        "image_name": "ABMW0098U19.png"
+    },
+    {
+        "question_id": "341",
+        "catalog_id": "10",
+        "question_text": "驾驶员什么时候应该使用近光灯？ ",
+        "option_a": " 当能见度小于300米时。 ",
+        "option_b": " 当能见度小于200米时。 ",
+        "option_c": " 从00:00小时到06:00小时。 ",
+        "option_d": " 从黄昏后不久到黎明前不久。 ",
+        "correct_answer": "D",
+        "explanation": " 点亮灯光的时间被定义为驾驶员应该打开近光灯以便被看见的时段。这段时间通常从日落后半小时开始，到日出前半小时结束。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "342",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？ ",
+        "option_a": " 前方右侧车辆抛锚。",
+        "option_b": " 前方左侧洪水。",
+        "option_c": " 路面有松散碎石。",
+        "option_d": " 左侧路面不平。",
+        "correct_answer": "C",
+        "explanation": " 这个道路施工警告标志告诉您，前方路面已重新铺设，可能会有松散的碎石。您在通过此区域时应该减速行驶，因为松散的碎石可能会影响您的车辆的抓地力和制动。",
+        "image_name": "ABMW6.png"
+    },
+    {
+        "question_id": "343",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？ ",
+        "option_a": " 前方500米有低矮桥梁。 ",
+        "option_b": " 高速公路在前方500米结束。 ",
+        "option_c": " 桥梁修理在前方500米。 ",
+        "option_d": " 前方500米禁止超车。 ",
+        "correct_answer": "B",
+        "explanation": " 这是一个高速公路信息标志，告诉你高速公路将在前方500米后结束。高速公路的规则将不再适用，例如可能适用较低的速度限制。",
+        "image_name": "ABMW0110U19.png"
+    },
+    {
+        "question_id": "344",
+        "catalog_id": "10",
+        "question_text": "除非另有指示，拖着旅行拖车的汽车在国道上的最大允许速度是多少？",
+        "option_a": " 80公里/小时。",
+        "option_b": " 120公里/小时。",
+        "option_c": " 100公里/小时。",
+        "option_d": " 60公里/小时。",
+        "correct_answer": "A",
+        "explanation": " 在国道上拖着旅行拖车时，超过80公里/小时是违法的 - 过快的速度会使这种车辆不稳定。",
+        "image_name": "loader.gif"
     },
     {
         "question_id": "345",
@@ -4036,16 +4264,16 @@
         "image_name": "ABMW0160U19.png"
     },
     {
-        "question_id": "618",
-        "catalog_id": "15",
-        "question_text": "一般来说，拖车的总重量超过多少必须安装刹车？",
-        "option_a": "850公斤",
-        "option_b": "750公斤",
-        "option_c": "900公斤",
-        "option_d": "500公斤",
-        "correct_answer": "B",
-        "explanation": "如果拖车的总重量超过750公斤或拖车车辆重量的一半，则必须装备刹车。",
-        "image_name": "loader.gif"
+        "question_id": "356",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "进入高速公路。",
+        "option_b": "前方低桥。",
+        "option_c": "高速公路终点。",
+        "option_d": "前方收费桥。",
+        "correct_answer": "A",
+        "explanation": "这是一个高速公路信息标志，通知道路使用者他们现在正在进入高速公路并必须遵守高速公路规则。这个标志通常出现在高速公路前方标志旁边。",
+        "image_name": "ABMW0109RU19.png"
     },
     {
         "question_id": "357",
@@ -4106,6 +4334,18 @@
         "correct_answer": "C",
         "explanation": "这个标志告诉您该路段法定的最大行车速度限制是每小时100公里。",
         "image_name": "ABMW0023U19.png"
+    },
+    {
+        "question_id": "362",
+        "catalog_id": "10",
+        "question_text": "这个警察信号是什么意思？",
+        "option_a": "左转。",
+        "option_b": "如果从前方接近，则可通行。",
+        "option_c": "如果从前方或后方接近，则停止。",
+        "option_d": "右转。",
+        "correct_answer": "C",
+        "explanation": "当你接近一个发出此信号的警察时，你必须停下。",
+        "image_name": "ABMW0154R.jpg"
     },
     {
         "question_id": "363",
@@ -4262,6 +4502,18 @@
         "correct_answer": "B",
         "explanation": "这些标志通常在居民区显示，它们提前警告可能会有孩子在前方横穿马路。你应该谨慎驾驶，并准备突然停车。",
         "image_name": "ABMW0094U19.png"
+    },
+    {
+        "question_id": "376",
+        "catalog_id": "10",
+        "question_text": "除非另有说明，国道上汽车或摩托车的最高允许速度是多少？",
+        "option_a": "120公里/小时。",
+        "option_b": "80公里/小时。",
+        "option_c": "100公里/小时。",
+        "option_d": "60公里/小时。",
+        "correct_answer": "C",
+        "explanation": "在单车道国道上驾驶时，超过100公里/小时是违法的。",
+        "image_name": "loader.gif"
     },
     {
         "question_id": "377",
@@ -4504,6 +4756,78 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "397",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "前方有三条车道。",
+        "option_b": "前方有交叉交通。",
+        "option_c": "距离下一个出口三百米。",
+        "option_d": "仅限三辆车停车。",
+        "correct_answer": "C",
+        "explanation": "这是一个高速公路信息标志，告诉你下一个高速公路出口在300米前。",
+        "image_name": "ABMW0112R.png"
+    },
+    {
+        "question_id": "398",
+        "catalog_id": "10",
+        "question_text": "在接近收费站时，这个标志是什么意思？",
+        "option_a": "这条车道只接受欧元支付。",
+        "option_b": "这条车道不接受电子收费。",
+        "option_c": "这条车道的电子收费不可用。",
+        "option_d": "任何车道均接受电子收费。",
+        "correct_answer": "D",
+        "explanation": "这个标志用于收费站，指导车辆驶入电子收费车道。当车辆通过收费站时，通过安装在挡风玻璃上的电子标签识别。费用将通过用户账户收取。只有装有标签的车辆才能使用这些车道。",
+        "image_name": "ABMW5U19.jpg"
+    },
+    {
+        "question_id": "399",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "前方无桥。",
+        "option_b": "结束高架桥区域。",
+        "option_c": "结束高速公路。",
+        "option_d": "禁止超车。",
+        "correct_answer": "C",
+        "explanation": "这个标志表示高速公路的终点。您将离开高速公路，其规则不再适用。",
+        "image_name": "ABMW0111RU19.png"
+    },
+    {
+        "question_id": "400",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "当前方车辆显示刹车灯时，驾驶员必须停车。",
+        "option_b": "当红灯亮时，驾驶员必须停车。",
+        "option_c": "突出车辆有优先权。必要时驾驶员必须停车。",
+        "option_d": "停车并等待绿灯亮起后再行驶。",
+        "correct_answer": "B",
+        "explanation": "这个标志预先警告你必须在红灯亮起时停车。这个标志可能显示在铁路平交道口。",
+        "image_name": "ABMW0083.png"
+    },
+    {
+        "question_id": "401",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "Y型路口，主路向左转。",
+        "option_b": "Y型路口，重型车辆必须向左转。",
+        "option_c": "Y型路口，主路向右转。",
+        "option_d": "Y型路口，车辆必须向左转。",
+        "correct_answer": "A",
+        "explanation": "这个标志预先警告前方有一个与次要道路的Y型路口。Y型的较宽的一臂表明主路的走向。",
+        "image_name": "ABMW0052RU19.png"
+    },
+    {
+        "question_id": "402",
+        "catalog_id": "10",
+        "question_text": "驾驶员是否可以在进入物业的入口处停车？",
+        "option_a": "可以，但需得到物业主人的同意。",
+        "option_b": "可以，在营业时间外。",
+        "option_c": "可以，在23.30至07.00之间停1小时。",
+        "option_d": "可以，在07.00至23.30之间停1小时。",
+        "correct_answer": "A",
+        "explanation": "你只能在得到物业主人同意的情况下才能停在进入物业的入口处。停在入口处可能会给进出物业的人带来不便和危险。",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "403",
         "catalog_id": "10",
         "question_text": "这个交通灯是什么意思？",
@@ -4670,6 +4994,18 @@
         "correct_answer": "C",
         "explanation": "这个标志表示右侧有一个顺行巴士专用车道。在规定的运营时间内，只有巴士、出租车和自行车可以使用巴士车道。",
         "image_name": "ABMW0044RAU19.png"
+    },
+    {
+        "question_id": "417",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "前方有牛栅。",
+        "option_b": "前方可能有牛或农场动物。",
+        "option_c": "前方有牲畜市场。",
+        "option_d": "前方有兽医手术室。",
+        "correct_answer": "B",
+        "explanation": "这个标志提前警告前方道路上可能有牛或其他农场动物。如果需要，请减速并准备停车。",
+        "image_name": "ABMW0096U19.png"
     },
     {
         "question_id": "418",
@@ -5044,6 +5380,126 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "449",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？ ",
+        "option_a": " 最高时速是60公里/小时。 ",
+        "option_b": " 停车不得超过60分钟。 ",
+        "option_c": " 距离交叉口60米。 ",
+        "option_d": " 最低时速是60公里/小时。 ",
+        "correct_answer": "A",
+        "explanation": " 这个标志告诉您，这段路的最高法定速度限制是60公里/小时。",
+        "image_name": "ABMW0021U19.png"
+    },
+    {
+        "question_id": "450",
+        "catalog_id": "10",
+        "question_text": "这条路标和信息板的含义是什么？",
+        "option_a": " 仅在所示的时间和日期停车。",
+        "option_b": " 在所示的时间和日期之外只有出租车停车。",
+        "option_c": " 在所示的时间和日期不允许停车。",
+        "option_d": " 在所示的时间和日期只有出租车停车。",
+        "correct_answer": "C",
+        "explanation": " 路边的单黄线意味着在信息板上显示的时间内你不得在那里停车。",
+        "image_name": "ABMW0163RU19.png"
+    },
+    {
+        "question_id": "451",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": " 只能右转。",
+        "option_b": " 前方右侧有改道。",
+        "option_c": " 只能从右侧超车。",
+        "option_d": " 主要道路从左侧汇入。",
+        "correct_answer": "A",
+        "explanation": " 这个标志告诉你必须右转。它通常出现在所有交通都必须右转的路口 - 例如，在包含路口的单行道系统中。",
+        "image_name": "ABMW0008U19.png"
+    },
+    {
+        "question_id": "452",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "双车道结束。",
+        "option_b": "前方隧道。",
+        "option_c": "前方路面变窄",
+        "option_d": "对向来车有优先权。",
+        "correct_answer": "A",
+        "explanation": "这个标志预先警告双车道的结束。你将很快进入一条双向道路。",
+        "image_name": "ABMW0074.png"
+    },
+    {
+        "question_id": "453",
+        "catalog_id": "10",
+        "question_text": "这个警察手势是什么意思？",
+        "option_a": "左转。",
+        "option_b": "如果从后面接近，请停车。",
+        "option_c": "如果从前面接近，请停车。",
+        "option_d": "右转。",
+        "correct_answer": "B",
+        "explanation": "当你接近做这个手势的警察时，你必须停下来。",
+        "image_name": "ABMW0153R.jpg"
+    },
+    {
+        "question_id": "454",
+        "catalog_id": "10",
+        "question_text": "这个手势是什么意思？",
+        "option_a": "自行车手打算穿过马路。",
+        "option_b": "自行车手打算左转。",
+        "option_c": "自行车手打算停下。",
+        "option_d": "自行车手在示意驾驶员停下。",
+        "correct_answer": "B",
+        "explanation": "这个手势告知其他道路使用者，自行车手打算左转。",
+        "image_name": "ABMW0145R.jpg"
+    },
+    {
+        "question_id": "455",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "前方有儿童游戏区。",
+        "option_b": "前方有儿童游戏区。",
+        "option_c": "前方有行人过街。",
+        "option_d": "前方有学校。",
+        "correct_answer": "D",
+        "explanation": "这个标志提前警告前方有学校。您应当调整速度并相应反应，因为该区域可能有儿童。",
+        "image_name": "ABMW0091RU19.png"
+    },
+    {
+        "question_id": "456",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "前方有一系列弯路。",
+        "option_b": "前方有陡峭的山路。",
+        "option_c": "从右侧开始道路变窄。",
+        "option_d": "前方路面湿滑。",
+        "correct_answer": "D",
+        "explanation": "这个标志提前警告可能会遇到湿滑的道路表面的潜在危险。",
+        "image_name": "ABMW0088U19.png"
+    },
+    {
+        "question_id": "457",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？ ",
+        "option_a": " 前方道路向左和向右关闭。 ",
+        "option_b": " 前方有交通减速坡。 ",
+        "option_c": " 前方有重要程度相同的交叉道口。 ",
+        "option_d": " 左右两侧都是死胡同 ",
+        "correct_answer": "C",
+        "explanation": " 这个标志提前警告有一个前方左右交错的路口。请注意，可能会有车辆从这些道路进入。",
+        "image_name": "ABMW0053R.png"
+    },
+    {
+        "question_id": "458",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？ ",
+        "option_a": " 前方右转弯道。 ",
+        "option_b": " 你必须在前方右转。 ",
+        "option_c": " 前方急转弯向右。 ",
+        "option_d": " 前方单行道向右。 ",
+        "correct_answer": "B",
+        "explanation": " 这个标志告诉你必须在前方右转。它通常设置在进入单行系统的路口前。",
+        "image_name": "ABMW0010U19.png"
+    },
+    {
         "question_id": "459",
         "catalog_id": "10",
         "question_text": "这些标志一起代表什么含义？",
@@ -5054,6 +5510,18 @@
         "correct_answer": "B",
         "explanation": "当这些标志一起出现时，它们告诉你前方有一个步行街，并且除了信息板上说明的时间外，不允许车辆进入。",
         "image_name": "ABMW0033RU19.png"
+    },
+    {
+        "question_id": "460",
+        "catalog_id": "10",
+        "question_text": "这个标志是什么意思？",
+        "option_a": "前方路面不平。",
+        "option_b": "前方有一系列陡峭的山丘。",
+        "option_c": "前方有管道铺设。",
+        "option_d": "前方有工业区。",
+        "correct_answer": "A",
+        "explanation": "这个道路工程警示标志告诉您前方的路面不平，并且您应该小心驾驶。",
+        "image_name": "ABMW0116.png"
     },
     {
         "question_id": "461",
@@ -5272,18 +5740,6 @@
         "image_name": "ABMW0166RU19.png"
     },
     {
-        "question_id": "644",
-        "catalog_id": "15",
-        "question_text": "在车辆更换轮胎后，以下哪项应该很快再次检查？",
-        "option_a": "刹车片间隙。",
-        "option_b": "轮胎胎面深度。",
-        "option_c": "气门。",
-        "option_d": "车轮螺母。",
-        "correct_answer": "D",
-        "explanation": "在车辆更换轮胎后，建议在短途驾驶后检查车轮螺母，确保它们仍然被正确固定。",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "479",
         "catalog_id": "10",
         "question_text": "在交通灯中，一个闪烁的琥珀色箭头向左指是什么意思？",
@@ -5437,18 +5893,6 @@
         "option_d": "140欧",
         "correct_answer": "C",
         "explanation": "学车者需要知道，如果他们因独自驾驶被警察拦下，会导致经济处罚。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "534",
-        "catalog_id": "13",
-        "question_text": "在倒车前，驾驶者应该做什么特别观察？",
-        "option_a": "向后和两肩之上看。",
-        "option_b": "只看右肩之上。",
-        "option_c": "只看门镜。",
-        "option_d": "只看内部后视镜。",
-        "correct_answer": "A",
-        "explanation": "倒车前，要向后和两肩之上看，检查周围是否有儿童或其他道路使用者，确保倒车安全。",
         "image_name": "loader.gif"
     },
     {
@@ -5956,6 +6400,18 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "534",
+        "catalog_id": "13",
+        "question_text": "在倒车前，驾驶者应该做什么特别观察？",
+        "option_a": "向后和两肩之上看。",
+        "option_b": "只看右肩之上。",
+        "option_c": "只看门镜。",
+        "option_d": "只看内部后视镜。",
+        "correct_answer": "A",
+        "explanation": "倒车前，要向后和两肩之上看，检查周围是否有儿童或其他道路使用者，确保倒车安全。",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "535",
         "catalog_id": "13",
         "question_text": "司机应如何计算其车辆的最大允许总重量？",
@@ -6061,6 +6517,54 @@
         "option_d": "只有前座安全带会启动。",
         "correct_answer": "C",
         "explanation": "在正面相撞中，两辆车内的乘客都会被向前推动，如果他们没有系安全带，可能会被甩出挡风玻璃。司机有责任确保17岁以下的所有乘客系好安全带。年龄较大的乘客自己负责系安全带。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "544",
+        "catalog_id": "13",
+        "question_text": "如果司机的车辆在隧道中抛锚了，应该怎么办？",
+        "option_a": " 等在车里直到帮助到来。",
+        "option_b": " 使用紧急电话寻求帮助。",
+        "option_c": " 走到隧道的尽头并呼叫警察。",
+        "option_d": " 向过往司机招手求助。",
+        "correct_answer": "B",
+        "explanation": " 如果您的车辆在隧道中抛锚或者发生碰撞，打开您的危险警告灯，关闭引擎，前往紧急站点并使用紧急电话通知隧道运营商。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "545",
+        "catalog_id": "13",
+        "question_text": "在拖曳房车之前，驾驶员应当做什么？ ",
+        "option_a": " 仅在车辆驾驶员这一侧配备一个扩展后视镜。 ",
+        "option_b": " 为拖车车辆配备扩展后视镜。 ",
+        "option_c": " 确保仅有成年乘客坐在房车内。 ",
+        "option_d": " 确保所有乘客在房车内安全地就坐。 ",
+        "correct_answer": "B",
+        "explanation": " 如果驾驶员打算拖曳房车，他们应该在拖车车辆的两侧都装上扩展后视镜。这将允许驾驶员更好地观察到后方和侧方的交通情况。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "546",
+        "catalog_id": "13",
+        "question_text": "学车的L牌应该放在汽车的哪里？",
+        "option_a": " 前面和后面都要放。",
+        "option_b": " 只放在后面。",
+        "option_c": " 只放在驾驶者一侧。",
+        "option_d": " 只放在前面。",
+        "correct_answer": "A",
+        "explanation": " 持有学习许可证的人必须在公路上驾驶时始终在车辆的前面和后面显示L牌。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "547",
+        "catalog_id": "13",
+        "question_text": "如果车辆的窗户和镜子被冰覆盖，驾驶员应该做什么？",
+        "option_a": "开启加热系统，并使用刮刀在驾驶前清除冰块。",
+        "option_b": "开启挡风玻璃刮水器。",
+        "option_c": "使用沸水加盐来清除冰块。",
+        "option_d": "开车时减速直到加热系统清除了冰块。",
+        "correct_answer": "A",
+        "explanation": "确保所有的窗户和镜子完全没有冰，以便驾驶员能够安全地观察周围的道路和交通状况。在滑溜的路面驾驶时这尤其重要。在车内携带一罐除冰剂是好习惯，如果可能的话，还应该在洗涤液水箱中加入除冰剂。",
         "image_name": "loader.gif"
     },
     {
@@ -6244,6 +6748,66 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "563",
+        "catalog_id": "13",
+        "question_text": "夜间驾车如果被后视镜中反射的车灯光晃眼该怎么办？",
+        "option_a": "可以临时调整后视镜的角度。",
+        "option_b": "打开危险报警闪光灯。",
+        "option_c": "打开后雾灯。",
+        "option_d": "调整后视镜将光线反射回追尾车辆的驾驶员。",
+        "correct_answer": "A",
+        "explanation": "如果你的内部后视镜中反射的来车交通灯光让你感到刺眼，那么启动夜间驾驶/防眩光模式。如果车辆没有这个功能，驾驶员应该临时调整内部后视镜的角度，以减轻眩光，允许他们在无分心的情况下驾驶。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "564",
+        "catalog_id": "13",
+        "question_text": "如果一辆正在隧道中行驶的车辆起火了，司机应该怎么做？",
+        "option_a": " 立即离开车辆，并在最近的紧急情况站使用紧急电话。",
+        "option_b": " 尽快驾车前往最近的紧急出口。",
+        "option_c": " 留在车内并打电话给紧急情况站报告火情。",
+        "option_d": " 等待隧道交通广播宣布火灾演习。",
+        "correct_answer": "A",
+        "explanation": " 如果车辆里有烟雾或起火，立即熄火，离开车辆，前往紧急情况站，并使用紧急电话向隧道操作员报警，并通过最近可用的出口离开隧道。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "565",
+        "catalog_id": "13",
+        "question_text": "Category W学习许可持有者什么时候可以携带乘客？",
+        "option_a": " 只有当乘客持有AM类驾驶执照时。",
+        "option_b": " 只有当乘客也持有W类驾驶执照时。",
+        "option_c": " 只有当乘客持有AM类驾驶执照并且车辆被设计成可以携带乘客时。",
+        "option_d": " 只有当乘客也持有W类驾驶执照并且车辆被设计成可以携带乘客时。",
+        "correct_answer": "D",
+        "explanation": " W类学习许可持有者只有在以下情况下才可以在车辆中携带乘客：车辆被设计为可以携带乘客，并且乘客已经持有W类全面驾驶执照两年或以上。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "566",
+        "catalog_id": "13",
+        "question_text": "在什么情况下驾驶员可以在车内搭载的乘客数量超过安全带的数量",
+        "option_a": " 总是被允许。",
+        "option_b": "  当驾驶员的视线没有被干扰时。",
+        "option_c": " 从不被允许。",
+        "option_d": " 当驾驶员有适当的保险覆盖时。",
+        "correct_answer": "C",
+        "explanation": " 驾驶员必须确保车内每个乘客都有安全带。未系安全带属于违法行为。确保17岁以下乘客系安全带是驾驶员的责任。年龄较大的乘客有自己系安全带的责任。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "567",
+        "catalog_id": "13",
+        "question_text": "后雾灯应该在什么情况下使用？",
+        "option_a": "只在轻雾中使用。 ",
+        "option_b": " 在没有照明的地区夜间行驶时始终使用。 ",
+        "option_c": " 在浓雾或雪花纷飞时使用。 ",
+        "option_d": " 当后面的车辆太近时。 ",
+        "correct_answer": "C",
+        "explanation": " 司机只有在浓雾或下雪时才能使用后雾灯。在正常路况和天气条件下使用雾灯可能会使后方行驶的驾驶员感到眩晕或失明。此外，雾灯可能会让刹车灯更难被看到。",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "568",
         "catalog_id": "13",
         "question_text": "如果驾驶员的车辆在自动铁路平交道上抛锚该怎么办？",
@@ -6313,6 +6877,18 @@
         "option_d": "减速并在必要时准备停车。",
         "correct_answer": "D",
         "explanation": "当您注意到前方有施工车辆时，请减速并准备停车以便于道路施工。驶过施工路段时要特别小心，因为路面可能不平或滑。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "574",
+        "catalog_id": "14",
+        "question_text": "在紧急情况下使用时，以下哪种车辆免于遵守速度限制？",
+        "option_a": " 值班医生。",
+        "option_b": " 山地救援。",
+        "option_c": " 救护车。",
+        "option_d": " 故障恢复。",
+        "correct_answer": "C",
+        "explanation": " 在履行职责时，警察、消防队和救护车人员可以免遵守包括速度限制在内的一些交通法律，只要他们不危及其他道路使用者的安全。如果您听到或看到警车或紧急车辆在紧急情况下接近，请特别小心并让路，如果这样做是安全的话。",
         "image_name": "loader.gif"
     },
     {
@@ -6628,18 +7204,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "762",
-        "catalog_id": "17",
-        "question_text": "在不寻常的交通情况下，学习驾驶的驾驶员可能会如何反应？",
-        "option_a": "比有经验的驾驶员慢。",
-        "option_b": "比有经验的驾驶员快。",
-        "option_c": "比有经验的驾驶员更好。",
-        "option_d": "和有经验的驾驶员一样。",
-        "correct_answer": "A",
-        "explanation": "在学习驾驶的学员身后行驶时，您应保持耐心。学习者可能无法像有经验的驾驶员那样预料和对不寻常的交通情况做出反应。",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "601",
         "catalog_id": "15",
         "question_text": "当刹车灯不工作时，是否允许在公共道路上驾驶车辆？",
@@ -6796,18 +7360,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "655",
-        "catalog_id": "15",
-        "question_text": "重型转向的最常见原因是什么？",
-        "option_a": "轮胎充气过度。",
-        "option_b": "刹车磨损严重。",
-        "option_c": "转向润滑不良。",
-        "option_d": "轮胎充气不足。",
-        "correct_answer": "D",
-        "explanation": "重型转向是指驾驶员需要使用比平常更多的力气才能转动方向盘，这可能是由于轮胎充气不足造成的。检查你的轮胎气压，但要意识到重型转向可能还有其他原因，如动力转向液位低。向合格人士寻求建议，并立即进行检查。",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "614",
         "catalog_id": "15",
         "question_text": "催化转换器的作用是什么？",
@@ -6853,6 +7405,18 @@
         "option_d": "定期。",
         "correct_answer": "D",
         "explanation": "驾驶员有法律责任确保他们的车辆适合上路。为此，他们应进行定期、每周和周期性检查，包括每周一次的轮胎压力检查。轮胎充气不足可能会导致车辆不稳定、轮胎磨损不均和制动距离延长。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "618",
+        "catalog_id": "15",
+        "question_text": "一般来说，拖车的总重量超过多少必须安装刹车？",
+        "option_a": "850公斤",
+        "option_b": "750公斤",
+        "option_c": "900公斤",
+        "option_d": "500公斤",
+        "correct_answer": "B",
+        "explanation": "如果拖车的总重量超过750公斤或拖车车辆重量的一半，则必须装备刹车。",
         "image_name": "loader.gif"
     },
     {
@@ -6976,18 +7540,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "656",
-        "catalog_id": "15",
-        "question_text": "转速表提供哪方面的信息？",
-        "option_a": "发动机转速。",
-        "option_b": "暖风扇转速。",
-        "option_c": "车轮转速。",
-        "option_d": "车轮转速。",
-        "correct_answer": "A",
-        "explanation": "转速表测量发动机的转速，即每分钟转数。通常来说，转数越高，发动机使用的燃料也越多，因此驾驶员应该留意转速表，以帮助以更环保的方式驾驶。",
-        "image_name": "ABMW0663RU19.png"
-    },
-    {
         "question_id": "629",
         "catalog_id": "15",
         "question_text": "如果车辆的油压表读数低或红色油压警告灯亮起，驾驶员应该怎么做？",
@@ -7084,6 +7636,66 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "637",
+        "catalog_id": "15",
+        "question_text": "驾驶员更换前部近侧（左侧）车轮时应采取哪些措施？ ",
+        "option_a": " 将前轮朝向路边。 ",
+        "option_b": " 将前轮背离路边。 ",
+        "option_c": " 确保车辆在升起时不能滚动。 ",
+        "option_d": " 确保换挡杆处于空挡。 ",
+        "correct_answer": "C",
+        "explanation": " 如果驾驶员需要更换前部近侧（左侧）车轮，请确保在平坦的安全地点进行。注意，穿着高能见度背心/夹克，根据需要使用警示三角牌和危险警示灯。车辆应通过拉手刹来固定，关闭引擎，挂入低档位，并在需要时使用轮胎垫来确保安全。如果不熟悉如何更换车轮，请寻求有经验的人的帮助。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "638",
+        "catalog_id": "15",
+        "question_text": "开车时如果轮胎充气不足会影响哪些方面？",
+        "option_a": " 排气系统。",
+        "option_b": " 制动能力。",
+        "option_c": " 气候控制系统。",
+        "option_d": " 发动机温度。",
+        "correct_answer": "B",
+        "explanation": " 充气不足的轮胎可能会对车辆的许多系统产生不利影响，包括其制动能力、悬挂系统、转向和燃油消耗。特别是，充气不足的轮胎可以影响车辆的制动能力，并可能导致轮胎提前磨损。轮胎应始终根据车辆制造商的指导方针进行充气，相关信息可以在车辆手册中找到。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "639",
+        "catalog_id": "15",
+        "question_text": "开车时，司机可能怀疑车辆的刹车液位低的原因是：",
+        "option_a": " 刹车感觉松软无力。",
+        "option_b": " 踩刹车感觉很费力。",
+        "option_c": " 刹车异常敏感。",
+        "option_d": " 刹车释放的时间比平时要长。",
+        "correct_answer": "A",
+        "explanation": " 如果踩刹车时感觉软或者松弛，这可能表明刹车液位低，系统存在故障。每次司机开始行程前，都应该测试刹车。如果检测到故障，应该让专业人士进行检查。司机应定期检查刹车液位。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "640",
+        "catalog_id": "15",
+        "question_text": "司机怎样才能知道刹车灯泡不工作了？",
+        "option_a": " 他们会注意到踩下去的刹车踏板变得更软。",
+        "option_b": " 他们会注意到刹车踏板变得更硬。",
+        "option_c": " 站在车辆后方，并请另一个人打开侧灯。",
+        "option_d": " 站在车辆后方，当另一个人踩下刹车踏板时进行检查。",
+        "correct_answer": "D",
+        "explanation": " 为了让司机知道后刹车灯是否正常工作，他们应该站在车辆后方，当另一个人踩下刹车时检查刹车灯是否亮起。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "641",
+        "catalog_id": "15",
+        "question_text": "在每周检查中，司机注意到一个前轮胎磨损严重。司机应该怎么办？",
+        "option_a": " 将磨损的轮胎换到后轮上。",
+        "option_b": " 更换磨损的轮胎。",
+        "option_c": " 检查轮胎气压以确保其保持恒定。",
+        "option_d": " 在湿滑的道路上驾车时减速。",
+        "correct_answer": "B",
+        "explanation": " 轮胎是车辆唯一接触道路的部分，接触面积小，如果磨损，将无法适当和安全地抓地。车辆上轮胎的质量是车辆道路抓地力和制动能力的重要因素。司机应定期检查轮胎，如果他们注意到轮胎磨损严重，应立即更换。尽管大多数车辆的轮胎最小合法胎纹深度为1.6毫米（摩托车为1毫米），但司机应在轮胎变得如此磨损之前更换。",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "642",
         "catalog_id": "15",
         "question_text": "驾驶员在离开车辆前应该怎样确保车辆安全？",
@@ -7105,6 +7717,18 @@
         "option_d": "继续行驶，在到达目的地后清洁它们。",
         "correct_answer": "C",
         "explanation": "镜子的目的是增加司机对车辆后方和侧面的视野，使司机能考虑到所有可见的危险。正确使用能让司机做出知情、正确且更安全的决定。司机应确保所有镜子，包括外后视镜，随时都干净且正确调整，以确保最佳视野。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "644",
+        "catalog_id": "15",
+        "question_text": "在车辆更换轮胎后，以下哪项应该很快再次检查？",
+        "option_a": "刹车片间隙。",
+        "option_b": "轮胎胎面深度。",
+        "option_c": "气门。",
+        "option_d": "车轮螺母。",
+        "correct_answer": "D",
+        "explanation": "在车辆更换轮胎后，建议在短途驾驶后检查车轮螺母，确保它们仍然被正确固定。",
         "image_name": "loader.gif"
     },
     {
@@ -7228,16 +7852,28 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "763",
-        "catalog_id": "17",
-        "question_text": "在道路交叉口，哪类道路使用者特别容易受到伤害？",
-        "option_a": "拖拉机驾驶员。",
-        "option_b": "汽车驾驶员。",
-        "option_c": "行人。",
-        "option_d": "货车驾驶员。",
-        "correct_answer": "C",
-        "explanation": "在交叉口，车辆没有自动优先权。作为驾驶员，你应特别注意行人、骑自行车人和摩托车手等脆弱的道路使用者，并意识到他们有权安全使用道路。",
+        "question_id": "655",
+        "catalog_id": "15",
+        "question_text": "重型转向的最常见原因是什么？",
+        "option_a": "轮胎充气过度。",
+        "option_b": "刹车磨损严重。",
+        "option_c": "转向润滑不良。",
+        "option_d": "轮胎充气不足。",
+        "correct_answer": "D",
+        "explanation": "重型转向是指驾驶员需要使用比平常更多的力气才能转动方向盘，这可能是由于轮胎充气不足造成的。检查你的轮胎气压，但要意识到重型转向可能还有其他原因，如动力转向液位低。向合格人士寻求建议，并立即进行检查。",
         "image_name": "loader.gif"
+    },
+    {
+        "question_id": "656",
+        "catalog_id": "15",
+        "question_text": "转速表提供哪方面的信息？",
+        "option_a": "发动机转速。",
+        "option_b": "暖风扇转速。",
+        "option_c": "车轮转速。",
+        "option_d": "车轮转速。",
+        "correct_answer": "A",
+        "explanation": "转速表测量发动机的转速，即每分钟转数。通常来说，转数越高，发动机使用的燃料也越多，因此驾驶员应该留意转速表，以帮助以更环保的方式驾驶。",
+        "image_name": "ABMW0663RU19.png"
     },
     {
         "question_id": "657",
@@ -7684,6 +8320,54 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "694",
+        "catalog_id": "15",
+        "question_text": "3岁以下儿童能否在车辆的前排乘客座位上未系安全带？",
+        "option_a": " 不可以，除非儿童使用了儿童增高座椅。",
+        "option_b": " 不行，婴儿必须始终使用正确的儿童安全座椅系好。",
+        "option_c": " 可以，但仅限于车辆安装有主动式安全气囊的情况下。",
+        "option_d": " 可以，前提是婴儿被成人牢牢抱住。",
+        "correct_answer": "B",
+        "explanation": " 通常，儿童在车辆中旅行时必须始终系好安全带。3岁以下的儿童必须使用合适的儿童约束系统。警告：永远不要在有主动式前面安全气囊保护的座位上使用面朝后方的儿童汽车座椅。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "695",
+        "catalog_id": "15",
+        "question_text": "如果燃油系统出现气锁，驱动员应该怎么办？",
+        "option_a": " 松开燃油泵。",
+        "option_b": " 排空燃油滤清器。",
+        "option_c": " 紧固喷油管。",
+        "option_d": " 从燃油系统中排出空气。",
+        "correct_answer": "D",
+        "explanation": " 如果你让燃油量太低或系统中有泄漏，燃油系统可能会出现气锁。在驾驶前，你应该纠正这个问题。解决方法可能很简单，比如放掉燃油系统中的空气以释放空气。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "696",
+        "catalog_id": "15",
+        "question_text": "为了减少追尾事故中颈部受伤的风险，驾驶员应该做以下几点：",
+        "option_a": " 使用正确调整过的头部支撑。",
+        "option_b": " 使用正确调整过的安全带。",
+        "option_c": " 确保车辆装有防抱死刹车系统。",
+        "option_d": " 确保车辆装有后扰流板。",
+        "correct_answer": "A",
+        "explanation": " 调整好头部支撑对驾驶员和乘客都至关重要。头部支撑旨在在碰撞中保护颈部和脊柱，从而预防或减轻颈椎损伤。如果头部支撑没有正确调整，车辆乘员的风险将增加。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "697",
+        "catalog_id": "15",
+        "question_text": "驾驶者何时应当使用车辆的危险警报灯？ ",
+        "option_a": " 在交通缓慢移动时。",
+        "option_b": " 在弯道或拐角处停车时。",
+        "option_c": " 在倒车进入狭窄道路时。",
+        "option_d": " 车辆发生故障且造成阻碍时。",
+        "correct_answer": "D",
+        "explanation": " 使用危险警报灯来向其他道路使用者警告前方可能的危险。例如，如果驾驶者的车辆因故障无法避免阻碍道路，他们应当使用车辆的危险警报灯来提醒其他道路使用者自己的存在。",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "698",
         "catalog_id": "15",
         "question_text": "如果驾驶员注意到他们的车辆车身的结构部分受到了锈蚀，应该怎么办？",
@@ -7984,6 +8668,18 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "723",
+        "catalog_id": "16",
+        "question_text": "在怀疑司机受到药物影响驾驶的情况下，除了损伤测试外，爱尔兰警察还可能要求：",
+        "option_a": " 司机的驾驶执照。",
+        "option_b": " 保险证书。",
+        "option_c": " 呼吸样本。",
+        "option_d": " 口水样本。",
+        "correct_answer": "D",
+        "explanation": "如果司机在路边检查时被拦下，他们应该意识到，除了损伤测试外，如果警察怀疑司机在受到药物影响的情况下驾驶，也可以要求提供口水样本。",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "724",
         "catalog_id": "16",
         "question_text": "当在交通信号灯前停车等待绿灯时，司机应该怎么做？",
@@ -8041,6 +8737,162 @@
         "option_d": "追上那辆车并表示不满。",
         "correct_answer": "C",
         "explanation": "你应该始终尝试表现出克制。需要明白的是，通行权并非绝对的优先权，你必须始终小心前进，并顾及其他道路使用者。这样更安全，也更符合社会责任感。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "729",
+        "catalog_id": "16",
+        "question_text": "爱尔兰警察（An Gárda Síochána）能否在早晨进行路边的毒品和酒精测试？",
+        "option_a": " 他们只能检查毒品。",
+        "option_b": " 是的，他们可以在任何时间进行检查。",
+        "option_c": " 他们只能检查酒精。",
+        "option_d": " 不，他们必须等到中午之后才能进行检查。",
+        "correct_answer": "B",
+        "explanation": " 在「受到酒精或药物影响以至于无法控制车辆」的情况下驾驶汽车、摩托车、卡车、巴士、脚踏车或牵动物的车辆是违法的。致醉物包括酒精和药物，不管是单独使用还是混合使用。这里的「药物」一词包括合法的处方药和非处方药（OTC）。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "730",
+        "catalog_id": "16",
+        "question_text": "根据事故前报告，哪个性别更有可能酒后驾驶并卷入致命碰撞？",
+        "option_a": " 男性和女性都不酒驾 ",
+        "option_b": " 男性 ",
+        "option_c": " 男性和女性酒后驾驶的概率相同 ",
+        "option_d": " 女性 ",
+        "correct_answer": "B",
+        "explanation": "在分析的所有867起致命碰撞中，38%的报告指出酒精是主要的促成因素。在这个数字中，有29%涉及至少一名在事故前有饮酒记录的司机或摩托车手。这强调了在爱尔兰仍有高比例的醉酒驾驶行为。事实上：所有这些司机都因他们在事故前的道路行为而被认定对碰撞负有全部或部分责任。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "731",
+        "catalog_id": "16",
+        "question_text": "对于拒绝向爱尔兰国家警察局提供呼吸、血液或尿液样本作为第二次违规证据的司机，将受到什么处罚？",
+        "option_a": " 自动取消资格6年。",
+        "option_b": " 自动取消资格12个月。",
+        "option_c": " 自动取消资格3个月。",
+        "option_d": " 自动取消资格4年。",
+        "correct_answer": "A",
+        "explanation": " 酒精是导致死亡和受伤事故的主要因素。研究证明，即使是少量的酒精或药物也会影响你的判断力和驾驶能力。驾驶时血液中的酒精含量超过法定限度或在药物影响下驾驶都是非法的。拒绝提供呼吸、血液或尿液样本属于违法行为。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "732",
+        "catalog_id": "16",
+        "question_text": "对于持有全驾照的专业司机，如果血液中酒精浓度（BAC）为20毫克至80毫克/100毫升血液，饮酒驾驶的处罚是什么？ ",
+        "option_a": " 处罚只适用于超过80毫克（BAC）的情况。 ",
+        "option_b": " 罚款200欧元，吊销驾驶执照3个月。 ",
+        "option_c": " 罚款100欧元，吊销驾驶执照6个月。 ",
+        "option_d": " 在50毫克（BAC）以下没有处罚。 ",
+        "correct_answer": "B",
+        "explanation": " 酒精是导致死亡和受伤事故的主要因素。研究证明，即使少量酒精也会影响您的判断力和驾驶能力。驾驶时的酒精水平超过法定限制是非法",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "733",
+        "catalog_id": "16",
+        "question_text": "在国道上行驶时，是否允许为了让速度较快的交通工具超车而行驶在硬路肩上？",
+        "option_a": " 只有当卡车或公共汽车想要超车时才可以。",
+        "option_b": " 不行，除非是在“2加1路”上行驶。",
+        "option_c": " 是的，如果硬路肩是清晰并且安全的话，可以临时行驶。",
+        "option_d": " 仅在双向行驶道上行驶时。",
+        "correct_answer": "C",
+        "explanation": " 在国道上，硬路肩通常仅供行人和自行车使用。如果你想让后面的车辆超车，可以短暂地驶入硬路肩，前提是没有行人或自行车使用，并且附近没有交叉路口或出入口。然而，在高速公路上，除非是紧急情况，否则你不得在硬路肩上行驶。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "734",
+        "catalog_id": "16",
+        "question_text": "要是在首次违规时拒绝向安加达警察提供血液、尿液或呼吸样本，司机会自动丧失多长时间的驾驶资格？",
+        "option_a": " 1年 ",
+        "option_b": " 3年 ",
+        "option_c": " 2年 ",
+        "option_d": " 4年 ",
+        "correct_answer": "D",
+        "explanation": " 不遵守安加达警察要求提供呼吸、尿液或血液样本的请求是一种违法行为。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "735",
+        "catalog_id": "16",
+        "question_text": "一位即将踏上旅途的司机如果感到烦躁或愤怒，该怎么办？",
+        "option_a": " 比平时开得慢一段距离。",
+        "option_b": " 比平时开得快一段距离。",
+        "option_c": " 司机在冷静下来之前不应该驾驶。",
+        "option_d": " 烦躁或愤怒不会影响驾驶。",
+        "correct_answer": "C",
+        "explanation": " 如果你在愤怒或烦躁时驾驶，你更有可能卷入碰撞，并且更有可能对其他司机的不良行为做出反应。在出发前请花时间冷静下来，整理好自己的情绪。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "736",
+        "catalog_id": "16",
+        "question_text": "根据事故前报告，在酒精是一个因素的碰撞中，哪个年龄组的乘客死亡人数最高？ ",
+        "option_a": " 25-34 岁 ",
+        "option_b": " 10-16 岁 ",
+        "option_c": " 50-65 岁 ",
+        "option_d": " 17-24 岁 ",
+        "correct_answer": "D",
+        "explanation": " 由于多种原因，包括年轻驾驶员容易在与同龄人同行时饮酒，年轻驾驶员（17-24 岁）驾驶的车辆中的乘客更容易丧生。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "737",
+        "catalog_id": "16",
+        "question_text": "如果司机看到一辆卡车正在向左侧的侧门倒车，应该怎么做？ ",
+        "option_a": " 应该安全地停车并等待道路畅通。 ",
+        "option_b": " 按喇叭，示意卡车司机停车。 ",
+        "option_c": " 尝试超车，以免影响后方交通。 ",
+        "option_d": " 靠近卡车停下。 ",
+        "correct_answer": "A",
+        "explanation": " 始终观察前方道路，并准备好对任何交通情况做出反应。你应该意识到大型车辆驾驶员在倒车进入侧门时可能遇到的困难。在这种情况下，大型车辆倒车可能会阻挡你接近时对前方道路的视线，你应该给卡车司机足够的空间进行操作。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "738",
+        "catalog_id": "16",
+        "question_text": "当司机接近施工区域，并且有土方机械在移动时应该怎么办？",
+        "option_a": " 开启前大灯作为警告，然后照常行驶。",
+        "option_b": " 停下来，将车辆在道路上调头，寻找另一条路线。",
+        "option_c": " 减速，因为路上可能会有松散的砂石或泥土。",
+        "option_d": " 按喇叭并保持正常速度。",
+        "correct_answer": "C",
+        "explanation": " 在土方机械工作的地方，道路上可能会有泥土和砂石。此外，这些机器的噪音可能会让道路工作者听不到接近的交通。当你遇到土方机械时，应减速并非常小心地继续行驶。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "739",
+        "catalog_id": "16",
+        "question_text": "根据事故前报告，867起致命碰撞中，有多少起是由酒精作为导致因素？ ",
+        "option_a": " 251-350 ",
+        "option_b": " 101-200 ",
+        "option_c": " 少于100 ",
+        "option_d": " 201-250 ",
+        "correct_answer": "A",
+        "explanation": " 酒精是致命碰撞的导致因素。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "740",
+        "catalog_id": "16",
+        "question_text": "在哪些时间段内司机可以在路边检查站接受毒品测试？",
+        "option_a": " 仅在日间光线下。",
+        "option_b": " 仅在事故后。",
+        "option_c": " 仅在夜间时间。",
+        "option_d": " 白天或夜晚的任何时候。",
+        "correct_answer": "D",
+        "explanation": " 法律允许随时对司机进行测试。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "741",
+        "catalog_id": "16",
+        "question_text": "请问对于血液酒精浓度（BAC）在80毫克至100毫克每100毫升血液的驾驶员，酒后驾车的处罚是什么？",
+        "option_a": " 罚款400欧元，禁驾6个月。",
+        "option_b": " 罚款200欧元，禁驾3个月。",
+        "option_c": " 罚款200欧元，禁驾6个月。",
+        "option_d": " 罚款400欧元，禁驾3个月。",
+        "correct_answer": "A",
+        "explanation": "酒精是导致死亡和伤害事故的主要因素。研究证明，即使是少量的酒精也会影响你的判断力和驾驶能力。超过法定限度的酒精水平驾驶是非法的。",
         "image_name": "loader.gif"
     },
     {
@@ -8152,15 +9004,15 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "765",
-        "catalog_id": "17",
-        "question_text": "在这种情况下，司机必须为什么做好准备？",
-        "option_a": "在您经过后球可能会爆裂。",
-        "option_b": "球可能会损坏您的车。",
-        "option_c": "迎面而来的车辆可能会朝您的方向转向。",
-        "option_d": "孩子可能会回头从道路上捡球。",
+        "question_id": "751",
+        "catalog_id": "16",
+        "question_text": "如果司机的行驶速度没有前面的车辆快，他们应该怎么做？",
+        "option_a": " 司机应保持自己的位置，并不允许跟随的车辆超车。",
+        "option_b": " 司机应开启危险警告灯，并保持在左侧行驶。",
+        "option_c": " 司机应通过手势邀请其他车辆超车。",
+        "option_d": " 司机应保持在左侧，并允许其他车辆如果愿意就可以超车。",
         "correct_answer": "D",
-        "explanation": "因为很难预测孩子的行为，您应该随时准备应对交通状况的变化，并准备停车。",
+        "explanation": " 时刻观察前方道路情况，准备好应对任何交通状况。您不应该开得太慢，以至于不必要地阻碍其他道路使用者。如果其他车辆想要安全通过，尽可能保持在左侧。",
         "image_name": "loader.gif"
     },
     {
@@ -8272,6 +9124,42 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "761",
+        "catalog_id": "17",
+        "question_text": "在缓慢行驶的城市交通中，驾驶员应偶尔检查他们的盲区，尤其是哪些道路使用者？",
+        "option_a": " 出租车。",
+        "option_b": " 厢式车。",
+        "option_c": " 汽车。",
+        "option_d": " 自行车。",
+        "correct_answer": "D",
+        "explanation": " 驾驶员在开动和改变方向之前应意识到并检查盲区。自行车手可能很容易在盲区隐藏起来，在缓慢移动的交通中，他们可能比你移动得更快。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "762",
+        "catalog_id": "17",
+        "question_text": "在不寻常的交通情况下，学习驾驶的驾驶员可能会如何反应？",
+        "option_a": "比有经验的驾驶员慢。",
+        "option_b": "比有经验的驾驶员快。",
+        "option_c": "比有经验的驾驶员更好。",
+        "option_d": "和有经验的驾驶员一样。",
+        "correct_answer": "A",
+        "explanation": "在学习驾驶的学员身后行驶时，您应保持耐心。学习者可能无法像有经验的驾驶员那样预料和对不寻常的交通情况做出反应。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "763",
+        "catalog_id": "17",
+        "question_text": "在道路交叉口，哪类道路使用者特别容易受到伤害？",
+        "option_a": "拖拉机驾驶员。",
+        "option_b": "汽车驾驶员。",
+        "option_c": "行人。",
+        "option_d": "货车驾驶员。",
+        "correct_answer": "C",
+        "explanation": "在交叉口，车辆没有自动优先权。作为驾驶员，你应特别注意行人、骑自行车人和摩托车手等脆弱的道路使用者，并意识到他们有权安全使用道路。",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "764",
         "catalog_id": "17",
         "question_text": "当司机在繁忙的城市街道路口打算左转且有行人和自行车在周围时，应做什么？",
@@ -8281,6 +9169,18 @@
         "option_d": "观察可能试图穿越车辆前方的自行车或行人。",
         "correct_answer": "D",
         "explanation": "当在繁忙的城市街道上左转时，司机应特别注意弱势道路使用者如行人、骑自行车者和摩托车手，他们可能会突然出现并且可能没有察觉到车辆的转弯意图。",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "765",
+        "catalog_id": "17",
+        "question_text": "在这种情况下，司机必须为什么做好准备？",
+        "option_a": "在您经过后球可能会爆裂。",
+        "option_b": "球可能会损坏您的车。",
+        "option_c": "迎面而来的车辆可能会朝您的方向转向。",
+        "option_d": "孩子可能会回头从道路上捡球。",
+        "correct_answer": "D",
+        "explanation": "因为很难预测孩子的行为，您应该随时准备应对交通状况的变化，并准备停车。",
         "image_name": "loader.gif"
     },
     {
@@ -8560,953 +9460,51 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "739",
-        "catalog_id": "16",
-        "question_text": "根据事故前报告，867起致命碰撞中，有多少起是由酒精作为导致因素？ ",
-        "option_a": " 251-350 ",
-        "option_b": " 101-200 ",
-        "option_c": " 少于100 ",
-        "option_d": " 201-250 ",
-        "correct_answer": "A",
-        "explanation": " 酒精是致命碰撞的导致因素。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "740",
-        "catalog_id": "16",
-        "question_text": "在哪些时间段内司机可以在路边检查站接受毒品测试？",
-        "option_a": " 仅在日间光线下。",
-        "option_b": " 仅在事故后。",
-        "option_c": " 仅在夜间时间。",
-        "option_d": " 白天或夜晚的任何时候。",
-        "correct_answer": "D",
-        "explanation": " 法律允许随时对司机进行测试。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "546",
-        "catalog_id": "13",
-        "question_text": "学车的L牌应该放在汽车的哪里？",
-        "option_a": " 前面和后面都要放。",
-        "option_b": " 只放在后面。",
-        "option_c": " 只放在驾驶者一侧。",
-        "option_d": " 只放在前面。",
-        "correct_answer": "A",
-        "explanation": " 持有学习许可证的人必须在公路上驾驶时始终在车辆的前面和后面显示L牌。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "449",
+        "question_id": "789",
         "catalog_id": "10",
-        "question_text": "这个标志是什么意思？ ",
-        "option_a": " 最高时速是60公里/小时。 ",
-        "option_b": " 停车不得超过60分钟。 ",
-        "option_c": " 距离交叉口60米。 ",
-        "option_d": " 最低时速是60公里/小时。 ",
-        "correct_answer": "A",
-        "explanation": " 这个标志告诉您，这段路的最高法定速度限制是60公里/小时。",
-        "image_name": "ABMW0021U19.png"
+        "question_text": "在高速行驶时，方向盘持续震动通常表明什么？",
+        "option_a": "方向系统未校准。",
+        "option_b": "车轮平衡不均。",
+        "option_c": "减震器磨损。",
+        "option_d": "重量分布不均。",
+        "correct_answer": "B",
+        "explanation": "如果驾驶员在高速行驶时感觉到方向盘持续震动，这通常表明车轮平衡不均。这可能导致车辆操控不稳。如果是这种情况，应该请专业人士检查。",
+        "image_name": "loader.gif"
     },
     {
-        "question_id": "458",
+        "question_id": "790",
         "catalog_id": "10",
-        "question_text": "这个标志是什么意思？ ",
-        "option_a": " 前方右转弯道。 ",
-        "option_b": " 你必须在前方右转。 ",
-        "option_c": " 前方急转弯向右。 ",
-        "option_d": " 前方单行道向右。 ",
+        "question_text": "在更换车辆轮胎后，应在短距离行驶后检查以下哪一项？",
+        "option_a": "轮胎气门。",
+        "option_b": "刹车片间隙。",
+        "option_c": "轮毂螺母紧固度。",
+        "option_d": "轮胎胎纹深度。",
         "correct_answer": "B",
-        "explanation": " 这个标志告诉你必须在前方右转。它通常设置在进入单行系统的路口前。",
-        "image_name": "ABMW0010U19.png"
+        "explanation": "更换车辆轮胎后，应在行驶一段短距离后检查替换轮胎的轮毂螺母或螺栓的紧固度，以确保它们安装牢固。如有疑问，请寻求专业人士协助。",
+        "image_name": "loader.gif"
     },
     {
-        "question_id": "344",
+        "question_id": "791",
         "catalog_id": "10",
-        "question_text": "除非另有指示，拖着旅行拖车的汽车在国道上的最大允许速度是多少？",
-        "option_a": " 80公里/小时。",
-        "option_b": " 120公里/小时。",
-        "option_c": " 100公里/小时。",
-        "option_d": " 60公里/小时。",
-        "correct_answer": "A",
-        "explanation": " 在国道上拖着旅行拖车时，超过80公里/小时是违法的 - 过快的速度会使这种车辆不稳定。",
+        "question_text": "轮胎气压不足会影响哪些方面？",
+        "option_a": "气候控制系统。",
+        "option_b": "刹车性能。",
+        "option_c": "排气系统。",
+        "option_d": "发动机温度。",
+        "correct_answer": "B",
+        "explanation": "轮胎气压不足可能会对车辆的许多系统产生不良影响，包括刹车性能、悬挂、转向和油耗。特别是，轮胎气压不足会影响车辆的刹车性能并导致轮胎过早磨损。轮胎应始终按照车辆制造商的指南充气，可在车辆手册中找到相关信息。",
         "image_name": "loader.gif"
     },
     {
-        "question_id": "185",
-        "catalog_id": "5",
-        "question_text": "柴油洒在路面上会有什么影响？ ",
-        "option_a": " 它会增加轮胎噪音。 ",
-        "option_b": " 它能提高车辆的制动能力。 ",
-        "option_c": " 它能提高轮胎在弯道上的抓地力。 ",
-        "option_d": " 它会让路面更加滑。 ",
-        "correct_answer": "D",
-        "explanation": " 柴油洒在路面上能让路面变得极其滑，特别是如果路面是湿的话。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "340",
+        "question_id": "792",
         "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": " 禁止狩猎。",
-        "option_b": " 前方有鹿狩猎。",
-        "option_c": " 前方有鹿或野生动物。",
-        "option_d": " 野生动物保护区 - 禁止停车。",
+        "question_text": "一般情况下，拖车的总重量超过多少必须安装刹车？",
+        "option_a": "850公斤",
+        "option_b": "500公斤",
+        "option_c": "750公斤",
+        "option_d": "900公斤",
         "correct_answer": "C",
-        "explanation": " 这个标志预警可能会有鹿或其他野生动物走上道路。如果需要，请准备减速或突然停车。",
-        "image_name": "ABMW0098U19.png"
-    },
-    {
-        "question_id": "187",
-        "catalog_id": "5",
-        "question_text": "驾驶员夜间跟随其他车辆行驶时应开启哪些灯光？ ",
-        "option_a": " 前雾灯。 ",
-        "option_b": " 远光大灯。 ",
-        "option_c": " 示廓灯。 ",
-        "option_d": " 近光大灯。 ",
-        "correct_answer": "D",
-        "explanation": " 驾驶员在夜间跟随其他车辆行驶时应将近光大灯调低，以免前方驾驶员在后视镜中被您的灯光闪到。",
+        "explanation": "如果拖车的总重量超过750公斤或拖车车重的一半，则必须安装刹车。",
         "image_name": "loader.gif"
-    },
-    {
-        "question_id": "451",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？",
-        "option_a": " 只能右转。",
-        "option_b": " 前方右侧有改道。",
-        "option_c": " 只能从右侧超车。",
-        "option_d": " 主要道路从左侧汇入。",
-        "correct_answer": "A",
-        "explanation": " 这个标志告诉你必须右转。它通常出现在所有交通都必须右转的路口 - 例如，在包含路口的单行道系统中。",
-        "image_name": "ABMW0008U19.png"
-    },
-    {
-        "question_id": "75",
-        "catalog_id": "1",
-        "question_text": "在这种情况下司机应该怎么做？",
-        "option_a": " 司机必须让橙色的车先过。",
-        "option_b": " 司机可以右转。",
-        "option_c": " 司机必须左转。",
-        "option_d": " 司机不允许右转。",
-        "correct_answer": "B",
-        "explanation": " 如果没有迎面而来的交通，你可以右转，但你也应该意识到可能会有交通从次要道路涌出。",
-        "image_name": "ABMW0234RU19.jpg"
-    },
-    {
-        "question_id": "343",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？ ",
-        "option_a": " 前方500米有低矮桥梁。 ",
-        "option_b": " 高速公路在前方500米结束。 ",
-        "option_c": " 桥梁修理在前方500米。 ",
-        "option_d": " 前方500米禁止超车。 ",
-        "correct_answer": "B",
-        "explanation": " 这是一个高速公路信息标志，告诉你高速公路将在前方500米后结束。高速公路的规则将不再适用，例如可能适用较低的速度限制。",
-        "image_name": "ABMW0110U19.png"
-    },
-    {
-        "question_id": "72",
-        "catalog_id": "1",
-        "question_text": "驾驶员在越过这个山头时应注意什么危险？ ",
-        "option_a": " 可能会有斑马线交叉路口。 ",
-        "option_b": " 有可能有车辆抛锚。 ",
-        "option_c": " 可能有高边车辆正在接近。 ",
-        "option_d": " 可能有安全摄像头在运作。 ",
-        "correct_answer": "B",
-        "explanation": " 在接近山头时，您应格外小心，并准备应对交通状况的变化。",
-        "image_name": "ABMW0273R.jpg"
-    },
-    {
-        "question_id": "71",
-        "catalog_id": "1",
-        "question_text": "当在这个路口右转时，司机应该做什么？ ",
-        "option_a": " 允许红车先行。 ",
-        "option_b": " 允许蓝车先行。 ",
-        "option_c": " 在两辆车之前先行。 ",
-        "option_d": " 允许两辆车先行。 ",
-        "correct_answer": "A",
-        "explanation": " 当您从主路右转进入辅路时，即使对向车辆也在转弯进入同一条道路，您也必须让在主路上的对向来车先行。",
-        "image_name": "ABMW0291R.jpg"
-    },
-    {
-        "question_id": "457",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？ ",
-        "option_a": " 前方道路向左和向右关闭。 ",
-        "option_b": " 前方有交通减速坡。 ",
-        "option_c": " 前方有重要程度相同的交叉道口。 ",
-        "option_d": " 左右两侧都是死胡同 ",
-        "correct_answer": "C",
-        "explanation": " 这个标志提前警告有一个前方左右交错的路口。请注意，可能会有车辆从这些道路进入。",
-        "image_name": "ABMW0053R.png"
-    },
-    {
-        "question_id": "89",
-        "catalog_id": "1",
-        "question_text": "司机在越过这座小山的顶端时应该预计哪些危险？",
-        "option_a": "可能前方没有道路标记。",
-        "option_b": "可能前方有一个公交车站。",
-        "option_c": "你的车道中可能有一辆慢速行驶的车辆。",
-        "option_d": "可能适用减速交通措施。",
-        "correct_answer": "C",
-        "explanation": "在接近山顶时，你应该格外小心，并准备好应对交通状况的变化。",
-        "image_name": "ABMW0272R.jpg"
-    },
-    {
-        "question_id": "734",
-        "catalog_id": "16",
-        "question_text": "要是在首次违规时拒绝向安加达警察提供血液、尿液或呼吸样本，司机会自动丧失多长时间的驾驶资格？",
-        "option_a": " 1年 ",
-        "option_b": " 3年 ",
-        "option_c": " 2年 ",
-        "option_d": " 4年 ",
-        "correct_answer": "D",
-        "explanation": " 不遵守安加达警察要求提供呼吸、尿液或血液样本的请求是一种违法行为。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "761",
-        "catalog_id": "17",
-        "question_text": "在缓慢行驶的城市交通中，驾驶员应偶尔检查他们的盲区，尤其是哪些道路使用者？",
-        "option_a": " 出租车。",
-        "option_b": " 厢式车。",
-        "option_c": " 汽车。",
-        "option_d": " 自行车。",
-        "correct_answer": "D",
-        "explanation": " 驾驶员在开动和改变方向之前应意识到并检查盲区。自行车手可能很容易在盲区隐藏起来，在缓慢移动的交通中，他们可能比你移动得更快。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "736",
-        "catalog_id": "16",
-        "question_text": "根据事故前报告，在酒精是一个因素的碰撞中，哪个年龄组的乘客死亡人数最高？ ",
-        "option_a": " 25-34 岁 ",
-        "option_b": " 10-16 岁 ",
-        "option_c": " 50-65 岁 ",
-        "option_d": " 17-24 岁 ",
-        "correct_answer": "D",
-        "explanation": " 由于多种原因，包括年轻驾驶员容易在与同龄人同行时饮酒，年轻驾驶员（17-24 岁）驾驶的车辆中的乘客更容易丧生。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "342",
-        "catalog_id": "10",
-        "question_text": "这个标志是什么意思？ ",
-        "option_a": " 前方右侧车辆抛锚。",
-        "option_b": " 前方左侧洪水。",
-        "option_c": " 路面有松散碎石。",
-        "option_d": " 左侧路面不平。",
-        "correct_answer": "C",
-        "explanation": " 这个道路施工警告标志告诉您，前方路面已重新铺设，可能会有松散的碎石。您在通过此区域时应该减速行驶，因为松散的碎石可能会影响您的车辆的抓地力和制动。",
-        "image_name": "ABMW6.png"
-    },
-    {
-        "question_id": "213",
-        "catalog_id": "6",
-        "question_text": "驾驶员应如何做才能使他们的车辆最大限度地减少燃油消耗？ ",
-        "option_a": " 接近红绿灯时硬刹车以快速停车。 ",
-        "option_b": " 在低档位中温和驾驶。 ",
-        "option_c": " 使用平稳的加速和刹车。 ",
-        "option_d": " 变档之间使用最大加速度。 ",
-        "correct_answer": "C",
-        "explanation": " 平稳驾驶将有助于减少燃油消耗。提前阅读路况并及时调整速度，避免剧烈加速和急刹车。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "567",
-        "catalog_id": "13",
-        "question_text": "后雾灯应该在什么情况下使用？",
-        "option_a": "只在轻雾中使用。 ",
-        "option_b": " 在没有照明的地区夜间行驶时始终使用。 ",
-        "option_c": " 在浓雾或雪花纷飞时使用。 ",
-        "option_d": " 当后面的车辆太近时。 ",
-        "correct_answer": "C",
-        "explanation": " 司机只有在浓雾或下雪时才能使用后雾灯。在正常路况和天气条件下使用雾灯可能会使后方行驶的驾驶员感到眩晕或失明。此外，雾灯可能会让刹车灯更难被看到。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "450",
-        "catalog_id": "10",
-        "question_text": "这条路标和信息板的含义是什么？",
-        "option_a": " 仅在所示的时间和日期停车。",
-        "option_b": " 在所示的时间和日期之外只有出租车停车。",
-        "option_c": " 在所示的时间和日期不允许停车。",
-        "option_d": " 在所示的时间和日期只有出租车停车。",
-        "correct_answer": "C",
-        "explanation": " 路边的单黄线意味着在信息板上显示的时间内你不得在那里停车。",
-        "image_name": "ABMW0163RU19.png"
-    },
-    {
-        "question_id": "109",
-        "catalog_id": "2",
-        "question_text": "当一个人在碰撞中受伤时，应该首先联系谁？",
-        "option_a": " 受伤者的保险公司。",
-        "option_b": " 受伤者的律师。",
-        "option_c": " 受伤者的亲属。",
-        "option_d": " 紧急服务部门。",
-        "correct_answer": "D",
-        "explanation": " 当有人在碰撞中受伤时，重要的是立即拨打紧急服务电话999或112。受过训练的紧急服务人员最知道如何照顾受伤者。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "108",
-        "catalog_id": "2",
-        "question_text": "在高速公路紧急电话上呼叫求助时，电话接通的是谁？",
-        "option_a": " Garda。",
-        "option_b": " 国家道路管理局。",
-        "option_c": " 国家安全委员会。",
-        "option_d": " 道路安全管理局。",
-        "correct_answer": "A",
-        "explanation": " 高速公路旁的紧急电话直接连线到An Garda Síochána，以便他们尽快作出适当的响应。加尔达通过这些电话准确知道每个呼叫的位置。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "695",
-        "catalog_id": "15",
-        "question_text": "如果燃油系统出现气锁，驱动员应该怎么办？",
-        "option_a": " 松开燃油泵。",
-        "option_b": " 排空燃油滤清器。",
-        "option_c": " 紧固喷油管。",
-        "option_d": " 从燃油系统中排出空气。",
-        "correct_answer": "D",
-        "explanation": " 如果你让燃油量太低或系统中有泄漏，燃油系统可能会出现气锁。在驾驶前，你应该纠正这个问题。解决方法可能很简单，比如放掉燃油系统中的空气以释放空气。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "723",
-        "catalog_id": "16",
-        "question_text": "在怀疑司机受到药物影响驾驶的情况下，除了损伤测试外，爱尔兰警察还可能要求：",
-        "option_a": " 司机的驾驶执照。",
-        "option_b": " 保险证书。",
-        "option_c": " 呼吸样本。",
-        "option_d": " 口水样本。",
-        "correct_answer": "D",
-        "explanation": "如果司机在路边检查时被拦下，他们应该意识到，除了损伤测试外，如果警察怀疑司机在受到药物影响的情况下驾驶，也可以要求提供口水样本。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "341",
-        "catalog_id": "10",
-        "question_text": "驾驶员什么时候应该使用近光灯？ ",
-        "option_a": " 当能见度小于300米时。 ",
-        "option_b": " 当能见度小于200米时。 ",
-        "option_c": " 从00:00小时到06:00小时。 ",
-        "option_d": " 从黄昏后不久到黎明前不久。 ",
-        "correct_answer": "D",
-        "explanation": " 点亮灯光的时间被定义为驾驶员应该打开近光灯以便被看见的时段。这段时间通常从日落后半小时开始，到日出前半小时结束。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "188",
-        "catalog_id": "5",
-        "question_text": "当道路湿滑时，司机应该如何谨慎驾驶以通过陡峭的山坡或拱背桥？ ",
-        "option_a": " 仅踩离合器。 ",
-        "option_b": " 同时踩离合器和刹车。 ",
-        "option_c": " 挂空挡。 ",
-        "option_d": " 极其小心驾驶。 ",
-        "correct_answer": "D",
-        "explanation": " 在湿滑条件下通过陡峭的山坡或拱背桥时要特别小心。缓慢减速接近，在车辆速度合适的情况下选择正确的挡位，并轻柔地使用转向和加速。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "68",
-        "catalog_id": "1",
-        "question_text": "在驾驶时，如果前面的巴士正在打左转信号，同时又有迎面而来的交通流，司机应该怎么做？",
-        "option_a": " 不要从右侧超车。",
-        "option_b": " 留在后面，让巴士完成转弯。",
-        "option_c": " 轻踩刹车并鸣喇叭，向其他车辆发出减速信号。",
-        "option_d": " 不要从左侧超车。",
-        "correct_answer": "B",
-        "explanation": " 总是让巴士完成左转，因为你的视野受限，试图超车可能会很危险。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "70",
-        "catalog_id": "1",
-        "question_text": "在白天，当司机驾车进入一个被树木枝叶密集遮蔽的区域时，可能会出现什么危险？",
-        "option_a": "轮胎气压可能会降低。",
-        "option_b": "车辆的挡风玻璃可能会起雾。",
-        "option_c": "车辆引擎可能会突然变冷。",
-        "option_d": "能见度可能会突然降低。",
-        "correct_answer": "D",
-        "explanation": "当你在明亮的阳光下驾驶后进入一个阴影密集的区域时，你的眼睛可能需要一些时间来适应变化，你可能会立即看不到前方的危险。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "110",
-        "catalog_id": "2",
-        "question_text": "在交通事故中受伤的人应该喝什么类型的饮料？ ",
-        "option_a": " 冷饮。",
-        "option_b": " 热饮。",
-        "option_c": " 非酒精饮料。",
-        "option_d": " 不应该给饮料。",
-        "correct_answer": "D",
-        "explanation": " 在交通事故中受伤的人不应该给予任何饮料，因为这可能会导致他们呛水。理想情况下，应先咨询受过培训的人员，再处理受伤者。拨打紧急服务电话（999或112），或确保有人已经拨打了这些电话。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "544",
-        "catalog_id": "13",
-        "question_text": "如果司机的车辆在隧道中抛锚了，应该怎么办？",
-        "option_a": " 等在车里直到帮助到来。",
-        "option_b": " 使用紧急电话寻求帮助。",
-        "option_c": " 走到隧道的尽头并呼叫警察。",
-        "option_d": " 向过往司机招手求助。",
-        "correct_answer": "B",
-        "explanation": " 如果您的车辆在隧道中抛锚或者发生碰撞，打开您的危险警告灯，关闭引擎，前往紧急站点并使用紧急电话通知隧道运营商。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "574",
-        "catalog_id": "14",
-        "question_text": "在紧急情况下使用时，以下哪种车辆免于遵守速度限制？",
-        "option_a": " 值班医生。",
-        "option_b": " 山地救援。",
-        "option_c": " 救护车。",
-        "option_d": " 故障恢复。",
-        "correct_answer": "C",
-        "explanation": " 在履行职责时，警察、消防队和救护车人员可以免遵守包括速度限制在内的一些交通法律，只要他们不危及其他道路使用者的安全。如果您听到或看到警车或紧急车辆在紧急情况下接近，请特别小心并让路，如果这样做是安全的话。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "697",
-        "catalog_id": "15",
-        "question_text": "驾驶者何时应当使用车辆的危险警报灯？ ",
-        "option_a": " 在交通缓慢移动时。",
-        "option_b": " 在弯道或拐角处停车时。",
-        "option_c": " 在倒车进入狭窄道路时。",
-        "option_d": " 车辆发生故障且造成阻碍时。",
-        "correct_answer": "D",
-        "explanation": " 使用危险警报灯来向其他道路使用者警告前方可能的危险。例如，如果驾驶者的车辆因故障无法避免阻碍道路，他们应当使用车辆的危险警报灯来提醒其他道路使用者自己的存在。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "735",
-        "catalog_id": "16",
-        "question_text": "一位即将踏上旅途的司机如果感到烦躁或愤怒，该怎么办？",
-        "option_a": " 比平时开得慢一段距离。",
-        "option_b": " 比平时开得快一段距离。",
-        "option_c": " 司机在冷静下来之前不应该驾驶。",
-        "option_d": " 烦躁或愤怒不会影响驾驶。",
-        "correct_answer": "C",
-        "explanation": " 如果你在愤怒或烦躁时驾驶，你更有可能卷入碰撞，并且更有可能对其他司机的不良行为做出反应。在出发前请花时间冷静下来，整理好自己的情绪。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "545",
-        "catalog_id": "13",
-        "question_text": "在拖曳房车之前，驾驶员应当做什么？ ",
-        "option_a": " 仅在车辆驾驶员这一侧配备一个扩展后视镜。 ",
-        "option_b": " 为拖车车辆配备扩展后视镜。 ",
-        "option_c": " 确保仅有成年乘客坐在房车内。 ",
-        "option_d": " 确保所有乘客在房车内安全地就坐。 ",
-        "correct_answer": "B",
-        "explanation": " 如果驾驶员打算拖曳房车，他们应该在拖车车辆的两侧都装上扩展后视镜。这将允许驾驶员更好地观察到后方和侧方的交通情况。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "86",
-        "catalog_id": "1",
-        "question_text": "遇见闪烁的琥珀色信号灯的车辆时，驾驶员应该怎么做",
-        "option_a": " 增加速度并保持左行。",
-        "option_b": " 应减速并准备停车。",
-        "option_c": " 必须停车，因为它是一辆紧急车辆。",
-        "option_d": " 闪烁大灯以示对信号灯的认可。",
-        "correct_answer": "B",
-        "explanation": " 闪烁琥珀色信号灯通常由救援车辆和运载异常货物的车辆使用。您应该意识到这些车辆可能需要额外的空间，并且可能遮挡后面的来车。当您遇到这样的车辆时，应减速并做好必要时停车的准备。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "566",
-        "catalog_id": "13",
-        "question_text": "在什么情况下驾驶员可以在车内搭载的乘客数量超过安全带的数量",
-        "option_a": " 总是被允许。",
-        "option_b": "  当驾驶员的视线没有被干扰时。",
-        "option_c": " 从不被允许。",
-        "option_d": " 当驾驶员有适当的保险覆盖时。",
-        "correct_answer": "C",
-        "explanation": " 驾驶员必须确保车内每个乘客都有安全带。未系安全带属于违法行为。确保17岁以下乘客系安全带是驾驶员的责任。年龄较大的乘客有自己系安全带的责任。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "69",
-        "catalog_id": "1",
-        "question_text": "如果路边有小孩玩耍，司机应该怎么做",
-        "option_a": " 保持原速行驶，因为孩子们可以在这一点上非常清晰地看到来车。",
-        "option_b": " 加速并向道路的右侧移动以避开孩子。",
-        "option_c": " 减速，小心驾驶并随时准备刹车。",
-        "option_d": " 发出警告信号并以相同的速度驶过。",
-        "correct_answer": "C",
-        "explanation": " 因为很难预测孩子们的行为，你应该始终准备好应对交通情况的变化，并准备停车。",
-        "image_name": "ABMW0232R.jpg"
-    },
-    {
-        "question_id": "105",
-        "catalog_id": "2",
-        "question_text": "在车祸后，如果有人失去意识，司机应采取以下措施",
-        "option_a": " 尝试用毯子或大衣保暖,打电话给紧急服务（拨打999或112），或确保有人已经打了电话。",
-        "option_b": " 尝试让失去意识的人喝点东西。",
-        "option_c": " 抬起失去意识的人的头并保持这个位置。",
-        "option_d": " 立即将失去意识的人转移到最近的医院。",
-        "correct_answer": "B",
-        "explanation": "正确的做法是用毛毯或外套保暖，等待急救人员到达。在得到专业医疗人员的建议之前，不应移动或给予任何饮料给伤者。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "638",
-        "catalog_id": "15",
-        "question_text": "开车时如果轮胎充气不足会影响哪些方面？",
-        "option_a": " 排气系统。",
-        "option_b": " 制动能力。",
-        "option_c": " 气候控制系统。",
-        "option_d": " 发动机温度。",
-        "correct_answer": "B",
-        "explanation": " 充气不足的轮胎可能会对车辆的许多系统产生不利影响，包括其制动能力、悬挂系统、转向和燃油消耗。特别是，充气不足的轮胎可以影响车辆的制动能力，并可能导致轮胎提前磨损。轮胎应始终根据车辆制造商的指导方针进行充气，相关信息可以在车辆手册中找到。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "696",
-        "catalog_id": "15",
-        "question_text": "为了减少追尾事故中颈部受伤的风险，驾驶员应该做以下几点：",
-        "option_a": " 使用正确调整过的头部支撑。",
-        "option_b": " 使用正确调整过的安全带。",
-        "option_c": " 确保车辆装有防抱死刹车系统。",
-        "option_d": " 确保车辆装有后扰流板。",
-        "correct_answer": "A",
-        "explanation": " 调整好头部支撑对驾驶员和乘客都至关重要。头部支撑旨在在碰撞中保护颈部和脊柱，从而预防或减轻颈椎损伤。如果头部支撑没有正确调整，车辆乘员的风险将增加。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "111",
-        "catalog_id": "2",
-        "question_text": "如果驾驶员在与另一辆车发生碰撞的情况下没有人受伤，应该采取什么措施？ ",
-        "option_a": " 不交换任何细节，但向爱尔兰国家警察报告事故。 ",
-        "option_b": " 与其他驾驶员交换所有相关细节。 ",
-        "option_c": " 仅向对方提供姓名和地址。 ",
-        "option_d": " 向爱尔兰保险局提交书面报告。 ",
-        "correct_answer": "B",
-        "explanation": " 如果驾驶员在与另一辆车发生碰撞的情况下没有人受伤，应该与其他驾驶员交换所有相关细节 - 包括姓名、地址、车辆注册、制造和型号以及所有保险详细信息。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "639",
-        "catalog_id": "15",
-        "question_text": "开车时，司机可能怀疑车辆的刹车液位低的原因是：",
-        "option_a": " 刹车感觉松软无力。",
-        "option_b": " 踩刹车感觉很费力。",
-        "option_c": " 刹车异常敏感。",
-        "option_d": " 刹车释放的时间比平时要长。",
-        "correct_answer": "A",
-        "explanation": " 如果踩刹车时感觉软或者松弛，这可能表明刹车液位低，系统存在故障。每次司机开始行程前，都应该测试刹车。如果检测到故障，应该让专业人士进行检查。司机应定期检查刹车液位。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "741",
-        "catalog_id": "16",
-        "question_text": "请问对于血液酒精浓度（BAC）在80毫克至100毫克每100毫升血液的驾驶员，酒后驾车的处罚是什么？",
-        "option_a": " 罚款400欧元，禁驾6个月。",
-        "option_b": " 罚款200欧元，禁驾3个月。",
-        "option_c": " 罚款200欧元，禁驾6个月。",
-        "option_d": " 罚款400欧元，禁驾3个月。",
-        "correct_answer": "A",
-        "explanation": "酒精是导致死亡和伤害事故的主要因素。研究证明，即使是少量的酒精也会影响你的判断力和驾驶能力。超过法定限度的酒精水平驾驶是非法的。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "66",
-        "catalog_id": "1",
-        "question_text": "What should a driver be aware of when following the motorcyclist, and the white car is reversing onto the road?",
-        "option_a": "The motorcyclist may signal the reversing driver to stop.",
-        "option_b": "The driver following the motorcycle may need a longer braking distance than normal.",
-        "option_c": "The brake lights on the motorcycle may not be working.",
-        "option_d": "The reversing driver will stop when they see the motorcyclist.",
-        "correct_answer": "B",
-        "explanation": "You should always keep a safe distance from the vehicle in front if it is slowing down or stopping. Always read the road and be prepared to react correctly to changes in the traffic ahead.",
-        "image_name": "ABMW0282RU19.jpg"
-    },
-    {
-        "question_id": "87",
-        "catalog_id": "1",
-        "question_text": "当面对这种情况时，司机应该怎么做？",
-        "option_a": " 司机应该为前面的车辆加速做好准备。",
-        "option_b": " 降低速度并随时准备刹车，因为人行道上的女孩可能会突然穿越马路。",
-        "option_c": " 司机可以超过汽车和女孩，因为道路上标有断续白线。",
-        "option_d": " 司机应该保持当前速度并减少与银色汽车的距离。",
-        "correct_answer": "B",
-        "explanation": " 预测其它道路使用者的行为通常很难。如果行人步入道路并且银色汽车突然停车，你应该做好准备。",
-        "image_name": "ABMW0249RU19.jpg"
-    },
-    {
-        "question_id": "73",
-        "catalog_id": "1",
-        "question_text": "当驾驶员在车流中行驶并且不打算超车时，他们应该怎么做？",
-        "option_a": " 靠近前车行驶。 ",
-        "option_b": " 向后面的车辆示意超车。 ",
-        "option_c": " 打左转向灯作为让后面的车辆超车的信号。 ",
-        "option_d": " 保持距离，为其他驾驶员超车留出空间。 ",
-        "correct_answer": "D",
-        "explanation": " 你应该始终在你的车辆和前车之间保持足够的距离。这将使你能够安全地停车（在你能看清的距离内）。它还将给超车的车辆足够的空间在超过你之后安全地并入到左侧车道。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "563",
-        "catalog_id": "13",
-        "question_text": "夜间驾车如果被后视镜中反射的车灯光晃眼该怎么办？",
-        "option_a": "可以临时调整后视镜的角度。",
-        "option_b": "打开危险报警闪光灯。",
-        "option_c": "打开后雾灯。",
-        "option_d": "调整后视镜将光线反射回追尾车辆的驾驶员。",
-        "correct_answer": "A",
-        "explanation": "如果你的内部后视镜中反射的来车交通灯光让你感到刺眼，那么启动夜间驾驶/防眩光模式。如果车辆没有这个功能，驾驶员应该临时调整内部后视镜的角度，以减轻眩光，允许他们在无分心的情况下驾驶。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "640",
-        "catalog_id": "15",
-        "question_text": "司机怎样才能知道刹车灯泡不工作了？",
-        "option_a": " 他们会注意到踩下去的刹车踏板变得更软。",
-        "option_b": " 他们会注意到刹车踏板变得更硬。",
-        "option_c": " 站在车辆后方，并请另一个人打开侧灯。",
-        "option_d": " 站在车辆后方，当另一个人踩下刹车踏板时进行检查。",
-        "correct_answer": "D",
-        "explanation": " 为了让司机知道后刹车灯是否正常工作，他们应该站在车辆后方，当另一个人踩下刹车时检查刹车灯是否亮起。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "694",
-        "catalog_id": "15",
-        "question_text": "3岁以下儿童能否在车辆的前排乘客座位上未系安全带？",
-        "option_a": " 不可以，除非儿童使用了儿童增高座椅。",
-        "option_b": " 不行，婴儿必须始终使用正确的儿童安全座椅系好。",
-        "option_c": " 可以，但仅限于车辆安装有主动式安全气囊的情况下。",
-        "option_d": " 可以，前提是婴儿被成人牢牢抱住。",
-        "correct_answer": "B",
-        "explanation": " 通常，儿童在车辆中旅行时必须始终系好安全带。3岁以下的儿童必须使用合适的儿童约束系统。警告：永远不要在有主动式前面安全气囊保护的座位上使用面朝后方的儿童汽车座椅。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "99",
-        "catalog_id": "2",
-        "question_text": "在碰撞事故中有人受伤时，驾驶员应该怎么做?",
-        "option_a": " 将伤者移至路边。",
-        "option_b": " 将车辆挪开以避免造成阻碍。",
-        "option_c": " 仅当有火灾或进一步受伤的危险时才移动伤者。",
-        "option_d": " 始终移动伤者和车辆。",
-        "correct_answer": "C",
-        "explanation": " 除非存在火灾或进一步受伤的风险，否则永远不要在碰撞现场移动受伤者。移动伤者可能会加剧他们的伤害。受过训练的人员最知道如何照料受伤者。呼叫紧急服务（拨打999或112），或确保有其他人已经呼叫了他们。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "564",
-        "catalog_id": "13",
-        "question_text": "如果一辆正在隧道中行驶的车辆起火了，司机应该怎么做？",
-        "option_a": " 立即离开车辆，并在最近的紧急情况站使用紧急电话。",
-        "option_b": " 尽快驾车前往最近的紧急出口。",
-        "option_c": " 留在车内并打电话给紧急情况站报告火情。",
-        "option_d": " 等待隧道交通广播宣布火灾演习。",
-        "correct_answer": "A",
-        "explanation": " 如果车辆里有烟雾或起火，立即熄火，离开车辆，前往紧急情况站，并使用紧急电话向隧道操作员报警，并通过最近可用的出口离开隧道。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "732",
-        "catalog_id": "16",
-        "question_text": "对于持有全驾照的专业司机，如果血液中酒精浓度（BAC）为20毫克至80毫克/100毫升血液，饮酒驾驶的处罚是什么？ ",
-        "option_a": " 处罚只适用于超过80毫克（BAC）的情况。 ",
-        "option_b": " 罚款200欧元，吊销驾驶执照3个月。 ",
-        "option_c": " 罚款100欧元，吊销驾驶执照6个月。 ",
-        "option_d": " 在50毫克（BAC）以下没有处罚。 ",
-        "correct_answer": "B",
-        "explanation": " 酒精是导致死亡和受伤事故的主要因素。研究证明，即使少量酒精也会影响您的判断力和驾驶能力。驾驶时的酒精水平超过法定限制是非法",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "729",
-        "catalog_id": "16",
-        "question_text": "爱尔兰警察（An Gárda Síochána）能否在早晨进行路边的毒品和酒精测试？",
-        "option_a": " 他们只能检查毒品。",
-        "option_b": " 是的，他们可以在任何时间进行检查。",
-        "option_c": " 他们只能检查酒精。",
-        "option_d": " 不，他们必须等到中午之后才能进行检查。",
-        "correct_answer": "B",
-        "explanation": " 在「受到酒精或药物影响以至于无法控制车辆」的情况下驾驶汽车、摩托车、卡车、巴士、脚踏车或牵动物的车辆是违法的。致醉物包括酒精和药物，不管是单独使用还是混合使用。这里的「药物」一词包括合法的处方药和非处方药（OTC）。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "738",
-        "catalog_id": "16",
-        "question_text": "当司机接近施工区域，并且有土方机械在移动时应该怎么办？",
-        "option_a": " 开启前大灯作为警告，然后照常行驶。",
-        "option_b": " 停下来，将车辆在道路上调头，寻找另一条路线。",
-        "option_c": " 减速，因为路上可能会有松散的砂石或泥土。",
-        "option_d": " 按喇叭并保持正常速度。",
-        "correct_answer": "C",
-        "explanation": " 在土方机械工作的地方，道路上可能会有泥土和砂石。此外，这些机器的噪音可能会让道路工作者听不到接近的交通。当你遇到土方机械时，应减速并非常小心地继续行驶。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "565",
-        "catalog_id": "13",
-        "question_text": "Category W学习许可持有者什么时候可以携带乘客？",
-        "option_a": " 只有当乘客持有AM类驾驶执照时。",
-        "option_b": " 只有当乘客也持有W类驾驶执照时。",
-        "option_c": " 只有当乘客持有AM类驾驶执照并且车辆被设计成可以携带乘客时。",
-        "option_d": " 只有当乘客也持有W类驾驶执照并且车辆被设计成可以携带乘客时。",
-        "correct_answer": "D",
-        "explanation": " W类学习许可持有者只有在以下情况下才可以在车辆中携带乘客：车辆被设计为可以携带乘客，并且乘客已经持有W类全面驾驶执照两年或以上。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "547",
-        "catalog_id": "13",
-        "question_text": "如果车辆的窗户和镜子被冰覆盖，驾驶员应该做什么？",
-        "option_a": "开启加热系统，并使用刮刀在驾驶前清除冰块。",
-        "option_b": "开启挡风玻璃刮水器。",
-        "option_c": "使用沸水加盐来清除冰块。",
-        "option_d": "开车时减速直到加热系统清除了冰块。",
-        "correct_answer": "A",
-        "explanation": "确保所有的窗户和镜子完全没有冰，以便驾驶员能够安全地观察周围的道路和交通状况。在滑溜的路面驾驶时这尤其重要。在车内携带一罐除冰剂是好习惯，如果可能的话，还应该在洗涤液水箱中加入除冰剂。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "751",
-        "catalog_id": "16",
-        "question_text": "如果司机的行驶速度没有前面的车辆快，他们应该怎么做？",
-        "option_a": " 司机应保持自己的位置，并不允许跟随的车辆超车。",
-        "option_b": " 司机应开启危险警告灯，并保持在左侧行驶。",
-        "option_c": " 司机应通过手势邀请其他车辆超车。",
-        "option_d": " 司机应保持在左侧，并允许其他车辆如果愿意就可以超车。",
-        "correct_answer": "D",
-        "explanation": " 时刻观察前方道路情况，准备好应对任何交通状况。您不应该开得太慢，以至于不必要地阻碍其他道路使用者。如果其他车辆想要安全通过，尽可能保持在左侧。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "731",
-        "catalog_id": "16",
-        "question_text": "对于拒绝向爱尔兰国家警察局提供呼吸、血液或尿液样本作为第二次违规证据的司机，将受到什么处罚？",
-        "option_a": " 自动取消资格6年。",
-        "option_b": " 自动取消资格12个月。",
-        "option_c": " 自动取消资格3个月。",
-        "option_d": " 自动取消资格4年。",
-        "correct_answer": "A",
-        "explanation": " 酒精是导致死亡和受伤事故的主要因素。研究证明，即使是少量的酒精或药物也会影响你的判断力和驾驶能力。驾驶时血液中的酒精含量超过法定限度或在药物影响下驾驶都是非法的。拒绝提供呼吸、血液或尿液样本属于违法行为。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "67",
-        "catalog_id": "1",
-        "question_text": "这位司机正在跟随这两辆车并希望超车 - 在这里超车之前司机需要考虑什么？",
-        "option_a": "司机的视野不够好，不足以安全超车。",
-        "option_b": " 银色车的司机可能会决定向右转。",
-        "option_c": " 道路标线禁止在这里超车。",
-        "option_d": " 司机应该一起超过两辆车。",
-        "correct_answer": "A",
-        "explanation": " 你应该始终确保前方道路畅通，这样才有足够的距离让你能够超车并且回到正确的路侧，无需迫使其他道路使用者改变速度或路线。在这种情况下，山丘的顶部太近，不允许司机安全超车。",
-        "image_name": "ABMW0239R.jpg"
-    },
-    {
-        "question_id": "730",
-        "catalog_id": "16",
-        "question_text": "根据事故前报告，哪个性别更有可能酒后驾驶并卷入致命碰撞？",
-        "option_a": " 男性和女性都不酒驾 ",
-        "option_b": " 男性 ",
-        "option_c": " 男性和女性酒后驾驶的概率相同 ",
-        "option_d": " 女性 ",
-        "correct_answer": "B",
-        "explanation": "在分析的所有867起致命碰撞中，38%的报告指出酒精是主要的促成因素。在这个数字中，有29%涉及至少一名在事故前有饮酒记录的司机或摩托车手。这强调了在爱尔兰仍有高比例的醉酒驾驶行为。事实上：所有这些司机都因他们在事故前的道路行为而被认定对碰撞负有全部或部分责任。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "737",
-        "catalog_id": "16",
-        "question_text": "如果司机看到一辆卡车正在向左侧的侧门倒车，应该怎么做？ ",
-        "option_a": " 应该安全地停车并等待道路畅通。 ",
-        "option_b": " 按喇叭，示意卡车司机停车。 ",
-        "option_c": " 尝试超车，以免影响后方交通。 ",
-        "option_d": " 靠近卡车停下。 ",
-        "correct_answer": "A",
-        "explanation": " 始终观察前方道路，并准备好对任何交通情况做出反应。你应该意识到大型车辆驾驶员在倒车进入侧门时可能遇到的困难。在这种情况下，大型车辆倒车可能会阻挡你接近时对前方道路的视线，你应该给卡车司机足够的空间进行操作。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "88",
-        "catalog_id": "1",
-        "question_text": "在高速公路或双车道公路上可以追尾吗？",
-        "option_a": " 不可以，因为其他车辆没有空间超车。",
-        "option_b": " 不可以，因为前车可能会突然停车。",
-        "option_c": " 可以，因为所有交通都同时朝一个方向移动。",
-        "option_d": " 可以，因为有迎面而来的交通。",
-        "correct_answer": "B",
-        "explanation": " 如果你离前车太近，并且它突然刹车，你将没有足够的时间反应。因此，你应该始终与前车保持安全距离。在干燥天气下计算安全距离的一种方法是两秒钟规则：至少让两秒钟的时间流逝，然后你的车和前车通过一个固定点，比如灯柱或标志柱。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "186",
-        "catalog_id": "5",
-        "question_text": "深夜驾车时，司机应注意什么？",
-        "option_a": " 午夜至清晨6点之间不适用速度限制。",
-        "option_b": " 所有行人都将穿着高能见度的衣服。",
-        "option_c": " 卡车可以在高速公路的最外侧车道行驶。",
-        "option_d": " 存在自己或其他驾驶员犯困的危险。",
-        "correct_answer": "D",
-        "explanation": " 疲劳驾驶可能非常危险，驾驶员疲劳是导致严重道路碰撞的主要原因之一。如果驾驶员在驾驶过程中感到困倦，他们应该在安全的地方停下来，喝含咖啡因的饮料并小睡片刻。之后他们应该出去呼吸新鲜空气，并且伸展腿脚几分钟再继续上路。疲劳的唯一解决办法是充足的睡眠。切勿在疲劳时驾车。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "733",
-        "catalog_id": "16",
-        "question_text": "在国道上行驶时，是否允许为了让速度较快的交通工具超车而行驶在硬路肩上？",
-        "option_a": " 只有当卡车或公共汽车想要超车时才可以。",
-        "option_b": " 不行，除非是在“2加1路”上行驶。",
-        "option_c": " 是的，如果硬路肩是清晰并且安全的话，可以临时行驶。",
-        "option_d": " 仅在双向行驶道上行驶时。",
-        "correct_answer": "C",
-        "explanation": " 在国道上，硬路肩通常仅供行人和自行车使用。如果你想让后面的车辆超车，可以短暂地驶入硬路肩，前提是没有行人或自行车使用，并且附近没有交叉路口或出入口。然而，在高速公路上，除非是紧急情况，否则你不得在硬路肩上行驶。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "112",
-        "catalog_id": "2",
-        "question_text": "当司机涉及仅对财产造成损害的事件时应该怎么办？",
-        "option_a": "如果已经向财产所有者报告了此事件，那么就没有必要向爱尔兰国家警察（Gardaí）报告。",
-        "option_b": "如果车辆没有损害，那么无需报告此事件。",
-        "option_c": "必须在48小时内同时向财产所有者和爱尔兰国家警察报告此事件。",
-        "option_d": "只需在10天内向爱尔兰国家警察报告此事件。",
-        "correct_answer": "A",
-        "explanation": "如果事件仅对财产造成损害，并且现场有爱尔兰国家警察在场，必须向爱尔兰国家警察报告。如果现场没有警察在场，必须通知财产的所有者或负责人。如果这两者都不在现场，那么必须尽快在爱尔兰国家警察局提供相关信息。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "637",
-        "catalog_id": "15",
-        "question_text": "驾驶员更换前部近侧（左侧）车轮时应采取哪些措施？ ",
-        "option_a": " 将前轮朝向路边。 ",
-        "option_b": " 将前轮背离路边。 ",
-        "option_c": " 确保车辆在升起时不能滚动。 ",
-        "option_d": " 确保换挡杆处于空挡。 ",
-        "correct_answer": "C",
-        "explanation": " 如果驾驶员需要更换前部近侧（左侧）车轮，请确保在平坦的安全地点进行。注意，穿着高能见度背心/夹克，根据需要使用警示三角牌和危险警示灯。车辆应通过拉手刹来固定，关闭引擎，挂入低档位，并在需要时使用轮胎垫来确保安全。如果不熟悉如何更换车轮，请寻求有经验的人的帮助。",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "641",
-        "catalog_id": "15",
-        "question_text": "在每周检查中，司机注意到一个前轮胎磨损严重。司机应该怎么办？",
-        "option_a": " 将磨损的轮胎换到后轮上。",
-        "option_b": " 更换磨损的轮胎。",
-        "option_c": " 检查轮胎气压以确保其保持恒定。",
-        "option_d": " 在湿滑的道路上驾车时减速。",
-        "correct_answer": "B",
-        "explanation": " 轮胎是车辆唯一接触道路的部分，接触面积小，如果磨损，将无法适当和安全地抓地。车辆上轮胎的质量是车辆道路抓地力和制动能力的重要因素。司机应定期检查轮胎，如果他们注意到轮胎磨损严重，应立即更换。尽管大多数车辆的轮胎最小合法胎纹深度为1.6毫米（摩托车为1毫米），但司机应在轮胎变得如此磨损之前更换。",
-        "image_name": "loader.gif"
-    },
-        {
-            "question_id": "397",
-            "catalog_id": "10",
-            "question_text": "这个标志是什么意思？",
-            "option_a": "前方有三条车道。",
-            "option_b": "前方有交叉交通。",
-            "option_c": "距离下一个出口三百米。",
-            "option_d": "仅限三辆车停车。",
-            "correct_answer": "C",
-            "explanation": "这是一个高速公路信息标志，告诉你下一个高速公路出口在300米前。",
-            "image_name": "ABMW0112R.png"
-        },
-        {
-            "question_id": "398",
-            "catalog_id": "10",
-            "question_text": "在接近收费站时，这个标志是什么意思？",
-            "option_a": "这条车道只接受欧元支付。",
-            "option_b": "这条车道不接受电子收费。",
-            "option_c": "这条车道的电子收费不可用。",
-            "option_d": "任何车道均接受电子收费。",
-            "correct_answer": "D",
-            "explanation": "这个标志用于收费站，指导车辆驶入电子收费车道。当车辆通过收费站时，通过安装在挡风玻璃上的电子标签识别。费用将通过用户账户收取。只有装有标签的车辆才能使用这些车道。",
-            "image_name": "ABMW5U19.jpg"
-        },
-        {
-            "question_id": "400",
-            "catalog_id": "10",
-            "question_text": "这个标志是什么意思？",
-            "option_a": "当前方车辆显示刹车灯时，驾驶员必须停车。",
-            "option_b": "当红灯亮时，驾驶员必须停车。",
-            "option_c": "突出车辆有优先权。必要时驾驶员必须停车。",
-            "option_d": "停车并等待绿灯亮起后再行驶。",
-            "correct_answer": "B",
-            "explanation": "这个标志预先警告你必须在红灯亮起时停车。这个标志可能显示在铁路平交道口。",
-            "image_name": "ABMW0083.png"
-        },
-        {
-            "question_id": "401",
-            "catalog_id": "10",
-            "question_text": "这个标志是什么意思？",
-            "option_a": "Y型路口，主路向左转。",
-            "option_b": "Y型路口，重型车辆必须向左转。",
-            "option_c": "Y型路口，主路向右转。",
-            "option_d": "Y型路口，车辆必须向左转。",
-            "correct_answer": "A",
-            "explanation": "这个标志预先警告前方有一个与次要道路的Y型路口。Y型的较宽的一臂表明主路的走向。",
-            "image_name": "ABMW0052RU19.png"
-        },
-        {
-            "question_id": "402",
-            "catalog_id": "10",
-            "question_text": "驾驶员是否可以在进入物业的入口处停车？",
-            "option_a": "可以，但需得到物业主人的同意。",
-            "option_b": "可以，在营业时间外。",
-            "option_c": "可以，在23.30至07.00之间停1小时。",
-            "option_d": "可以，在07.00至23.30之间停1小时。",
-            "correct_answer": "A",
-            "explanation": "你只能在得到物业主人同意的情况下才能停在进入物业的入口处。停在入口处可能会给进出物业的人带来不便和危险。",
-            "image_name": "loader.gif"
-        },
-        {
-            "question_id": "789",
-            "catalog_id": "10",
-            "question_text": "在高速行驶时，方向盘持续震动通常表明什么？",
-            "option_a": "方向系统未校准。",
-            "option_b": "车轮平衡不均。",
-            "option_c": "减震器磨损。",
-            "option_d": "重量分布不均。",
-            "correct_answer": "B",
-            "explanation": "如果驾驶员在高速行驶时感觉到方向盘持续震动，这通常表明车轮平衡不均。这可能导致车辆操控不稳。如果是这种情况，应该请专业人士检查。",
-            "image_name": "loader.gif"
-        },
-        {
-            "question_id": "790",
-            "catalog_id": "10",
-            "question_text": "在更换车辆轮胎后，应在短距离行驶后检查以下哪一项？",
-            "option_a": "轮胎气门。",
-            "option_b": "刹车片间隙。",
-            "option_c": "轮毂螺母紧固度。",
-            "option_d": "轮胎胎纹深度。",
-            "correct_answer": "B",
-            "explanation": "更换车辆轮胎后，应在行驶一段短距离后检查替换轮胎的轮毂螺母或螺栓的紧固度，以确保它们安装牢固。如有疑问，请寻求专业人士协助。",
-            "image_name": "loader.gif"
-        },
-        {
-            "question_id": "791",
-            "catalog_id": "10",
-            "question_text": "轮胎气压不足会影响哪些方面？",
-            "option_a": "气候控制系统。",
-            "option_b": "刹车性能。",
-            "option_c": "排气系统。",
-            "option_d": "发动机温度。",
-            "correct_answer": "B",
-            "explanation": "轮胎气压不足可能会对车辆的许多系统产生不良影响，包括刹车性能、悬挂、转向和油耗。特别是，轮胎气压不足会影响车辆的刹车性能并导致轮胎过早磨损。轮胎应始终按照车辆制造商的指南充气，可在车辆手册中找到相关信息。",
-            "image_name": "loader.gif"
-        },
-        {
-            "question_id": "792",
-            "catalog_id": "10",
-            "question_text": "一般情况下，拖车的总重量超过多少必须安装刹车？",
-            "option_a": "850公斤",
-            "option_b": "500公斤",
-            "option_c": "750公斤",
-            "option_d": "900公斤",
-            "correct_answer": "C",
-            "explanation": "如果拖车的总重量超过750公斤或拖车车重的一半，则必须安装刹车。",
-            "image_name": "loader.gif"
-        }
-    
-    
+    }
 ]

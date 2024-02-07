@@ -1,89 +1,5 @@
 [
     {
-        "question_id": "275",
-        "catalog_id": "10",
-        "question_text": "What does this sign mean?",
-        "option_a": "Only ascending traffic ahead.",
-        "option_b": "Steep ascent ahead.",
-        "option_c": "Steep descent ahead.",
-        "option_d": "Humpback bridge ahead.",
-        "correct_answer": "B",
-        "explanation": "This sign gives advance warning of a steep ascent/upward hill ahead. You should react by selecting the appropriate gear.",
-        "image_name": "ABMW0077U19.png"
-    },
-    {
-        "question_id": "362",
-        "catalog_id": "10",
-        "question_text": "What does this Garda signal mean?",
-        "option_a": "Turn left.",
-        "option_b": "Proceed if approaching from the front.",
-        "option_c": "Stop if approaching from either the front or behind.",
-        "option_d": "Turn right.",
-        "correct_answer": "C",
-        "explanation": "When approaching a Garda giving this signal you must stop.",
-        "image_name": "ABMW0154R.jpg"
-    },
-    {
-        "question_id": "399",
-        "catalog_id": "10",
-        "question_text": "What does this sign mean?",
-        "option_a": "No bridges ahead.",
-        "option_b": "End of overhead bridge area.",
-        "option_c": "End of motorway.",
-        "option_d": "No overtaking.",
-        "correct_answer": "C",
-        "explanation": "This sign indicates the end of the motorway. You are leaving the motorway and its rules will no longer apply.",
-        "image_name": "ABMW0111RU19.png"
-    },
-    {
-        "question_id": "285",
-        "catalog_id": "10",
-        "question_text": "What does this sign mean?",
-        "option_a": "Double-decker buses only.",
-        "option_b": "Contra-flow bus lane.",
-        "option_c": "Two-way traffic system.",
-        "option_d": "With-flow bus lane.",
-        "correct_answer": "B",
-        "explanation": "This sign tells you that you must drive on the left and not use the contra-flow bus lane day or night. A contra-flow bus lane is one where the buses are going in the opposite direction.",
-        "image_name": "ABMW0046U19.png"
-    },
-    {
-        "question_id": "20",
-        "catalog_id": "1",
-        "question_text": "Which vehicle is in the correct position to make a right turn from a minor road onto a major road?",
-        "option_a": "1",
-        "option_b": "4",
-        "option_c": "3",
-        "option_d": "2",
-        "correct_answer": "A",
-        "explanation": "The correct position from which to turn right from a minor road to a major road is just left of centre of the road. You should take up the correct position in good time and complete the turn by entering the left-hand side of the major road.",
-        "image_name": "ABMW0312R.png"
-    },
-    {
-        "question_id": "74",
-        "catalog_id": "1",
-        "question_text": "What action should the driver take?",
-        "option_a": "Stop at the Stop line.",
-        "option_b": "Signal the bus to proceed.",
-        "option_c": "Proceed in front of the cyclist.",
-        "option_d": "Proceed in front of the bus.",
-        "correct_answer": "A",
-        "explanation": "By law you must stop at a Stop line (or at a Stop sign if there is no Stop line), and wait for other traffic to clear before proceeding.",
-        "image_name": "ABMW0254R.jpg"
-    },
-    {
-        "question_id": "286",
-        "catalog_id": "10",
-        "question_text": "Unless otherwise indicated, what is the maximum permissible speed of a car towing a trailer on national roads?",
-        "option_a": "120 km/h.",
-        "option_b": "100 km/h.",
-        "option_c": "80 km/h.",
-        "option_d": "60 km/h.",
-        "correct_answer": "C",
-        "explanation": "When towing a trailer on a national road, it is illegal to exceed 80 km/h - exceeding this speed will make the vehicle unstable.",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "1",
         "catalog_id": "1",
         "question_text": "Why might it be dangerous to drive on a poorly-lit street?",
@@ -130,18 +46,6 @@
         "correct_answer": "C",
         "explanation": "When you are turning right from a major road to a minor road, you must yield to oncoming traffic and only proceed when it is safe to do so. However, the drivers on the minor roads must give way to the traffic on the major road.",
         "image_name": "ABMW0230R.jpg"
-    },
-    {
-        "question_id": "18",
-        "catalog_id": "1",
-        "question_text": "What should a driver who wants to turn right do in this situation?",
-        "option_a": "Proceed straight ahead or turn left.",
-        "option_b": "Turn right from the left lane.",
-        "option_c": "Reverse and get into the right lane.",
-        "option_d": "Proceed straight ahead and take a wide turn to the right.",
-        "correct_answer": "A",
-        "explanation": "As you approach a junction where you want to turn right, you should read the road ahead and take up the correct position for turning in good time.",
-        "image_name": "ABMW0306RU19.jpg"
     },
     {
         "question_id": "5",
@@ -252,18 +156,6 @@
         "image_name": "ABMW0275R.jpg"
     },
     {
-        "question_id": "98",
-        "catalog_id": "2",
-        "question_text": "When dealing with crash victims, remember A B C. What does C stand for?",
-        "option_a": "Circulation.",
-        "option_b": "Coma.",
-        "option_c": "Cough.",
-        "option_d": "Coronary.",
-        "correct_answer": "A",
-        "explanation": "In assessing a crash victims vital signs, the following basic procedure should be used: First check the victim''s Airway is clear, then check they are Breathing and then check their Circulation (ABC).",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "14",
         "catalog_id": "1",
         "question_text": "What should a driver do if they see a red warning triangle on the road?",
@@ -312,6 +204,18 @@
         "image_name": "ABMW0223RU19.jpg"
     },
     {
+        "question_id": "18",
+        "catalog_id": "1",
+        "question_text": "What should a driver who wants to turn right do in this situation?",
+        "option_a": "Proceed straight ahead or turn left.",
+        "option_b": "Turn right from the left lane.",
+        "option_c": "Reverse and get into the right lane.",
+        "option_d": "Proceed straight ahead and take a wide turn to the right.",
+        "correct_answer": "A",
+        "explanation": "As you approach a junction where you want to turn right, you should read the road ahead and take up the correct position for turning in good time.",
+        "image_name": "ABMW0306RU19.jpg"
+    },
+    {
         "question_id": "19",
         "catalog_id": "1",
         "question_text": "Which car, if any, is parked incorrectly?",
@@ -322,6 +226,18 @@
         "correct_answer": "D",
         "explanation": "It is an offence to park within 15 metres before or 5 metres after a pedestrian crossing. Parking in this manner may restrict the zone of vision of drivers approaching the crossing and endanger pedestrians.",
         "image_name": "ABMW0251.jpg"
+    },
+    {
+        "question_id": "20",
+        "catalog_id": "1",
+        "question_text": "Which vehicle is in the correct position to make a right turn from a minor road onto a major road?",
+        "option_a": "1",
+        "option_b": "4",
+        "option_c": "3",
+        "option_d": "2",
+        "correct_answer": "A",
+        "explanation": "The correct position from which to turn right from a minor road to a major road is just left of centre of the road. You should take up the correct position in good time and complete the turn by entering the left-hand side of the major road.",
+        "image_name": "ABMW0312R.png"
     },
     {
         "question_id": "21",
@@ -492,18 +408,6 @@
         "image_name": "ABMW0242R.jpg"
     },
     {
-        "question_id": "452",
-        "catalog_id": "10",
-        "question_text": "What does this sign mean?",
-        "option_a": "Dual carriageway ends.",
-        "option_b": "Tunnel ahead.",
-        "option_c": "Road narrows ahead",
-        "option_d": "Oncoming traffic has priority.",
-        "correct_answer": "A",
-        "explanation": "This sign gives advance warning of the end of a dual carriageway. You will soon be entering a 2-way road.",
-        "image_name": "ABMW0074.png"
-    },
-    {
         "question_id": "35",
         "catalog_id": "1",
         "question_text": "How does giving a late signal affect other road users?",
@@ -588,18 +492,6 @@
         "image_name": "ABMW0237R.jpg"
     },
     {
-        "question_id": "100",
-        "catalog_id": "2",
-        "question_text": "When dealing with crash victims, remember A B C. What does A stand for?",
-        "option_a": "Airway.",
-        "option_b": "Arms.",
-        "option_c": "Assist.",
-        "option_d": "Accident.",
-        "correct_answer": "A",
-        "explanation": "In assessing a crash victims vital signs the following basic procedure should be used First check the victim''s Airway is clear, then check they are Breathing and then check their Circulation (ABC).",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "42",
         "catalog_id": "1",
         "question_text": "After a heavy downpour, why should a driver keep a greater distance from the vehicle in front?",
@@ -670,18 +562,6 @@
         "correct_answer": "C",
         "explanation": "As you approach a humpbacked bridge or hill, you should be aware that there might be hidden dangers ahead - for example, overtaking traffic coming towards you. You should always read the road ahead and be prepared to react to changing traffic situations such as this.",
         "image_name": "loader.gif"
-    },
-    {
-        "question_id": "453",
-        "catalog_id": "10",
-        "question_text": "What does this Garda signal mean?",
-        "option_a": "Turn left.",
-        "option_b": "Stop if approaching from behind.",
-        "option_c": "Stop if approaching from front.",
-        "option_d": "Turn right.",
-        "correct_answer": "B",
-        "explanation": "When approaching a Garda giving this signal you must stop.",
-        "image_name": "ABMW0153R.jpg"
     },
     {
         "question_id": "48",
@@ -936,18 +816,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "99",
-        "catalog_id": "2",
-        "question_text": "What should a driver do where a person has been injured in a collision?",
-        "option_a": "Move the victim to the side of the road.",
-        "option_b": "Move the vehicles out of the way to avoid causing obstruction.",
-        "option_c": "Move the victim only if there is a risk of fire or further injury.",
-        "option_d": "Always move the victim and the vehicles.",
-        "correct_answer": "C",
-        "explanation": "Never move an injured person at the scene of a collision unless there is a risk of fire or further injury. Moving an injured person could add to their injuries. Trained personnel know best how to attend to injured persons. Call the emergency services (on 999 or 112) or make sure that someone else has called them.",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "69",
         "catalog_id": "1",
         "question_text": "What should the driver do if there are children playing at the edge of the roadway?",
@@ -1006,6 +874,18 @@
         "correct_answer": "D",
         "explanation": "You should always allow sufficient distance between your vehicle and the vehicle in front. This will enable you to stop safely (within the distance you can see clear). It will also give overtaking vehicles enough room to pull in safely to the left lane after they have passed you.",
         "image_name": "loader.gif"
+    },
+    {
+        "question_id": "74",
+        "catalog_id": "1",
+        "question_text": "What action should the driver take?",
+        "option_a": "Stop at the Stop line.",
+        "option_b": "Signal the bus to proceed.",
+        "option_c": "Proceed in front of the cyclist.",
+        "option_d": "Proceed in front of the bus.",
+        "correct_answer": "A",
+        "explanation": "By law you must stop at a Stop line (or at a Stop sign if there is no Stop line), and wait for other traffic to clear before proceeding.",
+        "image_name": "ABMW0254R.jpg"
     },
     {
         "question_id": "75",
@@ -1164,18 +1044,6 @@
         "image_name": "ABMW0249RU19.jpg"
     },
     {
-        "question_id": "105",
-        "catalog_id": "2",
-        "question_text": "What should a driver do to assist a person who is unconscious following a collision?",
-        "option_a": "Try and get the person to drink something warm.",
-        "option_b": "Try to keep the person warm with a blanket or overcoat.",
-        "option_c": "Raise the person's head and hold it in that position.",
-        "option_d": "Move the person to the nearest hospital immediately.",
-        "correct_answer": "B",
-        "explanation": "If a person is unconscious following a collision, a driver should try to keep them warm with a blanket or overcoat until the emergency services arrive. Call the emergency services (on 999 or 112) or make sure that someone else has called them.",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "88",
         "catalog_id": "1",
         "question_text": "Is tailgating allowed on a motorway or dual carriageway?",
@@ -1296,6 +1164,42 @@
         "image_name": "ABMW0288R.jpg"
     },
     {
+        "question_id": "98",
+        "catalog_id": "2",
+        "question_text": "When dealing with crash victims, remember A B C. What does C stand for?",
+        "option_a": "Circulation.",
+        "option_b": "Coma.",
+        "option_c": "Cough.",
+        "option_d": "Coronary.",
+        "correct_answer": "A",
+        "explanation": "In assessing a crash victims vital signs, the following basic procedure should be used: First check the victim''s Airway is clear, then check they are Breathing and then check their Circulation (ABC).",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "99",
+        "catalog_id": "2",
+        "question_text": "What should a driver do where a person has been injured in a collision?",
+        "option_a": "Move the victim to the side of the road.",
+        "option_b": "Move the vehicles out of the way to avoid causing obstruction.",
+        "option_c": "Move the victim only if there is a risk of fire or further injury.",
+        "option_d": "Always move the victim and the vehicles.",
+        "correct_answer": "C",
+        "explanation": "Never move an injured person at the scene of a collision unless there is a risk of fire or further injury. Moving an injured person could add to their injuries. Trained personnel know best how to attend to injured persons. Call the emergency services (on 999 or 112) or make sure that someone else has called them.",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "100",
+        "catalog_id": "2",
+        "question_text": "When dealing with crash victims, remember A B C. What does A stand for?",
+        "option_a": "Airway.",
+        "option_b": "Arms.",
+        "option_c": "Assist.",
+        "option_d": "Accident.",
+        "correct_answer": "A",
+        "explanation": "In assessing a crash victims vital signs the following basic procedure should be used First check the victim''s Airway is clear, then check they are Breathing and then check their Circulation (ABC).",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "101",
         "catalog_id": "2",
         "question_text": "What should a driver do if they arrive at the scene of a collision involving a vehicle carrying hazardous materials?",
@@ -1338,22 +1242,22 @@
         "option_a": "The local Motor Taxation Office.",
         "option_b": "The National Driver Licence Service (NDLS)",
         "option_c": "The Irish Insurance Federation.",
-        "option_d": "The driver's insurance company and the Garda\u00cc_.",
+        "option_d": "The driver's insurance company and the GardaÌ_.",
         "correct_answer": "D",
-        "explanation": "If you are involved in a serious collision, you should always report it to the Garda\u00cc_ and to your insurance company.",
+        "explanation": "If you are involved in a serious collision, you should always report it to the GardaÌ_ and to your insurance company.",
         "image_name": "loader.gif"
     },
     {
-        "question_id": "454",
-        "catalog_id": "10",
-        "question_text": "What does this hand signal mean?",
-        "option_a": "The cyclist intends to cross the road.",
-        "option_b": "The cyclist intends to turn left.",
-        "option_c": "The cyclist intends to stop.",
-        "option_d": "The cyclist is signalling the driver to stop.",
+        "question_id": "105",
+        "catalog_id": "2",
+        "question_text": "What should a driver do to assist a person who is unconscious following a collision?",
+        "option_a": "Try and get the person to drink something warm.",
+        "option_b": "Try to keep the person warm with a blanket or overcoat.",
+        "option_c": "Raise the person's head and hold it in that position.",
+        "option_d": "Move the person to the nearest hospital immediately.",
         "correct_answer": "B",
-        "explanation": "This hand signal informs other road users that the cyclist intends to turn left.",
-        "image_name": "ABMW0145R.jpg"
+        "explanation": "If a person is unconscious following a collision, a driver should try to keep them warm with a blanket or overcoat until the emergency services arrive. Call the emergency services (on 999 or 112) or make sure that someone else has called them.",
+        "image_name": "loader.gif"
     },
     {
         "question_id": "106",
@@ -1383,12 +1287,12 @@
         "question_id": "108",
         "catalog_id": "2",
         "question_text": "When calling for help on an emergency telephone on the motorway, who does the call go to?",
-        "option_a": "The Garda\u00cc_.",
+        "option_a": "The GardaÌ_.",
         "option_b": "National Roads Authority.",
         "option_c": "National Safety Council.",
         "option_d": "Road Safety Authority.",
         "correct_answer": "A",
-        "explanation": "The emergency telephones at the side of a motorway are linked directly to An Garda S\u00cc_och\u00cc\u00c1na in order for them to respond appropriately as soon as possible. The Garda\u00cc_ know precisely the location of each call using these phones.",
+        "explanation": "The emergency telephones at the side of a motorway are linked directly to An Garda SÌ_ochÌÁna in order for them to respond appropriately as soon as possible. The GardaÌ_ know precisely the location of each call using these phones.",
         "image_name": "loader.gif"
     },
     {
@@ -1419,7 +1323,7 @@
         "question_id": "111",
         "catalog_id": "2",
         "question_text": "What should a driver do if involved in a collision with another vehicle where nobody is injured?",
-        "option_a": "Exchange no details but report the incident to the Garda\u00cc_.",
+        "option_a": "Exchange no details but report the incident to the GardaÌ_.",
         "option_b": "Exchange all relevant details with the other driver.",
         "option_c": "Give their name and address only to the other person.",
         "option_d": "Submit a written report to the Insurance Bureau of Ireland.",
@@ -1431,10 +1335,10 @@
         "question_id": "112",
         "catalog_id": "2",
         "question_text": "What should a driver do if involved in an incident where there is damage to property only?",
-        "option_a": "It is not necessary to report it to the Garda\u00cc_ provided it has been reported to the property owner.",
+        "option_a": "It is not necessary to report it to the GardaÌ_ provided it has been reported to the property owner.",
         "option_b": "There is no need to report the incident if there is no damage to the vehicle.",
-        "option_c": "Report the incident both to the property owner and the Garda\u00cc_ within 48 hours.",
-        "option_d": "It is only necessary to report the incident to the Garda\u00cc_ within 10 days.",
+        "option_c": "Report the incident both to the property owner and the GardaÌ_ within 48 hours.",
+        "option_d": "It is only necessary to report the incident to the GardaÌ_ within 10 days.",
         "correct_answer": "A",
         "explanation": "If the incident causes damage to property only and there is a Garda present, it must be reported to the Garda. If there is no Garda present, the owner or the person in charge of the property must be informed. If neither are present then the relevant information must be provided at a Garda Station as soon as possible.",
         "image_name": "loader.gif"
@@ -1522,18 +1426,6 @@
         "correct_answer": "B",
         "explanation": "To stop your vehicle in an emergency, apply the footbrake firmly, and maintain the pressure until the vehicle stops. Depress the clutch pedal just before stopping.",
         "image_name": "loader.gif"
-    },
-    {
-        "question_id": "455",
-        "catalog_id": "10",
-        "question_text": "What does this sign mean?",
-        "option_a": "Children's play area ahead.",
-        "option_b": "Children's play area ahead.",
-        "option_c": "Pedestrian crossing ahead.",
-        "option_d": "School ahead.",
-        "correct_answer": "D",
-        "explanation": "This sign gives advance warning of a school ahead. You should adjust your speed and react accordingly as there may be children in the area.",
-        "image_name": "ABMW0091RU19.png"
     },
     {
         "question_id": "120",
@@ -1860,18 +1752,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "240",
-        "catalog_id": "7",
-        "question_text": "If a driver wishes to drive a vehicle but the tax disc is expired, what should they do?",
-        "option_a": "They should renew it within 10 days of expiry.",
-        "option_b": "They should contact the Garda\u00cc_ for approval.",
-        "option_c": "They should tax it immediately.",
-        "option_d": "They should drive it only in case of an emergency.",
-        "correct_answer": "C",
-        "explanation": "A motor vehicle must be taxed and must display the up-to-date tax disc before it may be taken on the road.",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "147",
         "catalog_id": "4",
         "question_text": "What should a driver do when travelling on a motorway or dual carriageway?",
@@ -1925,7 +1805,7 @@
         "question_text": "What should a driver do if their vehicle breaks down in a tunnel?",
         "option_a": "Use the emergency telephone to call for help.",
         "option_b": "Hitch a lift to the nearest service area and get help.",
-        "option_c": "Walk to the end of the tunnel to call the Garda\u00cc_.",
+        "option_c": "Walk to the end of the tunnel to call the GardaÌ_.",
         "option_d": "Flag down a passing motorist and ask for help.",
         "correct_answer": "A",
         "explanation": "If a driver''s vehicle stops in a tunnel due to a breakdown, switch off the engine, switch on the hazard warning lights, check the radio for instructions and use the emergency phone at the emergency station to call for help, check all electronic signs in the tunnel for information.",
@@ -2184,18 +2064,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "241",
-        "catalog_id": "7",
-        "question_text": "What is the minimum insurance cover a driver needs to drive on a public road?",
-        "option_a": "Third Party, Fire and Theft.",
-        "option_b": "Personal Accident.",
-        "option_c": "Third Party.",
-        "option_d": "Comprehensive.",
-        "correct_answer": "C",
-        "explanation": "As a motorist, you must have a minimum of third party insurance.",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "173",
         "catalog_id": "5",
         "question_text": "When driving, what effect could icy roads have on the vehicle?",
@@ -2352,18 +2220,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "213",
-        "catalog_id": "6",
-        "question_text": "What should a driver do to minimise fuel consumption in their vehicle?",
-        "option_a": "Brake hard on approach to traffic lights to stop quickly.",
-        "option_b": "Drive gently in a low gear.",
-        "option_c": "Use gentle acceleration and braking.",
-        "option_d": "Use maximum acceleration between gear changes.",
-        "correct_answer": "C",
-        "explanation": "Driving smoothly will help reduce fuel consumption. Read the road ahead and adjust speed in good time, and avoid harsh acceleration and late braking.",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "186",
         "catalog_id": "5",
         "question_text": "When driving late at night what should a driver be aware of?",
@@ -2472,18 +2328,6 @@
         "image_name": "BW0004RU19.jpg"
     },
     {
-        "question_id": "276",
-        "catalog_id": "10",
-        "question_text": "What does this sign mean?",
-        "option_a": "End of obstruction between lanes.",
-        "option_b": "Traffic merging from both sides.",
-        "option_c": "End of dual carriageway ahead.",
-        "option_d": "Road narrows on both sides.",
-        "correct_answer": "D",
-        "explanation": "This roadworks warning sign tells you that the road narrows on both sides creating a potential hazard. Be prepared to slow down and drive with extra care.",
-        "image_name": "ABMW0120RU19.png"
-    },
-    {
         "question_id": "195",
         "catalog_id": "5",
         "question_text": "When driving at night and blinded by the lights of an oncoming vehicle, what should a driver do?",
@@ -2548,11 +2392,11 @@
         "catalog_id": "5",
         "question_text": "What is the danger in driving at high speeds on wet roads?",
         "option_a": "There is no danger provided that the tyre pressure has been increased to take account of weather conditions.",
-        "option_b": "Danger of \u2030\u00db\u00f7aquaplaning' or sliding across the road surface.",
+        "option_b": "Danger of ‰Û÷aquaplaning' or sliding across the road surface.",
         "option_c": "Danger that tyre pressure will automatically increase.",
         "option_d": "There is no danger provided that the tyre pressure has been reduced to take account of weather conditions.",
         "correct_answer": "B",
-        "explanation": "The driver should moderate their speed during heavy rain or where water is building up on the road surface. This will help to avoid \u2030\u00db\u00f7aquaplaning'' which has the effect of reducing the grip of the tyres on the road, and this affects the steering and braking. For these reasons the driver should slow down during and after rain and keep a greater distance from the vehicle in front.",
+        "explanation": "The driver should moderate their speed during heavy rain or where water is building up on the road surface. This will help to avoid ‰Û÷aquaplaning'' which has the effect of reducing the grip of the tyres on the road, and this affects the steering and braking. For these reasons the driver should slow down during and after rain and keep a greater distance from the vehicle in front.",
         "image_name": "loader.gif"
     },
     {
@@ -2560,7 +2404,7 @@
         "catalog_id": "5",
         "question_text": "What should a driver do when driving in heavy rain?",
         "option_a": "Increase speed so that the vehicle will glide over any standing water.",
-        "option_b": "Be aware that the vehicle may slide or \u2030\u00db\u00f7aquaplane'.",
+        "option_b": "Be aware that the vehicle may slide or ‰Û÷aquaplane'.",
         "option_c": "Weave the vehicle slightly in order to improve tyre grip.",
         "option_d": "Maintain normal speeds as on a dry road.",
         "correct_answer": "B",
@@ -2652,18 +2496,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "333",
-        "catalog_id": "10",
-        "question_text": "What does this traffic light mean?",
-        "option_a": "Traffic may proceed if the way is clear.",
-        "option_b": "Traffic must stop at the traffic light.",
-        "option_c": "Traffic may proceed but not turn right.",
-        "option_d": "Give way to any oncoming traffic turning right.",
-        "correct_answer": "A",
-        "explanation": "You may proceed on a green traffic light if it is safe to do so.",
-        "image_name": "ABMW0177R.png"
-    },
-    {
         "question_id": "209",
         "catalog_id": "6",
         "question_text": "When is the use of the horn prohibited?",
@@ -2712,6 +2544,18 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "213",
+        "catalog_id": "6",
+        "question_text": "What should a driver do to minimise fuel consumption in their vehicle?",
+        "option_a": "Brake hard on approach to traffic lights to stop quickly.",
+        "option_b": "Drive gently in a low gear.",
+        "option_c": "Use gentle acceleration and braking.",
+        "option_d": "Use maximum acceleration between gear changes.",
+        "correct_answer": "C",
+        "explanation": "Driving smoothly will help reduce fuel consumption. Read the road ahead and adjust speed in good time, and avoid harsh acceleration and late braking.",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "214",
         "catalog_id": "6",
         "question_text": "How does continuous high-speed driving affect fuel consumption?",
@@ -2726,7 +2570,7 @@
     {
         "question_id": "215",
         "catalog_id": "6",
-        "question_text": "What can be achieved by the driving style known as \u2030\u00db\u00f7Eco-Driving'?",
+        "question_text": "What can be achieved by the driving style known as ‰Û÷Eco-Driving'?",
         "option_a": "Reduced journey times.",
         "option_b": "Increased journey times.",
         "option_c": "Reduced fuel consumption.",
@@ -2750,7 +2594,7 @@
     {
         "question_id": "217",
         "catalog_id": "6",
-        "question_text": "What can be achieved by the driving style known as \u2030\u00db\u00f7Eco-Driving'?",
+        "question_text": "What can be achieved by the driving style known as ‰Û÷Eco-Driving'?",
         "option_a": "Increased journey times.",
         "option_b": "Reduced journey times.",
         "option_c": "Reduced journey times.",
@@ -2774,7 +2618,7 @@
     {
         "question_id": "219",
         "catalog_id": "6",
-        "question_text": "What can be achieved by the driving style known as \u2030\u00db\u00f7Eco-Driving'?",
+        "question_text": "What can be achieved by the driving style known as ‰Û÷Eco-Driving'?",
         "option_a": "Increased fuel efficiency.",
         "option_b": "Increased emissions.",
         "option_c": "Increased journey times.",
@@ -2806,18 +2650,6 @@
         "correct_answer": "D",
         "explanation": "One of the many advantages of an eco-driving style, includes; increased fuel efficiency, reduced emissions and improved driver safety. The eco-conscious driver becomes a more efficient driver because they learn to read the road further ahead and display better anticipation skills. This reduces the need for harsh acceleration and braking which results in a more economical style of driving and a smoother journey.",
         "image_name": "loader.gif"
-    },
-    {
-        "question_id": "334",
-        "catalog_id": "10",
-        "question_text": "What does this sign mean?",
-        "option_a": "One-way street ahead.",
-        "option_b": "Dangerous corner ahead.",
-        "option_c": "Dangerous bend ahead.",
-        "option_d": "Junction to the left.",
-        "correct_answer": "B",
-        "explanation": "This sign gives advance warning of a dangerous corner to the left. You may need to slow down and react to any changes in the traffic situation ahead.",
-        "image_name": "ABMW0066U19.png"
     },
     {
         "question_id": "222",
@@ -2883,7 +2715,7 @@
         "question_id": "227",
         "catalog_id": "7",
         "question_text": "What should a driver do when involved in an incident where nobody is injured but the vehicles are causing a danger or obstruction on the road?",
-        "option_a": "Wait for the Garda\u00cc_ to arrive before moving the vehicles.",
+        "option_a": "Wait for the GardaÌ_ to arrive before moving the vehicles.",
         "option_b": "Move all passengers and put a red warning triangle on the road.",
         "option_c": "Halt all traffic until it has been established who is at fault.",
         "option_d": "Take care when moving damaged vehicles and make every effort to warn other traffic.",
@@ -2982,7 +2814,7 @@
         "option_a": "The driver is the only one responsible.",
         "option_b": "The driver and/or the owner of the vehicle are responsible.",
         "option_c": "The owner is the only one responsible.",
-        "option_d": "The Garda\u00cc_ have total responsibility in this area.",
+        "option_d": "The GardaÌ_ have total responsibility in this area.",
         "correct_answer": "B",
         "explanation": "If you are the owner or the driver of a vehicle, you must ensure that it is taxed and that it displays an up-to-date tax disc before you take it on the road.",
         "image_name": "loader.gif"
@@ -3033,6 +2865,30 @@
         "option_d": "A driver should contact their own insurer to confirm whether or not their insurance policy covers the driving of other vehicles.",
         "correct_answer": "D",
         "explanation": "If you are in any doubt about your insurance cover, you should discuss the matter with your insurance company. It is a serious offence to drive without insurance.",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "240",
+        "catalog_id": "7",
+        "question_text": "If a driver wishes to drive a vehicle but the tax disc is expired, what should they do?",
+        "option_a": "They should renew it within 10 days of expiry.",
+        "option_b": "They should contact the GardaÌ_ for approval.",
+        "option_c": "They should tax it immediately.",
+        "option_d": "They should drive it only in case of an emergency.",
+        "correct_answer": "C",
+        "explanation": "A motor vehicle must be taxed and must display the up-to-date tax disc before it may be taken on the road.",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "241",
+        "catalog_id": "7",
+        "question_text": "What is the minimum insurance cover a driver needs to drive on a public road?",
+        "option_a": "Third Party, Fire and Theft.",
+        "option_b": "Personal Accident.",
+        "option_c": "Third Party.",
+        "option_d": "Comprehensive.",
+        "correct_answer": "C",
+        "explanation": "As a motorist, you must have a minimum of third party insurance.",
         "image_name": "loader.gif"
     },
     {
@@ -3120,18 +2976,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "356",
-        "catalog_id": "10",
-        "question_text": "What does this sign mean?",
-        "option_a": "Entry to motorway.",
-        "option_b": "Low bridge ahead.",
-        "option_c": "End of motorway.",
-        "option_d": "Toll bridge ahead.",
-        "correct_answer": "A",
-        "explanation": "This is a motorway information sign informing road users they are now entering the motorway and must obey motorway rules. This sign usually appears beside a motorway ahead sign.",
-        "image_name": "ABMW0109RU19.png"
-    },
-    {
         "question_id": "249",
         "catalog_id": "8",
         "question_text": "When a driver is at a junction where visibility is extremely limited, what should the driver do?",
@@ -3202,18 +3046,6 @@
         "correct_answer": "B",
         "explanation": "After overtaking, check your mirrors, signal and return to your normal lane position as soon as it is safe. Take a smooth easy line, gradually moving back in and allowing the other vehicle plenty of space and don''t cut in sharply.",
         "image_name": "loader.gif"
-    },
-    {
-        "question_id": "456",
-        "catalog_id": "10",
-        "question_text": "What does this sign mean?",
-        "option_a": "Series of bends ahead.",
-        "option_b": "Steep hill ahead.",
-        "option_c": "Road narrows from right.",
-        "option_d": "Slippery road ahead.",
-        "correct_answer": "D",
-        "explanation": "This sign gives advance warning of the potential danger of slippery road surfaces ahead.",
-        "image_name": "ABMW0088U19.png"
     },
     {
         "question_id": "255",
@@ -3301,18 +3133,6 @@
         "option_d": "By allowing at least two seconds to elapse between the vehicle in front and the driver's own vehicle passing a fixed point.",
         "correct_answer": "A",
         "explanation": "In wet conditions you should maintain a gap of at least four seconds from the vehicle in front - at least twice as long as in dry conditions.",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "376",
-        "catalog_id": "10",
-        "question_text": "Unless otherwise indicated, what is the maximum permissible speed for cars or motorcycles on national roads?",
-        "option_a": "120 km/h.",
-        "option_b": "80 km/h.",
-        "option_c": "100 km/h.",
-        "option_d": "60 km/h.",
-        "correct_answer": "C",
-        "explanation": "It is illegal to exceed 100 km/h when driving on a single carriageway national road.",
         "image_name": "loader.gif"
     },
     {
@@ -3476,6 +3296,30 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "275",
+        "catalog_id": "10",
+        "question_text": "What does this sign mean?",
+        "option_a": "Only ascending traffic ahead.",
+        "option_b": "Steep ascent ahead.",
+        "option_c": "Steep descent ahead.",
+        "option_d": "Humpback bridge ahead.",
+        "correct_answer": "B",
+        "explanation": "This sign gives advance warning of a steep ascent/upward hill ahead. You should react by selecting the appropriate gear.",
+        "image_name": "ABMW0077U19.png"
+    },
+    {
+        "question_id": "276",
+        "catalog_id": "10",
+        "question_text": "What does this sign mean?",
+        "option_a": "End of obstruction between lanes.",
+        "option_b": "Traffic merging from both sides.",
+        "option_c": "End of dual carriageway ahead.",
+        "option_d": "Road narrows on both sides.",
+        "correct_answer": "D",
+        "explanation": "This roadworks warning sign tells you that the road narrows on both sides creating a potential hazard. Be prepared to slow down and drive with extra care.",
+        "image_name": "ABMW0120RU19.png"
+    },
+    {
         "question_id": "277",
         "catalog_id": "10",
         "question_text": "What does this sign mean?",
@@ -3572,6 +3416,30 @@
         "image_name": "ABMW0056RU19.png"
     },
     {
+        "question_id": "285",
+        "catalog_id": "10",
+        "question_text": "What does this sign mean?",
+        "option_a": "Double-decker buses only.",
+        "option_b": "Contra-flow bus lane.",
+        "option_c": "Two-way traffic system.",
+        "option_d": "With-flow bus lane.",
+        "correct_answer": "B",
+        "explanation": "This sign tells you that you must drive on the left and not use the contra-flow bus lane day or night. A contra-flow bus lane is one where the buses are going in the opposite direction.",
+        "image_name": "ABMW0046U19.png"
+    },
+    {
+        "question_id": "286",
+        "catalog_id": "10",
+        "question_text": "Unless otherwise indicated, what is the maximum permissible speed of a car towing a trailer on national roads?",
+        "option_a": "120 km/h.",
+        "option_b": "100 km/h.",
+        "option_c": "80 km/h.",
+        "option_d": "60 km/h.",
+        "correct_answer": "C",
+        "explanation": "When towing a trailer on a national road, it is illegal to exceed 80 km/h - exceeding this speed will make the vehicle unstable.",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "287",
         "catalog_id": "10",
         "question_text": "What lights indicate a zebra crossing?",
@@ -3666,18 +3534,6 @@
         "correct_answer": "D",
         "explanation": "This sign gives advanced warning of an unguarded level crossing ahead. This is a crossing without gates or barriers and you should cross it with extreme caution.",
         "image_name": "ABMW0080R.png"
-    },
-    {
-        "question_id": "417",
-        "catalog_id": "10",
-        "question_text": "What does this sign mean?",
-        "option_a": "Cattle grid ahead.",
-        "option_b": "Possibility of cattle or farm animals ahead.",
-        "option_c": "Livestock mart ahead.",
-        "option_d": "Veterinary surgery ahead.",
-        "correct_answer": "B",
-        "explanation": "This sign gives advance warning that there may be cattle or other farm animals on the road ahead. Slow down if required and be prepared to stop.",
-        "image_name": "ABMW0096U19.png"
     },
     {
         "question_id": "295",
@@ -3908,18 +3764,6 @@
         "image_name": "ABMW0057RU19.png"
     },
     {
-        "question_id": "335",
-        "catalog_id": "10",
-        "question_text": "What does this sign mean?",
-        "option_a": "Disc parking operates except during the hours shown.",
-        "option_b": "Disc parking operates during the time shown.",
-        "option_c": "Parking without a disc is allowed during the hours shown.",
-        "option_d": "Parking is prohibited during the hours shown.",
-        "correct_answer": "B",
-        "explanation": "This sign tells you that vehicles must display a parking disc when parked during the hours shown on the information plate.",
-        "image_name": "ABMW0028U19.png"
-    },
-    {
         "question_id": "314",
         "catalog_id": "10",
         "question_text": "What does this sign mean at a roundabout?",
@@ -4148,16 +3992,40 @@
         "image_name": "ABMW0117RU19.png"
     },
     {
-        "question_id": "460",
+        "question_id": "333",
+        "catalog_id": "10",
+        "question_text": "What does this traffic light mean?",
+        "option_a": "Traffic may proceed if the way is clear.",
+        "option_b": "Traffic must stop at the traffic light.",
+        "option_c": "Traffic may proceed but not turn right.",
+        "option_d": "Give way to any oncoming traffic turning right.",
+        "correct_answer": "A",
+        "explanation": "You may proceed on a green traffic light if it is safe to do so.",
+        "image_name": "ABMW0177R.png"
+    },
+    {
+        "question_id": "334",
         "catalog_id": "10",
         "question_text": "What does this sign mean?",
-        "option_a": "Uneven surface ahead.",
-        "option_b": "Series of steep hills ahead.",
-        "option_c": "Pipe laying ahead.",
-        "option_d": "Industrial estate ahead.",
-        "correct_answer": "A",
-        "explanation": "This roadworks warning sign tells you that the surface ahead is uneven and you should approach with caution.",
-        "image_name": "ABMW0116.png"
+        "option_a": "One-way street ahead.",
+        "option_b": "Dangerous corner ahead.",
+        "option_c": "Dangerous bend ahead.",
+        "option_d": "Junction to the left.",
+        "correct_answer": "B",
+        "explanation": "This sign gives advance warning of a dangerous corner to the left. You may need to slow down and react to any changes in the traffic situation ahead.",
+        "image_name": "ABMW0066U19.png"
+    },
+    {
+        "question_id": "335",
+        "catalog_id": "10",
+        "question_text": "What does this sign mean?",
+        "option_a": "Disc parking operates except during the hours shown.",
+        "option_b": "Disc parking operates during the time shown.",
+        "option_c": "Parking without a disc is allowed during the hours shown.",
+        "option_d": "Parking is prohibited during the hours shown.",
+        "correct_answer": "B",
+        "explanation": "This sign tells you that vehicles must display a parking disc when parked during the hours shown on the information plate.",
+        "image_name": "ABMW0028U19.png"
     },
     {
         "question_id": "336",
@@ -4400,16 +4268,16 @@
         "image_name": "ABMW0160U19.png"
     },
     {
-        "question_id": "618",
-        "catalog_id": "15",
-        "question_text": "In general, above what gross vehicle weight must a trailer have brakes fitted?",
-        "option_a": "850 kg",
-        "option_b": "750 kg",
-        "option_c": "900 kg",
-        "option_d": "500 kg",
-        "correct_answer": "B",
-        "explanation": "Brakes must be fitted to a trailer if its gross vehicle weight exceeds either 750 kg or half the weight of the towing vehicle.",
-        "image_name": "loader.gif"
+        "question_id": "356",
+        "catalog_id": "10",
+        "question_text": "What does this sign mean?",
+        "option_a": "Entry to motorway.",
+        "option_b": "Low bridge ahead.",
+        "option_c": "End of motorway.",
+        "option_d": "Toll bridge ahead.",
+        "correct_answer": "A",
+        "explanation": "This is a motorway information sign informing road users they are now entering the motorway and must obey motorway rules. This sign usually appears beside a motorway ahead sign.",
+        "image_name": "ABMW0109RU19.png"
     },
     {
         "question_id": "357",
@@ -4470,6 +4338,18 @@
         "correct_answer": "C",
         "explanation": "This sign tells you that the maximum legal speed limit permitted for this section of road is 100 km/h.",
         "image_name": "ABMW0023U19.png"
+    },
+    {
+        "question_id": "362",
+        "catalog_id": "10",
+        "question_text": "What does this Garda signal mean?",
+        "option_a": "Turn left.",
+        "option_b": "Proceed if approaching from the front.",
+        "option_c": "Stop if approaching from either the front or behind.",
+        "option_d": "Turn right.",
+        "correct_answer": "C",
+        "explanation": "When approaching a Garda giving this signal you must stop.",
+        "image_name": "ABMW0154R.jpg"
     },
     {
         "question_id": "363",
@@ -4626,6 +4506,18 @@
         "correct_answer": "B",
         "explanation": "These signs are usually displayed in residential areas, and they give advance warning that children might be crossing ahead. You should proceed cautiously and be prepared to stop suddenly.",
         "image_name": "ABMW0094U19.png"
+    },
+    {
+        "question_id": "376",
+        "catalog_id": "10",
+        "question_text": "Unless otherwise indicated, what is the maximum permissible speed for cars or motorcycles on national roads?",
+        "option_a": "120 km/h.",
+        "option_b": "80 km/h.",
+        "option_c": "100 km/h.",
+        "option_d": "60 km/h.",
+        "correct_answer": "C",
+        "explanation": "It is illegal to exceed 100 km/h when driving on a single carriageway national road.",
+        "image_name": "loader.gif"
     },
     {
         "question_id": "377",
@@ -4892,6 +4784,18 @@
         "image_name": "ABMW5U19.jpg"
     },
     {
+        "question_id": "399",
+        "catalog_id": "10",
+        "question_text": "What does this sign mean?",
+        "option_a": "No bridges ahead.",
+        "option_b": "End of overhead bridge area.",
+        "option_c": "End of motorway.",
+        "option_d": "No overtaking.",
+        "correct_answer": "C",
+        "explanation": "This sign indicates the end of the motorway. You are leaving the motorway and its rules will no longer apply.",
+        "image_name": "ABMW0111RU19.png"
+    },
+    {
         "question_id": "400",
         "catalog_id": "10",
         "question_text": "What does this sign mean?",
@@ -5094,6 +4998,18 @@
         "correct_answer": "C",
         "explanation": "This sign indicates a with-flow off-side bus lane on the right. Only buses, taxis and cyclists may use the bus lane during the stated operational hours.",
         "image_name": "ABMW0044RAU19.png"
+    },
+    {
+        "question_id": "417",
+        "catalog_id": "10",
+        "question_text": "What does this sign mean?",
+        "option_a": "Cattle grid ahead.",
+        "option_b": "Possibility of cattle or farm animals ahead.",
+        "option_c": "Livestock mart ahead.",
+        "option_d": "Veterinary surgery ahead.",
+        "correct_answer": "B",
+        "explanation": "This sign gives advance warning that there may be cattle or other farm animals on the road ahead. Slow down if required and be prepared to stop.",
+        "image_name": "ABMW0096U19.png"
     },
     {
         "question_id": "418",
@@ -5504,6 +5420,66 @@
         "image_name": "ABMW0008U19.png"
     },
     {
+        "question_id": "452",
+        "catalog_id": "10",
+        "question_text": "What does this sign mean?",
+        "option_a": "Dual carriageway ends.",
+        "option_b": "Tunnel ahead.",
+        "option_c": "Road narrows ahead",
+        "option_d": "Oncoming traffic has priority.",
+        "correct_answer": "A",
+        "explanation": "This sign gives advance warning of the end of a dual carriageway. You will soon be entering a 2-way road.",
+        "image_name": "ABMW0074.png"
+    },
+    {
+        "question_id": "453",
+        "catalog_id": "10",
+        "question_text": "What does this Garda signal mean?",
+        "option_a": "Turn left.",
+        "option_b": "Stop if approaching from behind.",
+        "option_c": "Stop if approaching from front.",
+        "option_d": "Turn right.",
+        "correct_answer": "B",
+        "explanation": "When approaching a Garda giving this signal you must stop.",
+        "image_name": "ABMW0153R.jpg"
+    },
+    {
+        "question_id": "454",
+        "catalog_id": "10",
+        "question_text": "What does this hand signal mean?",
+        "option_a": "The cyclist intends to cross the road.",
+        "option_b": "The cyclist intends to turn left.",
+        "option_c": "The cyclist intends to stop.",
+        "option_d": "The cyclist is signalling the driver to stop.",
+        "correct_answer": "B",
+        "explanation": "This hand signal informs other road users that the cyclist intends to turn left.",
+        "image_name": "ABMW0145R.jpg"
+    },
+    {
+        "question_id": "455",
+        "catalog_id": "10",
+        "question_text": "What does this sign mean?",
+        "option_a": "Children's play area ahead.",
+        "option_b": "Children's play area ahead.",
+        "option_c": "Pedestrian crossing ahead.",
+        "option_d": "School ahead.",
+        "correct_answer": "D",
+        "explanation": "This sign gives advance warning of a school ahead. You should adjust your speed and react accordingly as there may be children in the area.",
+        "image_name": "ABMW0091RU19.png"
+    },
+    {
+        "question_id": "456",
+        "catalog_id": "10",
+        "question_text": "What does this sign mean?",
+        "option_a": "Series of bends ahead.",
+        "option_b": "Steep hill ahead.",
+        "option_c": "Road narrows from right.",
+        "option_d": "Slippery road ahead.",
+        "correct_answer": "D",
+        "explanation": "This sign gives advance warning of the potential danger of slippery road surfaces ahead.",
+        "image_name": "ABMW0088U19.png"
+    },
+    {
         "question_id": "457",
         "catalog_id": "10",
         "question_text": "What does this sign mean?",
@@ -5538,6 +5514,18 @@
         "correct_answer": "B",
         "explanation": "When posted together these signs tells you that there is a Pedestrianised street ahead and that traffic is not allowed to enter except during the times stated on the information plate.",
         "image_name": "ABMW0033RU19.png"
+    },
+    {
+        "question_id": "460",
+        "catalog_id": "10",
+        "question_text": "What does this sign mean?",
+        "option_a": "Uneven surface ahead.",
+        "option_b": "Series of steep hills ahead.",
+        "option_c": "Pipe laying ahead.",
+        "option_d": "Industrial estate ahead.",
+        "correct_answer": "A",
+        "explanation": "This roadworks warning sign tells you that the surface ahead is uneven and you should approach with caution.",
+        "image_name": "ABMW0116.png"
     },
     {
         "question_id": "461",
@@ -5756,18 +5744,6 @@
         "image_name": "ABMW0166RU19.png"
     },
     {
-        "question_id": "644",
-        "catalog_id": "15",
-        "question_text": "After changing a wheel on a vehicle, which of the following should be checked soon afterwards?",
-        "option_a": "The brake pad clearance.",
-        "option_b": "The tyre tread depth",
-        "option_c": "The air valve.",
-        "option_d": "The wheel nuts.",
-        "correct_answer": "D",
-        "explanation": "After changing a wheel on a vehicle it is recommended to check the wheel nuts after a short period of driving to ensure they are still properly secured.",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "479",
         "catalog_id": "10",
         "question_text": "What does a flashing amber arrow pointing left at a traffic light mean?",
@@ -5797,7 +5773,7 @@
         "question_text": "What is the penalty for a vehicle owner who allows a learner driver to drive their vehicle unaccompanied?",
         "option_a": "Their vehicle will be seized.",
         "option_b": "They will lose their driving licence.",
-        "option_c": "They will be fined \u20ac2,000.",
+        "option_c": "They will be fined €2,000.",
         "option_d": "They will incur 2 penalty points on their licence.",
         "correct_answer": "A",
         "explanation": "A learner driver needs to be aware that driving unaccompanied in a vehicle, even where the owner has given their consent to drive, may result in the vehicle being seized.",
@@ -5819,24 +5795,24 @@
         "question_id": "483",
         "catalog_id": "11",
         "question_text": "If the owner of a vehicle allows a learner driver to drive their vehicle, what is the maximum fine the owner could face?",
-        "option_a": "\u20ac1,500",
-        "option_b": "\u20ac2,000",
-        "option_c": "\u20ac500",
-        "option_d": "\u20ac1,000",
+        "option_a": "€1,500",
+        "option_b": "€2,000",
+        "option_c": "€500",
+        "option_d": "€1,000",
         "correct_answer": "D",
-        "explanation": "A learner driver needs to be aware that driving unaccompanied in a vehicle which they do not own could see the owner facing a fine of up to \u2030\u00e2\u00c21,000 and having the vehicle seized.",
+        "explanation": "A learner driver needs to be aware that driving unaccompanied in a vehicle which they do not own could see the owner facing a fine of up to ‰âÂ1,000 and having the vehicle seized.",
         "image_name": "loader.gif"
     },
     {
         "question_id": "484",
         "catalog_id": "11",
-        "question_text": "What is the minimum penalty point offence for a learner driver not displaying \u2030\u00db\u00f7L' Plates both on the front and rear of the vehicle?",
+        "question_text": "What is the minimum penalty point offence for a learner driver not displaying ‰Û÷L' Plates both on the front and rear of the vehicle?",
         "option_a": "3 penalty points.",
         "option_b": "2 penalty points.",
         "option_c": "1 penalty point.",
         "option_d": "4 penalty points.",
         "correct_answer": "B",
-        "explanation": "A learner driver needs to be aware of the legal requirements to display \u2030\u00db\u00f7L' plates front and rear and the implications of not doing so.",
+        "explanation": "A learner driver needs to be aware of the legal requirements to display ‰Û÷L' plates front and rear and the implications of not doing so.",
         "image_name": "loader.gif"
     },
     {
@@ -5879,12 +5855,12 @@
         "question_id": "488",
         "catalog_id": "11",
         "question_text": "What is the fine for a learner driver for driving a vehicle unaccompanied?",
-        "option_a": "\u20ac80",
-        "option_b": "\u20ac100",
-        "option_c": "\u20ac120",
-        "option_d": "\u20ac140",
+        "option_a": "€80",
+        "option_b": "€100",
+        "option_c": "€120",
+        "option_d": "€140",
         "correct_answer": "C",
-        "explanation": "A learner driver needs to be aware that driving unaccompanied increases the fine to \u20ac120 on conviction.",
+        "explanation": "A learner driver needs to be aware that driving unaccompanied increases the fine to €120 on conviction.",
         "image_name": "loader.gif"
     },
     {
@@ -5892,8 +5868,8 @@
         "catalog_id": "11",
         "question_text": "When a learner driver has passed their driving test, are they permitted to drive unaccompanied as the holder of a Certificate of Competency?",
         "option_a": "No, a learner driver is not permitted to drive unaccompanied until they have been issued with a full driving licence in that category.",
-        "option_b": "No, a learner driver is not permitted to drive unaccompanied on a Certificate of Competency unless they continue to display \u2030\u00db\u00f7L'' plates.",
-        "option_c": "Yes, a learner driver is permitted to drive unaccompanied on a Certificate of Competency once they have \u2030\u00db\u00f7N'' plates displayed.",
+        "option_b": "No, a learner driver is not permitted to drive unaccompanied on a Certificate of Competency unless they continue to display ‰Û÷L'' plates.",
+        "option_c": "Yes, a learner driver is permitted to drive unaccompanied on a Certificate of Competency once they have ‰Û÷N'' plates displayed.",
         "option_d": "Yes, a learner driver is permitted to drive unaccompanied on a Certificate of Competency once they have notified their insurance company.",
         "correct_answer": "A",
         "explanation": "A learner driver who successfully passes their driving test needs to be aware that the rules that apply to learner permit holders still apply to them until they are in possession of a full driving licence in that category. A Certificate of Competency is not a full licence.",
@@ -5903,10 +5879,10 @@
         "question_id": "490",
         "catalog_id": "11",
         "question_text": "What are the fixed charge amount and penalties incurred for a learner driver who drives unaccompanied?",
-        "option_a": "\u20ac80 fine and 2 penalty points.",
-        "option_b": "\u20ac80 fine and 3 penalty points.",
-        "option_c": "\u20ac60 fine and 5 penalty points.",
-        "option_d": "\u20ac100 fine and 2 penalty points.",
+        "option_a": "€80 fine and 2 penalty points.",
+        "option_b": "€80 fine and 3 penalty points.",
+        "option_c": "€60 fine and 5 penalty points.",
+        "option_d": "€100 fine and 2 penalty points.",
         "correct_answer": "A",
         "explanation": "A learner driver needs to know that there are penalties for driving unaccompanied.",
         "image_name": "loader.gif"
@@ -5915,24 +5891,12 @@
         "question_id": "491",
         "catalog_id": "11",
         "question_text": "A learner driver who has been stopped by a Garda for driving unaccompanied faces a minimum fine of how much?",
-        "option_a": "\u20ac100",
-        "option_b": "\u20ac120",
-        "option_c": "\u20ac80",
-        "option_d": "\u20ac140",
+        "option_a": "€100",
+        "option_b": "€120",
+        "option_c": "€80",
+        "option_d": "€140",
         "correct_answer": "C",
         "explanation": "A learner driver needs to be aware that, if they are stopped by a Garda for driving unaccompanied, it will lead to a financial penalty.",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "534",
-        "catalog_id": "13",
-        "question_text": "What specific observations should a driver make before reversing their vehicle?",
-        "option_a": "Look over both shoulders and behind.",
-        "option_b": "Look over right-hand shoulder.",
-        "option_c": "Look in door mirrors only.",
-        "option_d": "Look in interior mirror only.",
-        "correct_answer": "A",
-        "explanation": "Before reversing, look over both shoulders and to the rear to check all around that there are no children or other road users around the vehicle and that it is safe to reverse.",
         "image_name": "loader.gif"
     },
     {
@@ -6440,6 +6404,18 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "534",
+        "catalog_id": "13",
+        "question_text": "What specific observations should a driver make before reversing their vehicle?",
+        "option_a": "Look over both shoulders and behind.",
+        "option_b": "Look over right-hand shoulder.",
+        "option_c": "Look in door mirrors only.",
+        "option_d": "Look in interior mirror only.",
+        "correct_answer": "A",
+        "explanation": "Before reversing, look over both shoulders and to the rear to check all around that there are no children or other road users around the vehicle and that it is safe to reverse.",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "535",
         "catalog_id": "13",
         "question_text": "How would a driver calculate the maximum overall permitted weight of their vehicle?",
@@ -6553,7 +6529,7 @@
         "question_text": "What should a driver do if their vehicle breaks down in a tunnel?",
         "option_a": "Wait in the vehicle until help arrives.",
         "option_b": "Use the emergency telephone to call for help.",
-        "option_c": "Walk to the end of the tunnel and call the Garda\u00cc_.",
+        "option_c": "Walk to the end of the tunnel and call the GardaÌ_.",
         "option_d": "Flag down a passing motorist and ask for help.",
         "correct_answer": "B",
         "explanation": "If your vehicle breaks down or is involved in a collision in a tunnel, switch on your hazard warning lights, switch off your engine, go to an emergency station and use the emergency phone to alert the tunnel operator.",
@@ -6593,18 +6569,6 @@
         "option_d": "Drive at a reduced speed until the heating system has cleared the ice.",
         "correct_answer": "A",
         "explanation": "Make sure all the windows and mirrors are completely clear of ice so that the driver can safely observe road and traffic conditions all around. This is especially important when driving in slippery conditions. It is good practice to carry a can of de-icer in the vehicle and if possible to fill the washer reservoir with a de-icing agent.",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "574",
-        "catalog_id": "14",
-        "question_text": "Which vehicle is exempt from speed limits when being used in an emergency?",
-        "option_a": "Doctor on call.",
-        "option_b": "Mountain rescue.",
-        "option_c": "Ambulance.",
-        "option_d": "Breakdown recovery.",
-        "correct_answer": "C",
-        "explanation": "In the course of their duty Garda\u00cc_, Fire Brigade and ambulance personnel are exempt from some traffic laws including speed limits, as long as they do not put other road users in danger. If you hear or see a Garda or emergency vehicle approaching under emergency conditions, be extra careful and give way, if it is safe to do so.",
         "image_name": "loader.gif"
     },
     {
@@ -6874,13 +6838,13 @@
     {
         "question_id": "570",
         "catalog_id": "14",
-        "question_text": "What is the likely effect of motorists \u2030\u00db\u00f7rubbernecking' at the scene of a traffic incident?",
+        "question_text": "What is the likely effect of motorists ‰Û÷rubbernecking' at the scene of a traffic incident?",
         "option_a": "It can cause additional incidents as drivers become distracted.",
         "option_b": "It can increase traffic flow near an incident.",
         "option_c": "It allows traffic to change course without attention.",
         "option_d": "It allows traffic to change speed without attention.",
         "correct_answer": "A",
-        "explanation": "When approaching or being near to the scene of an incident, motorists are often seen \u2030\u00db\u00f7rubbernecking''. This means turning your head and stretching your neck to get a better view of what''s happening. It can be the cause of traffic jams as drivers slow down to \u2030\u00db\u00f7rubberneck''. It can also cause road incidents as drivers become distracted and change their speed and/or direction while other drivers are also distracted.",
+        "explanation": "When approaching or being near to the scene of an incident, motorists are often seen ‰Û÷rubbernecking''. This means turning your head and stretching your neck to get a better view of what''s happening. It can be the cause of traffic jams as drivers slow down to ‰Û÷rubberneck''. It can also cause road incidents as drivers become distracted and change their speed and/or direction while other drivers are also distracted.",
         "image_name": "loader.gif"
     },
     {
@@ -6920,6 +6884,18 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "574",
+        "catalog_id": "14",
+        "question_text": "Which vehicle is exempt from speed limits when being used in an emergency?",
+        "option_a": "Doctor on call.",
+        "option_b": "Mountain rescue.",
+        "option_c": "Ambulance.",
+        "option_d": "Breakdown recovery.",
+        "correct_answer": "C",
+        "explanation": "In the course of their duty GardaÌ_, Fire Brigade and ambulance personnel are exempt from some traffic laws including speed limits, as long as they do not put other road users in danger. If you hear or see a Garda or emergency vehicle approaching under emergency conditions, be extra careful and give way, if it is safe to do so.",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "575",
         "catalog_id": "14",
         "question_text": "How are emergency vehicles identified?",
@@ -6952,7 +6928,7 @@
         "option_c": "Mountain rescue.",
         "option_d": "Garda.",
         "correct_answer": "D",
-        "explanation": "In the course of their duty Garda\u00cc_, Fire Brigade and ambulance personnel are exempt from some traffic laws including speed limits, as long as they do not put other road users in danger. If you hear or see a Garda or emergency vehicle approaching under emergency conditions, be extra careful and give way, if it is safe to do so.",
+        "explanation": "In the course of their duty GardaÌ_, Fire Brigade and ambulance personnel are exempt from some traffic laws including speed limits, as long as they do not put other road users in danger. If you hear or see a Garda or emergency vehicle approaching under emergency conditions, be extra careful and give way, if it is safe to do so.",
         "image_name": "loader.gif"
     },
     {
@@ -6964,7 +6940,7 @@
         "option_c": "Stop in the hard shoulder and get a passenger to warn traffic.",
         "option_d": "Pull in where safe on the hard shoulder and call for assistance.",
         "correct_answer": "D",
-        "explanation": "Don''t try to change a wheel on a motorway, as this could be very dangerous. Drive the car on to the hard shoulder, and when it is safe to do so, get out of the vehicle and move behind the barrier. Call for assistance from a motorway emergency phone or using a mobile phone (call the Garda\u00cc_).",
+        "explanation": "Don''t try to change a wheel on a motorway, as this could be very dangerous. Drive the car on to the hard shoulder, and when it is safe to do so, get out of the vehicle and move behind the barrier. Call for assistance from a motorway emergency phone or using a mobile phone (call the GardaÌ_).",
         "image_name": "loader.gif"
     },
     {
@@ -6988,7 +6964,7 @@
         "option_c": "When another vehicle is following too closely.",
         "option_d": "When the vehicle is towing a trailer.",
         "correct_answer": "B",
-        "explanation": "If your vehicle breaks down on a motorway, drive it to the hard shoulder and switch on the hazard warning lights to warn following traffic. When it is safe to do so, get out of the vehicle and move behind the barrier. Call for assistance from a motorway emergency phone or using a mobile phone (call the Garda\u00cc_).",
+        "explanation": "If your vehicle breaks down on a motorway, drive it to the hard shoulder and switch on the hazard warning lights to warn following traffic. When it is safe to do so, get out of the vehicle and move behind the barrier. Call for assistance from a motorway emergency phone or using a mobile phone (call the GardaÌ_).",
         "image_name": "loader.gif"
     },
     {
@@ -7012,7 +6988,7 @@
         "option_c": "Breakdown recovery.",
         "option_d": "Doctor on call.",
         "correct_answer": "A",
-        "explanation": "In the course of their duty Garda\u00cc_, Fire Brigade and ambulance personnel are exempt from some traffic laws including speed limits, as long as they do not put other road users in danger. If you hear or see a Garda or emergency vehicle approaching under emergency conditions, be extra careful and give way, if it is safe to do so.",
+        "explanation": "In the course of their duty GardaÌ_, Fire Brigade and ambulance personnel are exempt from some traffic laws including speed limits, as long as they do not put other road users in danger. If you hear or see a Garda or emergency vehicle approaching under emergency conditions, be extra careful and give way, if it is safe to do so.",
         "image_name": "loader.gif"
     },
     {
@@ -7232,18 +7208,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "762",
-        "catalog_id": "17",
-        "question_text": "How is a learner driver likely to react in unusual traffic situations?",
-        "option_a": "Slower than an experienced driver.",
-        "option_b": "Quicker than an experienced driver.",
-        "option_c": "Better than an experienced driver.",
-        "option_d": "In the same way as an experienced driver.",
-        "correct_answer": "A",
-        "explanation": "You should be patient when driving behind a learner driver. Learners may not anticipate and react to unusual traffic situations as well as an experienced driver might.",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "601",
         "catalog_id": "15",
         "question_text": "Is it permissible to drive a vehicle on a public road when the brake lights are not working?",
@@ -7346,9 +7310,9 @@
         "option_a": "Turn on the full beam headlights to alert other drivers.",
         "option_b": "Place a red warning triangle on the motorway to warn other drivers.",
         "option_c": "Ask a passenger to stand on the road to warn other traffic.",
-        "option_d": "Use a roadside phone to contact Garda\u00cc_ and never try to carry out repairs yourself.",
+        "option_d": "Use a roadside phone to contact GardaÌ_ and never try to carry out repairs yourself.",
         "correct_answer": "D",
-        "explanation": "When a vehicle breaks down on a motorway, a driver should move the vehicle to the hard shoulder, use the roadside phone to contact the Garda\u00cc_, and do not place a warning device on the motorway. The driver should never try to do repairs themselves in the hard shoulder.",
+        "explanation": "When a vehicle breaks down on a motorway, a driver should move the vehicle to the hard shoulder, use the roadside phone to contact the GardaÌ_, and do not place a warning device on the motorway. The driver should never try to do repairs themselves in the hard shoulder.",
         "image_name": "loader.gif"
     },
     {
@@ -7358,7 +7322,7 @@
         "option_a": "It can trigger the release of the airbags.",
         "option_b": "It can increase fuel consumption.",
         "option_c": "It can cause an electrical short-circuit.",
-        "option_d": "It can cause the vehicle to \u2030\u00db\u00f7bounce' in an unstable manner.",
+        "option_d": "It can cause the vehicle to ‰Û÷bounce' in an unstable manner.",
         "correct_answer": "D",
         "explanation": "A worn shock absorber can seriously affect the control of the vehicle especially on uneven surfaces or when cornering and can cause unnecessary wear and tear on tyres. It may increase stopping distance by not keeping the tyres in proper contact with the road under harsh braking.",
         "image_name": "loader.gif"
@@ -7397,18 +7361,6 @@
         "option_d": "The maximum speed the vehicle can be driven at.",
         "correct_answer": "B",
         "explanation": "The speed rating of a tyre is the maximum speed for which the tyre is designed. This relates to the speed capability of the tyre. It does not relate to the speed at which the tyre should or could legally be driven.",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "655",
-        "catalog_id": "15",
-        "question_text": "What is the most common cause of heavy steering?",
-        "option_a": "Over-inflated tyres.",
-        "option_b": "Badly worn brakes.",
-        "option_c": "Poorly oiled steering.",
-        "option_d": "Under-inflated tyres.",
-        "correct_answer": "D",
-        "explanation": "Heavy steering is when a driver needs to use more effort than usual to turn the steering wheel, this may be as a direct result of under-inflated tyres. Check your tyre pressures but be aware there may be other causes of heavy steering such as low power steering fluid level. Seek advice from a competent person and have this investigated immediately.",
         "image_name": "loader.gif"
     },
     {
@@ -7457,6 +7409,18 @@
         "option_d": "Regularly.",
         "correct_answer": "D",
         "explanation": "Drivers have a legal responsibility to make sure that their vehicle is roadworthy. To do this, they should carry out regular, weekly and periodic checks, including a weekly tyre pressure check. Incorrectly inflated tyres may cause vehicle instability, uneven tyre wear and longer stopping distances.",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "618",
+        "catalog_id": "15",
+        "question_text": "In general, above what gross vehicle weight must a trailer have brakes fitted?",
+        "option_a": "850 kg",
+        "option_b": "750 kg",
+        "option_c": "900 kg",
+        "option_d": "500 kg",
+        "correct_answer": "B",
+        "explanation": "Brakes must be fitted to a trailer if its gross vehicle weight exceeds either 750 kg or half the weight of the towing vehicle.",
         "image_name": "loader.gif"
     },
     {
@@ -7578,18 +7542,6 @@
         "correct_answer": "D",
         "explanation": "Drivers should have their vehicle serviced regularly in accordance with the manufacturers guidelines. This helps the vehicle to perform properly, and as a result saves fuel and reduces emissions. In addition, drivers should also carry out their own daily and weekly checks on fluid levels and tyres.",
         "image_name": "loader.gif"
-    },
-    {
-        "question_id": "656",
-        "catalog_id": "15",
-        "question_text": "What does a rev counter provide information on?",
-        "option_a": "Engine revolutions.",
-        "option_b": "Heater-fan revolutions.",
-        "option_c": "Wheel revolutions.",
-        "option_d": "Wheel revolutions.",
-        "correct_answer": "A",
-        "explanation": "The rev counter measures the speed of the engine, in revolutions per minute. Generally, the higher the revs, the more fuel the engine is using, so drivers should keep an eye on the rev counter to help drive in a more eco-friendly manner.",
-        "image_name": "ABMW0663RU19.png"
     },
     {
         "question_id": "629",
@@ -7772,6 +7724,18 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "644",
+        "catalog_id": "15",
+        "question_text": "After changing a wheel on a vehicle, which of the following should be checked soon afterwards?",
+        "option_a": "The brake pad clearance.",
+        "option_b": "The tyre tread depth",
+        "option_c": "The air valve.",
+        "option_d": "The wheel nuts.",
+        "correct_answer": "D",
+        "explanation": "After changing a wheel on a vehicle it is recommended to check the wheel nuts after a short period of driving to ensure they are still properly secured.",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "645",
         "catalog_id": "15",
         "question_text": "What should a driver do if a system warning light lights up on the dashboard of their vehicle whilst driving?",
@@ -7892,16 +7856,28 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "763",
-        "catalog_id": "17",
-        "question_text": "At road junctions, what type of road users are particularly vulnerable?",
-        "option_a": "Tractor drivers.",
-        "option_b": "Car drivers.",
-        "option_c": "Pedestrians.",
-        "option_d": "Van drivers.",
-        "correct_answer": "C",
-        "explanation": "Vehicles do not have an automatic right of way at junctions. As a driver you should pay particular attention to vulnerable road users such as pedestrians, cyclists and motorcyclists and be aware that they are entitled to use the road in safety.",
+        "question_id": "655",
+        "catalog_id": "15",
+        "question_text": "What is the most common cause of heavy steering?",
+        "option_a": "Over-inflated tyres.",
+        "option_b": "Badly worn brakes.",
+        "option_c": "Poorly oiled steering.",
+        "option_d": "Under-inflated tyres.",
+        "correct_answer": "D",
+        "explanation": "Heavy steering is when a driver needs to use more effort than usual to turn the steering wheel, this may be as a direct result of under-inflated tyres. Check your tyre pressures but be aware there may be other causes of heavy steering such as low power steering fluid level. Seek advice from a competent person and have this investigated immediately.",
         "image_name": "loader.gif"
+    },
+    {
+        "question_id": "656",
+        "catalog_id": "15",
+        "question_text": "What does a rev counter provide information on?",
+        "option_a": "Engine revolutions.",
+        "option_b": "Heater-fan revolutions.",
+        "option_c": "Wheel revolutions.",
+        "option_d": "Wheel revolutions.",
+        "correct_answer": "A",
+        "explanation": "The rev counter measures the speed of the engine, in revolutions per minute. Generally, the higher the revs, the more fuel the engine is using, so drivers should keep an eye on the rev counter to help drive in a more eco-friendly manner.",
+        "image_name": "ABMW0663RU19.png"
     },
     {
         "question_id": "657",
@@ -8396,18 +8372,6 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "723",
-        "catalog_id": "16",
-        "question_text": "Along with an impairment test, what may a G\u00cc\u00c1rda request if they suspect a driver of driving under the influence of drugs?",
-        "option_a": "A driver's licence.",
-        "option_b": "An insurance certificate.",
-        "option_c": "A breath sample.",
-        "option_d": "A saliva sample.",
-        "correct_answer": "D",
-        "explanation": "If a driver is stopped at a roadside check, they should be aware that, along with the impairment test, Garda\u00cc_ can also request a saliva sample if they suspect the driver is driving under the influence of drugs.",
-        "image_name": "loader.gif"
-    },
-    {
         "question_id": "698",
         "catalog_id": "15",
         "question_text": "If a driver notices that structural parts of their vehicle''s body have been affected by rust, what should they do?",
@@ -8518,7 +8482,7 @@
     {
         "question_id": "707",
         "catalog_id": "16",
-        "question_text": "Subject to the speed limit, what is the \u2030\u00db\u00f7safest'' speed to drive at?",
+        "question_text": "Subject to the speed limit, what is the ‰Û÷safest'' speed to drive at?",
         "option_a": "The speed of the slowest vehicle on the road",
         "option_b": "The speed that will enable the driver to stop the vehicle within the distance ahead that they can see to be clear.",
         "option_c": "A driver should always try to drive at the speed limit for the road that they are on.",
@@ -8558,7 +8522,7 @@
         "option_a": "No, it is never permitted to drive on a hard shoulder except in the case of an emergency.",
         "option_b": "Yes, temporarily when the hard shoulder is clear and it is safe to drive there.",
         "option_c": "Yes, when a truck or bus is oncoming.",
-        "option_d": "No, except on \u2030\u00db\u00f72-plus-1 roads''.",
+        "option_d": "No, except on ‰Û÷2-plus-1 roads''.",
         "correct_answer": "B",
         "explanation": "On national roads, the hard shoulder is normally for the use of pedestrians and cyclists only. If you want to allow a vehicle behind to overtake, you may pull into the hard shoulder briefly as long as no pedestrians or cyclists are using it and there are no junctions or entrances nearby. In the case of motorways, however, you must not drive on the hard shoulder, except in an emergency.",
         "image_name": "loader.gif"
@@ -8627,10 +8591,10 @@
         "question_id": "716",
         "catalog_id": "16",
         "question_text": "What is the maximum penalty on conviction for drug driving?",
-        "option_a": "\u20ac5,000 fine and 6 months driving disqualification.",
-        "option_b": "\u20ac3,000 fine and 12 months driving disqualification.",
-        "option_c": "\u20ac5,000 fine and 6 months in prison.",
-        "option_d": "\u20ac3,000 fine and 12 months in prison.",
+        "option_a": "€5,000 fine and 6 months driving disqualification.",
+        "option_b": "€3,000 fine and 12 months driving disqualification.",
+        "option_c": "€5,000 fine and 6 months in prison.",
+        "option_d": "€3,000 fine and 12 months in prison.",
         "correct_answer": "C",
         "explanation": "Drivers should be aware of the severe penalties if they chose to drive having taken drugs and are detected. Drug driving is extremely dangerous due to the effect drugs have on the brain.",
         "image_name": "loader.gif"
@@ -8656,7 +8620,7 @@
         "option_c": "The driver should signal and go around to the right of the vehicle.",
         "option_d": "The driver should signal and go around to the left of the vehicle.",
         "correct_answer": "A",
-        "explanation": "You should always be prepared to react to hazards ahead. If the vehicle in front is moving from side to side, it may indicate that the driver is not paying full attention or that their driving is impaired by drink, drugs or tiredness. If you think the vehicle is a risk to the public safety, the matter should be reported to the Garda\u00cc_ or to traffic watch (lo-call 1890 205 805), but not while driving.",
+        "explanation": "You should always be prepared to react to hazards ahead. If the vehicle in front is moving from side to side, it may indicate that the driver is not paying full attention or that their driving is impaired by drink, drugs or tiredness. If you think the vehicle is a risk to the public safety, the matter should be reported to the GardaÌ_ or to traffic watch (lo-call 1890 205 805), but not while driving.",
         "image_name": "loader.gif"
     },
     {
@@ -8675,10 +8639,10 @@
         "question_id": "720",
         "catalog_id": "16",
         "question_text": "What are the drink driving penalties for a learner driver with a blood alcohol concentrate (BAC) of 20 mg to 80 mg per 100 millilitres of blood?",
-        "option_a": "\u20ac200 fine and 3 penalty points.",
-        "option_b": "\u20ac200 fine and 6 months driving disqualification",
-        "option_c": "\u20ac200 fine and 5 penalty points.",
-        "option_d": "\u20ac200 fine and 3 months driving disqualification.",
+        "option_a": "€200 fine and 3 penalty points.",
+        "option_b": "€200 fine and 6 months driving disqualification",
+        "option_c": "€200 fine and 5 penalty points.",
+        "option_d": "€200 fine and 3 months driving disqualification.",
         "correct_answer": "D",
         "explanation": "Alcohol is a major factor in crashes that lead to death and injury. Research proves that even small amounts of alcohol affect your judgement and ability to drive. It is illegal to drive with alcohol levels above the legal limits.",
         "image_name": "loader.gif"
@@ -8705,6 +8669,18 @@
         "option_d": "Yes, they are lower in the mornings.",
         "correct_answer": "B",
         "explanation": "The limits for drink and drug driving do not change depending on the time of the day drivers are checked. Drink and drugs remain in the body for a period of time. A driver should think carefully before driving a vehicle the morning after taking drink or drugs, and be aware that they could still be well over the limit. (Rewritten)",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "723",
+        "catalog_id": "16",
+        "question_text": "Along with an impairment test, what may a GÌÁrda request if they suspect a driver of driving under the influence of drugs?",
+        "option_a": "A driver's licence.",
+        "option_b": "An insurance certificate.",
+        "option_c": "A breath sample.",
+        "option_d": "A saliva sample.",
+        "correct_answer": "D",
+        "explanation": "If a driver is stopped at a roadside check, they should be aware that, along with the impairment test, GardaÌ_ can also request a saliva sample if they suspect the driver is driving under the influence of drugs.",
         "image_name": "loader.gif"
     },
     {
@@ -8770,13 +8746,13 @@
     {
         "question_id": "729",
         "catalog_id": "16",
-        "question_text": "Can An G\u00cc\u00c1rda S\u00cc_och\u00cc\u00c1na conduct roadside testing for drugs and alcohol in the mornings?",
+        "question_text": "Can An GÌÁrda SÌ_ochÌÁna conduct roadside testing for drugs and alcohol in the mornings?",
         "option_a": "They can check for drugs only.",
         "option_b": "Yes, they can check at any time.",
         "option_c": "They can check for alcohol only.",
         "option_d": "No, they can''t check until after midday.",
         "correct_answer": "B",
-        "explanation": "It is against the law to drive a car, motor bike, truck, bus, pedal bike or an animal-drawn vehicle while \u2030\u00db\u00f7under the influence of an intoxicant to such an extent as to be incapable of having control of the vehicle''. Intoxicants include alcohol and drugs, whether taken separately or together. The word \u2030\u00db\u00f7drugs'' here includes legal prescribed and over-the-counter (OTC) medicines.",
+        "explanation": "It is against the law to drive a car, motor bike, truck, bus, pedal bike or an animal-drawn vehicle while ‰Û÷under the influence of an intoxicant to such an extent as to be incapable of having control of the vehicle''. Intoxicants include alcohol and drugs, whether taken separately or together. The word ‰Û÷drugs'' here includes legal prescribed and over-the-counter (OTC) medicines.",
         "image_name": "loader.gif"
     },
     {
@@ -8794,7 +8770,7 @@
     {
         "question_id": "731",
         "catalog_id": "16",
-        "question_text": "What is the penalty for a driver who refuses to give breath, blood or urine samples as evidence for a second offence to An G\u00cc\u00c1rda S\u00cc_och\u00cc\u00c1na?",
+        "question_text": "What is the penalty for a driver who refuses to give breath, blood or urine samples as evidence for a second offence to An GÌÁrda SÌ_ochÌÁna?",
         "option_a": "Automatic disqualification for 6 years.",
         "option_b": "Automatic disqualification for 12 months.",
         "option_c": "Automatic disqualification for 3 months.",
@@ -8808,8 +8784,8 @@
         "catalog_id": "16",
         "question_text": "What are the drink driving penalties for a professional driver holding a full car licence and found to have a blood alcohol concentrate (BAC) of 20 mg to 80 mg per 100 millilitres of blood?",
         "option_a": "The penalties only apply over 80 mg (BAC).",
-        "option_b": "\u20ac200 fine and 3 months driving disqualification.",
-        "option_c": "\u20ac100 fine and 6 months driving disqualification.",
+        "option_b": "€200 fine and 3 months driving disqualification.",
+        "option_c": "€100 fine and 6 months driving disqualification.",
         "option_d": "There are no penalties below 50 mg (BAC).",
         "correct_answer": "B",
         "explanation": "Alcohol is a major factor in crashes that lead to death and injury. Research proves that even small amounts of alcohol affect your judgement and ability to drive. It is illegal to drive with alcohol levels above the legal limits.",
@@ -8820,7 +8796,7 @@
         "catalog_id": "16",
         "question_text": "When driving on a national road is it permitted to drive on the hard shoulder in order to allow faster-moving traffic to overtake?",
         "option_a": "Only when a truck or bus wants to overtake.",
-        "option_b": "No, except when driving on a \u2030\u00db\u00f72-plus-1 road''.",
+        "option_b": "No, except when driving on a ‰Û÷2-plus-1 road''.",
         "option_c": "Yes, temporarily when the hard shoulder is clear and it is safe to drive there.",
         "option_d": "Only when driving on a dual carriageway.",
         "correct_answer": "C",
@@ -8830,25 +8806,13 @@
     {
         "question_id": "734",
         "catalog_id": "16",
-        "question_text": "A driver is automatically disqualified from driving for how long if, on a first offence, they refused to provide a member of An Garda S\u00cc_och\u00cc\u00c1na with a sample of blood, urine or breath?",
+        "question_text": "A driver is automatically disqualified from driving for how long if, on a first offence, they refused to provide a member of An Garda SÌ_ochÌÁna with a sample of blood, urine or breath?",
         "option_a": "1 year",
         "option_b": "3 years",
         "option_c": "2 years",
         "option_d": "4 years",
         "correct_answer": "D",
-        "explanation": "It is an offence not to comply with a request from a member of An Garda S\u00cc_och\u00cc\u00c1na to provide to provide a sample of breath, urine or blood.",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "761",
-        "catalog_id": "17",
-        "question_text": "In slow-moving city traffic, a driver should occasionally check their blind spots for which road users in particular?",
-        "option_a": "Taxis.",
-        "option_b": "Vans.",
-        "option_c": "Cars.",
-        "option_d": "Cyclists.",
-        "correct_answer": "D",
-        "explanation": "Drivers should be aware of and check blind spots before moving off and changing direction where appropriate. Cyclists can easily become hidden in a blind spot, and in slow-moving traffic, they might be moving faster than you are.",
+        "explanation": "It is an offence not to comply with a request from a member of An Garda SÌ_ochÌÁna to provide to provide a sample of breath, urine or blood.",
         "image_name": "loader.gif"
     },
     {
@@ -8873,18 +8837,6 @@
         "option_d": "17-24 years",
         "correct_answer": "D",
         "explanation": "For a variety of reasons, including the young drivers likelihood to drink, when accompanied by peers, passengers in a vehicle driven by a younger driver (17-24 yrs) are more likely to be killed.",
-        "image_name": "loader.gif"
-    },
-    {
-        "question_id": "751",
-        "catalog_id": "16",
-        "question_text": "What should a driver do if they are not travelling as fast as the vehicle in front?",
-        "option_a": "The driver should keep their position and not allow following vehicles to overtake.",
-        "option_b": "The driver should switch on hazard warning lights and keep to the left.",
-        "option_c": "The driver should invite traffic to overtake them by giving a hand signal.",
-        "option_d": "The driver should keep to the left and allow vehicles to overtake if they wish.",
-        "correct_answer": "D",
-        "explanation": "Always read the road ahead and be prepared to react to any traffic situation. You should not drive so slowly that your vehicle unnecessarily blocks other road users. Keep as near to the left as is safe to allow other vehicles to pass safely if they wish.",
         "image_name": "loader.gif"
     },
     {
@@ -8939,10 +8891,10 @@
         "question_id": "741",
         "catalog_id": "16",
         "question_text": "What are the drink driving penalties for a driver with a blood alcohol concentrate (BAC) of 80 mg to 100 mg per 100 millilitres of blood?",
-        "option_a": "\u20ac400 fine and 6 months driving disqualification.",
-        "option_b": "\u20ac200 fine and 3 months driving disqualification.",
-        "option_c": "\u20ac200 fine and 6 months driving disqualification.",
-        "option_d": "\u20ac400 fine and 3 months driving disqualification.",
+        "option_a": "€400 fine and 6 months driving disqualification.",
+        "option_b": "€200 fine and 3 months driving disqualification.",
+        "option_c": "€200 fine and 6 months driving disqualification.",
+        "option_d": "€400 fine and 3 months driving disqualification.",
         "correct_answer": "A",
         "explanation": "Alcohol is a major factor in crashes that lead to death and injury. Research proves that even small amounts of alcohol affect your judgement and ability to drive. It is illegal to drive with alcohol levels above the legal limits.",
         "image_name": "loader.gif"
@@ -8999,10 +8951,10 @@
         "question_id": "746",
         "catalog_id": "16",
         "question_text": "Which of the following is a possible consequence for a learner driver if they drive after drinking as little as just one unit of alcohol?",
-        "option_a": "A \u20ac60 fine",
+        "option_a": "A €60 fine",
         "option_b": "A one month disqualification from driving",
         "option_c": "A three month disqualification from driving",
-        "option_d": "A \u20ac90 fine",
+        "option_d": "A €90 fine",
         "correct_answer": "C",
         "explanation": "The blood alcohol concentrate limit for novice/learner drivers is much lower than that of a driver who has held their full licence for more than two years (not a novice driver). Therefore as little as one unit of alcohol would result in the driver exceeding the lower limit.",
         "image_name": "loader.gif"
@@ -9056,15 +9008,15 @@
         "image_name": "loader.gif"
     },
     {
-        "question_id": "765",
-        "catalog_id": "17",
-        "question_text": "What must a driver be prepared for in this situation?",
-        "option_a": "The ball may burst after you have passed.",
-        "option_b": "The ball could damage your vehicle.",
-        "option_c": "The oncoming vehicle may swerve in your direction.",
-        "option_d": "A child could turn back to collect the ball from the roadway.",
+        "question_id": "751",
+        "catalog_id": "16",
+        "question_text": "What should a driver do if they are not travelling as fast as the vehicle in front?",
+        "option_a": "The driver should keep their position and not allow following vehicles to overtake.",
+        "option_b": "The driver should switch on hazard warning lights and keep to the left.",
+        "option_c": "The driver should invite traffic to overtake them by giving a hand signal.",
+        "option_d": "The driver should keep to the left and allow vehicles to overtake if they wish.",
         "correct_answer": "D",
-        "explanation": "Because it is difficult to predict children''s behaviour, you should always be prepared to react to a change in the traffic situation and be prepared to stop.",
+        "explanation": "Always read the road ahead and be prepared to react to any traffic situation. You should not drive so slowly that your vehicle unnecessarily blocks other road users. Keep as near to the left as is safe to allow other vehicles to pass safely if they wish.",
         "image_name": "loader.gif"
     },
     {
@@ -9176,6 +9128,42 @@
         "image_name": "loader.gif"
     },
     {
+        "question_id": "761",
+        "catalog_id": "17",
+        "question_text": "In slow-moving city traffic, a driver should occasionally check their blind spots for which road users in particular?",
+        "option_a": "Taxis.",
+        "option_b": "Vans.",
+        "option_c": "Cars.",
+        "option_d": "Cyclists.",
+        "correct_answer": "D",
+        "explanation": "Drivers should be aware of and check blind spots before moving off and changing direction where appropriate. Cyclists can easily become hidden in a blind spot, and in slow-moving traffic, they might be moving faster than you are.",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "762",
+        "catalog_id": "17",
+        "question_text": "How is a learner driver likely to react in unusual traffic situations?",
+        "option_a": "Slower than an experienced driver.",
+        "option_b": "Quicker than an experienced driver.",
+        "option_c": "Better than an experienced driver.",
+        "option_d": "In the same way as an experienced driver.",
+        "correct_answer": "A",
+        "explanation": "You should be patient when driving behind a learner driver. Learners may not anticipate and react to unusual traffic situations as well as an experienced driver might.",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "763",
+        "catalog_id": "17",
+        "question_text": "At road junctions, what type of road users are particularly vulnerable?",
+        "option_a": "Tractor drivers.",
+        "option_b": "Car drivers.",
+        "option_c": "Pedestrians.",
+        "option_d": "Van drivers.",
+        "correct_answer": "C",
+        "explanation": "Vehicles do not have an automatic right of way at junctions. As a driver you should pay particular attention to vulnerable road users such as pedestrians, cyclists and motorcyclists and be aware that they are entitled to use the road in safety.",
+        "image_name": "loader.gif"
+    },
+    {
         "question_id": "764",
         "catalog_id": "17",
         "question_text": "When a driver intends to make a left-hand turn on a busy city street junction and there are pedestrians and cyclists around, what should the driver do?",
@@ -9185,6 +9173,18 @@
         "option_d": "Watch for cyclists or pedestrians who may try to cross the road in front of the vehicle.",
         "correct_answer": "D",
         "explanation": "When making a left-hand turn on a busy city street, drivers should pay particular attention to vulnerable road users such as pedestrians, cyclists and motorcyclists who may appear unexpectedly and may not be aware of the vehicle''s intention.",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "765",
+        "catalog_id": "17",
+        "question_text": "What must a driver be prepared for in this situation?",
+        "option_a": "The ball may burst after you have passed.",
+        "option_b": "The ball could damage your vehicle.",
+        "option_c": "The oncoming vehicle may swerve in your direction.",
+        "option_d": "A child could turn back to collect the ball from the roadway.",
+        "correct_answer": "D",
+        "explanation": "Because it is difficult to predict children''s behaviour, you should always be prepared to react to a change in the traffic situation and be prepared to stop.",
         "image_name": "loader.gif"
     },
     {
@@ -9275,7 +9275,7 @@
         "question_id": "773",
         "catalog_id": "17",
         "question_text": "What is a courtesy pedestrian crossing?",
-        "option_a": "A pedestrian crossing with \u2030\u00db\u00f7look right' painted on the roadway.",
+        "option_a": "A pedestrian crossing with ‰Û÷look right' painted on the roadway.",
         "option_b": "A pedestrian crossing with flashing amber lights.",
         "option_c": "An uncontrolled pedestrian crossing place.",
         "option_d": "A pedestrian crossing on a pedestrian street.",
@@ -9463,9 +9463,52 @@
         "explanation": "You should always be aware of how vulnerable cyclists are. When you are driving on a road with potholes or bad surfaces, give plenty of clearance to the cyclists when overtaking them. Take into account that they may swerve suddenly to avoid potholes.",
         "image_name": "loader.gif"
     },
-{"question_id": "789", "catalog_id": "10", "question_text": "While driving at higher speeds, what does a continuous vibration in the steering indicate?", "option_a": "The steering is out of alignment.", "option_b": "The wheel balance is uneven.", "option_c": "The shock absorbers are worn.", "option_d": "Weight distribution is uneven.", "correct_answer": "B", "explanation": "If a driver feels a continuous vibration in the steering, particularly at higher speeds, this could typically indicate that the balance of the vehicle wheels is uneven. This can lead to instability in the handling of the vehicle. If this is the case, have it investigated by a competent person.", "image_name": "loader.gif"},
-{"question_id": "790", "catalog_id": "10", "question_text": "After changing a wheel on a vehicle, which of the following should be checked after a short distance?", "option_a": "The tyre air valve.", "option_b": "The brake pad clearance.", "option_c": "The wheel nut tightness.", "option_d": "The tyre tread depth.", "correct_answer": "B", "explanation": "After changing a wheel on a vehicle, check the tightness of the wheel nuts or studs on the replacement wheel after driving a short distance to ensure they are securely fitted. If in doubt seek assistance from a competent person.", "image_name": "loader.gif"},
-{"question_id": "791", "catalog_id": "10", "question_text": "What can be affected by driving on under-inflated tyres?", "option_a": "Climate control system.", "option_b": "Braking ability.", "option_c": "The exhaust system.", "option_d": "Engine temperature.", "correct_answer": "B", "explanation": "Under-inflated tyres may adversely affect many of the vehicle?s systems, including its braking ability, suspension, steering and fuel consumption. In particular, under-inflated tyres can affect the vehicles braking ability and can result in premature tyre wear. Tyres should always be inflated according to the vehicle manufacturers guidelines, information on which can be found in the vehicle handbook.", "image_name": "loader.gif"},
-{"question_id": "792", "catalog_id": "10", "question_text": "In general, above what gross vehicle weight must a trailer have brakes fitted?", "option_a": "850 kg", "option_b": "500 kg", "option_c": "750 kg", "option_d": "900 kg", "correct_answer": "C", "explanation": "Brakes must be fitted to a trailer if its gross vehicle weight exceeds either 750 kg or half the weight of the towing vehicle.", "image_name": "loader.gif"}
-
+    {
+        "question_id": "789",
+        "catalog_id": "10",
+        "question_text": "While driving at higher speeds, what does a continuous vibration in the steering indicate?",
+        "option_a": "The steering is out of alignment.",
+        "option_b": "The wheel balance is uneven.",
+        "option_c": "The shock absorbers are worn.",
+        "option_d": "Weight distribution is uneven.",
+        "correct_answer": "B",
+        "explanation": "If a driver feels a continuous vibration in the steering, particularly at higher speeds, this could typically indicate that the balance of the vehicle wheels is uneven. This can lead to instability in the handling of the vehicle. If this is the case, have it investigated by a competent person.",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "790",
+        "catalog_id": "10",
+        "question_text": "After changing a wheel on a vehicle, which of the following should be checked after a short distance?",
+        "option_a": "The tyre air valve.",
+        "option_b": "The brake pad clearance.",
+        "option_c": "The wheel nut tightness.",
+        "option_d": "The tyre tread depth.",
+        "correct_answer": "B",
+        "explanation": "After changing a wheel on a vehicle, check the tightness of the wheel nuts or studs on the replacement wheel after driving a short distance to ensure they are securely fitted. If in doubt seek assistance from a competent person.",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "791",
+        "catalog_id": "10",
+        "question_text": "What can be affected by driving on under-inflated tyres?",
+        "option_a": "Climate control system.",
+        "option_b": "Braking ability.",
+        "option_c": "The exhaust system.",
+        "option_d": "Engine temperature.",
+        "correct_answer": "B",
+        "explanation": "Under-inflated tyres may adversely affect many of the vehicle?s systems, including its braking ability, suspension, steering and fuel consumption. In particular, under-inflated tyres can affect the vehicles braking ability and can result in premature tyre wear. Tyres should always be inflated according to the vehicle manufacturers guidelines, information on which can be found in the vehicle handbook.",
+        "image_name": "loader.gif"
+    },
+    {
+        "question_id": "792",
+        "catalog_id": "10",
+        "question_text": "In general, above what gross vehicle weight must a trailer have brakes fitted?",
+        "option_a": "850 kg",
+        "option_b": "500 kg",
+        "option_c": "750 kg",
+        "option_d": "900 kg",
+        "correct_answer": "C",
+        "explanation": "Brakes must be fitted to a trailer if its gross vehicle weight exceeds either 750 kg or half the weight of the towing vehicle.",
+        "image_name": "loader.gif"
+    }
 ]

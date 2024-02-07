@@ -3,7 +3,6 @@ import quizDataEN from '../dttqenl.json';
 import quizDataCN from '../dttcnl.json';
 import { useNavigate } from 'react-router-dom';
 
-
 const getImagePath = (imageName) => {
 try {
     return require(`../images/${imageName}`);

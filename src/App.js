@@ -14,8 +14,8 @@ function App() {
     <Router>
       <Routes>
         {/* Redirect users based on authentication status */}
-        <Route path="/"  element={<LimitQuiz />} />
-        <Route path="/login" element={ <LoginPage />  } />
+        <Route path="/"  element={<LoginPage />} />
+        <Route path="/limit" element={ <LimitQuiz />  } />
         <Route path="/signup" element={<SignUpPage /> } />
         <Route path="/AllQuiz/:userId"   element={<Quiz />}  />
         <Route path='/UserProfile/:userId' element={<UserProfile />}/>

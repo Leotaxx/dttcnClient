@@ -49,10 +49,13 @@ const LoginPage = () => {
                     onChange={(e) => setPassword(e.target.value)}
                     placeholder='密码'
                     required />
+                
                 <button className="w-full bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 mb-2 rounded focus:outline-none focus:shadow-outline" type='submit'>登录</button>
-                <button className="w-full bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" onClick={handleSignUp}>注册新账号</button>
+                <button className="w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" onClick={handleSignUp}>注册新账号</button>
+                <button className="w-full bg-yellow-300 hover:bg-yellow-500 text-white font-bold mt-2 py-2 px-4 rounded focus:outline-none focus:shadow-outline"onClick={()=>{navigate('/limit')}}>体验测试模式</button>
+        
             </form>
-        </div>
+            </div>
     );
 }
 

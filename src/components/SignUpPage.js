@@ -10,9 +10,14 @@
         const [inviteCode, setInviteCode] = useState('');
         const navigate = useNavigate();
         const [errorMessage, setErrorMessage] = useState('');
+        const [signupAttempts, setSignupAttempts] = useState(0);
 
         const handleSubmit = async (event) => {//Makes an asynchronous POST request to the login endpoint with the user's email and password.
             event.preventDefault();//Prevents the default form submission behavior.
+            if(signupAttempts>5){
+                setErrorMessage('您已达到最大登录尝试次数。');
+                return;
+            }
             try {
                 const apiUrl = process.env.REACT_APP_API_BASE_URL || 'http://localhost:8888';
                 const response = await axios.post(`${apiUrl}/.netlify/functions/register`, { username, email, password,inviteCode },);//is used for making HTTP requests.
@@ -20,13 +25,14 @@
                 const userId=user.userId;
                 navigate(`/Userprofile/${userId}`,{state:{user:user}});
             } catch (error) {
+                setSignupAttempts(setSignupAttempts+1)
                 // Update the error message based on the response or a default message
                 setErrorMessage(error.response?.data?.message || '用户邮箱已被注册或邀请码已被使用或不正确');
             }
             
         };
         // Function to toggle the visibility of the explanation section.
-    
+        
         // Function to navigate to the login page.
         const hanldeLogin=()=>{
             navigate('/login');

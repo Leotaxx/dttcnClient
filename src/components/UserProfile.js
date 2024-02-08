@@ -30,6 +30,8 @@ const UserProfile = () => {
         const storedResults = JSON.parse(localStorage.getItem('mockTestResults')) || [];
         setResults(storedResults);
     }, []);
+    console.log(incorrectQuestions);
+    console.log(results);
 
     const navigateToSection = (section) => {
         navigate(`/${section}/${userId}`, { state: { user: user } });
@@ -55,6 +57,7 @@ const UserProfile = () => {
         recentResults: language === 'CN' ? '模拟测试结果将显示在下方,点击任意结果将显示详情' : 'Recent Mock Test Results',
         questionId: language === 'CN' ? '问题 ID' : 'Question ID',
         };
+        
         const fetchQuestionDetails = (incorrectQuestionIds) => {
             // Ensure the correct dataset is used based on the current language
             const questionsData = language === 'CN' ? questionsDataCN : questionsDataEN;

@@ -19,18 +19,20 @@ const MockTestPage = () => {
     const [incorrectMockIds, setIncorrectMockIds] = useState([]);
 
     // Effect to generate questions only once on component mount
-   
+    const saveResults = () => {
+        const result = {
+            score: correctAnswers,
+            total: selectedQuestions.length,
+            date: new Date().toLocaleString(),
+            incorrectMockIds: incorrectMockIds // Save the incorrect question IDs
+        };
+        const results = JSON.parse(localStorage.getItem('mockTestResults')) || [];
+        results.push(result);
+        localStorage.setItem('mockTestResults', JSON.stringify(results));
+    };
     
-    useEffect(() => {
-        if (timeLeft === 0 || currentQuestionIndex >= selectedQuestions.length) {
-            setTestEnded(true);
-            saveResults();
-        }
-        const timerId = timeLeft > 0 && setInterval(() => setTimeLeft(timeLeft - 1), 1000);
-        return () => clearInterval(timerId);
-    }, [timeLeft, currentQuestionIndex, selectedQuestions.length]);
 
-    const handleAnswerClick = (answer,isLastQuestion) => {
+    const handleAnswerClick = (answer) => {
         setSelectedAnswer(answer); // Set the selected answer
     
         // Ensure we're working with the current question's data
@@ -41,30 +43,31 @@ const MockTestPage = () => {
     
         // Compare the selected answer with the correct answer text
         const isCorrect = answer === correctAnswerText;
+        
     
         if (isCorrect) {
             setCorrectAnswers(prev => {
                 const newScore = prev + 1;
                 
                 // If this is the last question, save results after updating the score
-                if (isLastQuestion) {
-                    saveResults(newScore); // Pass the new score directly
-                }
+               
                 
                 return newScore;
             });
-        }else if (isLastQuestion) {
-            // If the last question is answered incorrectly, still need to save results
-            saveResults(correctAnswers); 
-        }else {
-            // Add question_id to the incorrectMockIds list if not already present
-            setIncorrectMockIds(prevIds => {
-                const newIds = new Set(prevIds); // Use a Set to ensure uniqueness
-                newIds.add(currentQuestion[language].question_id); 
-               // Assuming question_id is at the top level of currentQuestion
-                return [...newIds]; // Convert back to array
-            });
+        
         }
+        if(!isCorrect) {
+           
+            setIncorrectMockIds(prevIds => {
+                const newIds = new Set(prevIds);
+                newIds.add(currentQuestion[language].question_id);
+                return [...newIds];
+
+            });
+           
+        }
+           
+        
     
         // Proceed to the next question or end the test
         const nextIndex = currentQuestionIndex + 1;
@@ -72,24 +75,29 @@ const MockTestPage = () => {
             setCurrentQuestionIndex(nextIndex);
             setSelectedAnswer(""); // Reset selected answer for the next question
         } else {
+            
             setTestEnded(true);
-            saveResults();
+            
         }
     };
-    
+    useEffect(() => {
+        if (timeLeft === 0 || currentQuestionIndex >= selectedQuestions.length) {
+            setTestEnded(true);
+            
+        }
+        const timerId = timeLeft > 0 && setInterval(() => setTimeLeft(timeLeft - 1), 1000);
+        return () => clearInterval(timerId);
+    }, [timeLeft, currentQuestionIndex, selectedQuestions.length]);
+    useEffect(() => {
+        if (testEnded) {
+          saveResults(); // Ensure this only gets called once the test has actually ended.
+        }
+      }, [testEnded, incorrectMockIds, correctAnswers]); 
   
-
-  const saveResults = () => {
-    const result = {
-        score: correctAnswers,
-        total: selectedQuestions.length,
-        date: new Date().toLocaleString(),
-        incorrectMockIds: incorrectMockIds // Save the incorrect question IDs
-    };
-    const results = JSON.parse(localStorage.getItem('mockTestResults')) || [];
-    results.push(result);
-    localStorage.setItem('mockTestResults', JSON.stringify(results));
-};
+    useEffect(() => {
+       
+    }, [incorrectMockIds]);
+  
 
     const toggleLanguage = () => setLanguage(prevLang => prevLang === 'CN' ? 'EN' : 'CN');
     const getLocalizedResultsText = () => {
@@ -107,6 +115,7 @@ const getLocalizedCorrectAnswersText = (correctAnswers, totalQuestions) => {
   return language === 'CN' ? `正确答案: ${correctAnswers} / ${totalQuestions}` : `Correct Answers: ${correctAnswers} / ${totalQuestions}`;
 };
     if (testEnded) {
+        
         return (
           <div className="results-page p-4">
           <h2 className='bg-green-300 py-1'>{getLocalizedResultsText()}</h2>

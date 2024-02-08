@@ -35,7 +35,7 @@
         
         // Function to navigate to the login page.
         const hanldeLogin=()=>{
-            navigate('/login');
+            navigate('/');
         }
         
         return (

@@ -55,18 +55,25 @@ const UserProfile = () => {
         recentResults: language === 'CN' ? '模拟测试结果将显示在下方,点击任意结果将显示详情' : 'Recent Mock Test Results',
         questionId: language === 'CN' ? '问题 ID' : 'Question ID',
         };
-    const fetchQuestionDetails = (incorrectQuestionIds) => {
-        // Correctly fetch question details based on the current language
-        const questionsData = language === 'CN' ? questionsDataCN : questionsDataEN;
-    
-        // Map over incorrectQuestionIds to fetch each question's details from the respective data object
-        const details = incorrectQuestionIds
-            .map(id => questionsData[id]) // Get question object by id
-            .filter(Boolean); // Filter out any undefined or null entries if any question ID wasn't found
-    
-        setSelectedResultDetails(details);
-        setIsModalOpen(true);
-    };
+        const fetchQuestionDetails = (incorrectQuestionIds) => {
+            // Ensure the correct dataset is used based on the current language
+            const questionsData = language === 'CN' ? questionsDataCN : questionsDataEN;
+            
+            // Use a temporary array to hold the fetched question details
+            let details = [];
+            
+            incorrectQuestionIds.forEach(id => {
+                const questionDetail = questionsData.find(question => question.question_id === id);
+                if (questionDetail) {
+                    details.push(questionDetail);
+                }
+            });
+        
+            // Update state only after all details are fetched
+            setSelectedResultDetails(details);
+            setIsModalOpen(true);
+        };
+        
     
 
     return (

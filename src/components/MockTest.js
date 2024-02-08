@@ -30,45 +30,53 @@ const MockTestPage = () => {
         return () => clearInterval(timerId);
     }, [timeLeft, currentQuestionIndex, selectedQuestions.length]);
 
-    const handleAnswerClick = (answer) => {
-      setSelectedAnswer(answer); // Set the selected answer
-  
-      // Ensure we're working with the current question's data
-      const currentQuestion = selectedQuestions[currentQuestionIndex][language];
-      // Fetch the correct answer text using the correct_answer property
-      const correctOptionKey = 'option_' + currentQuestion.correct_answer.toLowerCase();
-      const correctAnswerText = currentQuestion[correctOptionKey];
-  
-      // Compare the selected answer with the correct answer text
-      const isCorrect = answer === correctAnswerText;
-  
-      console.log(currentQuestion.question_id)
-      if (isCorrect) {
-          // Increment correct answers count if the answer is correct
-          setCorrectAnswers(prev => prev + 1);
-      } else {
-        // Add question_id to the incorrectQuestionIds list if not already present
-        if (!incorrectMockIds.includes(currentQuestion.question_id)) {
-            setIncorrectMockIds(prevIds => [...prevIds, currentQuestion.question_id]);
+    const handleAnswerClick = (answer,isLastQuestion) => {
+        setSelectedAnswer(answer); // Set the selected answer
+    
+        // Ensure we're working with the current question's data
+        const currentQuestion = selectedQuestions[currentQuestionIndex];
+        // Fetch the correct answer text using the correct_answer property
+        const correctOptionKey = 'option_' + currentQuestion[language].correct_answer.toLowerCase();
+        const correctAnswerText = currentQuestion[language][correctOptionKey];
+    
+        // Compare the selected answer with the correct answer text
+        const isCorrect = answer === correctAnswerText;
+    
+        if (isCorrect) {
+            setCorrectAnswers(prev => {
+                const newScore = prev + 1;
+                
+                // If this is the last question, save results after updating the score
+                if (isLastQuestion) {
+                    saveResults(newScore); // Pass the new score directly
+                }
+                
+                return newScore;
+            });
+        }else if (isLastQuestion) {
+            // If the last question is answered incorrectly, still need to save results
+            saveResults(correctAnswers); 
+        }else {
+            // Add question_id to the incorrectMockIds list if not already present
+            setIncorrectMockIds(prevIds => {
+                const newIds = new Set(prevIds); // Use a Set to ensure uniqueness
+                newIds.add(currentQuestion[language].question_id); 
+               // Assuming question_id is at the top level of currentQuestion
+                return [...newIds]; // Convert back to array
+            });
         }
-        
-        
-      }
-
-
-     
-          // Proceed to the next question or end the test
-      const nextIndex = currentQuestionIndex + 1;
-      if (nextIndex < selectedQuestions.length) {
-          setCurrentQuestionIndex(nextIndex);
-          setSelectedAnswer(""); // Reset selected answer for the next question
-      } else {
-          setTestEnded(true);
-          saveResults();
-      }
-  
-  };
-  
+    
+        // Proceed to the next question or end the test
+        const nextIndex = currentQuestionIndex + 1;
+        if (nextIndex < selectedQuestions.length) {
+            setCurrentQuestionIndex(nextIndex);
+            setSelectedAnswer(""); // Reset selected answer for the next question
+        } else {
+            setTestEnded(true);
+            saveResults();
+        }
+    };
+    
   
 
   const saveResults = () => {

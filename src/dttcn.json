@@ -782,15 +782,16 @@
     {
         "question_id": "66",
         "catalog_id": "1",
-        "question_text": "What should a driver be aware of when following the motorcyclist, and the white car is reversing onto the road?",
-        "option_a": "The motorcyclist may signal the reversing driver to stop.",
-        "option_b": "The driver following the motorcycle may need a longer braking distance than normal.",
-        "option_c": "The brake lights on the motorcycle may not be working.",
-        "option_d": "The reversing driver will stop when they see the motorcyclist.",
+        "question_text": "驾驶员跟随摩托车行驶，而白色汽车正在倒车进入道路时，应注意什么？",
+        "option_a": "摩托车驾驶员可能会示意倒车的司机停下。",
+        "option_b": "跟随摩托车的驾驶员可能需要比平时更长的制动距离。",
+        "option_c": "摩托车的刹车灯可能不工作。",
+        "option_d": "倒车的司机看到摩托车时会停下。",
         "correct_answer": "B",
-        "explanation": "You should always keep a safe distance from the vehicle in front if it is slowing down or stopping. Always read the road and be prepared to react correctly to changes in the traffic ahead.",
+        "explanation": "如果前方的车辆正在减速或停车，您应始终与前车保持安全距离。始终阅读道路并准备正确应对交通变化。",
         "image_name": "ABMW0282RU19.jpg"
     },
+    
     {
         "question_id": "67",
         "catalog_id": "1",
@@ -1251,8 +1252,8 @@
         "question_id": "105",
         "catalog_id": "2",
         "question_text": "在车祸后，如果有人失去意识，司机应采取以下措施",
-        "option_a": " 尝试用毯子或大衣保暖,打电话给紧急服务（拨打999或112），或确保有人已经打了电话。",
-        "option_b": " 尝试让失去意识的人喝点东西。",
+        "option_a":  " 尝试让失去意识的人喝点东西。",
+        "option_b":" 尝试用毯子或大衣保暖,打电话给紧急服务（拨打999或112），或确保有人已经打了电话。",
         "option_c": " 抬起失去意识的人的头并保持这个位置。",
         "option_d": " 立即将失去意识的人转移到最近的医院。",
         "correct_answer": "B",
@@ -1278,7 +1279,7 @@
         "option_a": "尽可能靠左停车。",
         "option_b": "在发生问题的车道上停车。",
         "option_c": "尽可能靠右停车。",
-        "option_d": "尽可能靠右停车。",
+        "option_d":  "最近的出口匝道",
         "correct_answer": "A",
         "explanation": "当一辆车抛锚时，重要的是为了其他道路使用者的便利和车辆乘员的安全，尽可能地靠左移动",
         "image_name": "loader.gif"
@@ -1292,7 +1293,7 @@
         "option_c": " 国家安全委员会。",
         "option_d": " 道路安全管理局。",
         "correct_answer": "A",
-        "explanation": " 高速公路旁的紧急电话直接连线到An Garda Síochána，以便他们尽快作出适当的响应。加尔达通过这些电话准确知道每个呼叫的位置。",
+        "explanation": " 高速公路旁的紧急电话直接连线到An Garda Síochána，以便他们尽快作出适当的响应。Gard a通过这些电话准确知道每个呼叫的位置。",
         "image_name": "loader.gif"
     },
     {
@@ -1725,7 +1726,7 @@
         "option_d": "在摩托车前面停车。",
         "correct_answer": "C",
         "explanation": "遇到由停车标志和停车线控制的路口时，您必须在线处停车。不要继续行驶，直到确保安全为止。",
-        "image_name": "loader.gif"
+        "image_name": "ABMW0264RU19.jpg"
     },
     {
         "question_id": "145",
@@ -2872,7 +2873,7 @@
         "catalog_id": "7",
         "question_text": "如果驾驶员想要驾驶一辆车，但是车辆税盘已经过期，他们应该怎么做？",
         "option_a": "应该在过期后10天内续费。",
-        "option_b": "应该联系加尔达（GardaÍ）获得批准。",
+        "option_b": "应该联系Garda（GardaÍ）获得批准。",
         "option_c": "应该立即缴税。",
         "option_d": "只有在紧急情况下才可以驾驶。",
         "correct_answer": "C",
@@ -3390,13 +3391,13 @@
     {
         "question_id": "283",
         "catalog_id": "10",
-        "question_text": "这个加尔达信号是什么意思？",
+        "question_text": "这个Garda信号是什么意思？",
         "option_a": "前方来车可以继续行进。",
         "option_b": "右方来车可以继续行进。",
         "option_c": "后方来车必须停止。",
         "option_d": "前方来车必须停止。",
         "correct_answer": "A",
-        "explanation": "接近发出此信号的加尔达时，你可以继续行进。",
+        "explanation": "接近发出此信号的Garda时，你可以继续行进。",
         "image_name": "ABMW0156R.jpg"
     },
     {
@@ -3558,13 +3559,13 @@
     {
         "question_id": "297",
         "catalog_id": "10",
-        "question_text": "这个加尔达信号是什么意思？",
-        "option_a": "加尔达正在对从两边接近的交通做手势。",
-        "option_b": "加尔达正在对从前方来的交通做手势。",
+        "question_text": "这个Garda信号是什么意思？",
+        "option_a": "Garda正在对从两边接近的交通做手势。",
+        "option_b": "Garda正在对从前方来的交通做手势。",
         "option_c": "驾驶员不得向左行驶。",
         "option_d": "驾驶员不得向右行驶",
         "correct_answer": "A",
-        "explanation": "当你接近一个发出这个信号的加尔达时，你可以继续行驶。",
+        "explanation": "当你接近一个发出这个信号的Garda时，你可以继续行驶。",
         "image_name": "ABMW0155R.jpg"
     },
     {
@@ -4566,13 +4567,13 @@
     {
         "question_id": "381",
         "catalog_id": "10",
-        "question_text": "这个加尔达（警察）信号是什么意思？",
+        "question_text": "这个Garda（警察）信号是什么意思？",
         "option_a": "如果从前方接近则继续行驶。",
         "option_b": "如果从后方接近则停车。",
         "option_c": "如果从前方接近则停车。",
         "option_d": "如果从后方接近则继续行驶。",
         "correct_answer": "C",
-        "explanation": "面对发出此信号的加尔达（警察），你必须停车。",
+        "explanation": "面对发出此信号的Garda（警察），你必须停车。",
         "image_name": "ABMW0152R.jpg"
     },
     {
@@ -5455,7 +5456,7 @@
         "question_id": "455",
         "catalog_id": "10",
         "question_text": "这个标志是什么意思？",
-        "option_a": "前方有儿童游戏区。",
+        "option_a": "前方野餐区",
         "option_b": "前方有儿童游戏区。",
         "option_c": "前方有行人过街。",
         "option_d": "前方有学校。",
@@ -7306,9 +7307,9 @@
         "option_a": "打开远光灯提醒其他司机。",
         "option_b": "在高速公路上放置一个红色警告三角牌以警告其他司机。",
         "option_c": "让乘客站在路上警告其他交通。",
-        "option_d": "使用路边电话联系加尔达（GardaÌ_），永远不要尝试自己进行修理。",
+        "option_d": "使用路边电话联系Garda（GardaÌ_），永远不要尝试自己进行修理。",
         "correct_answer": "D",
-        "explanation": "当一辆车在高速公路上抛锚时，驾驶员应把车移至紧急车道，使用路边电话联系加尔达，不要在高速公路上放置警告设备。驾驶员绝对不应在紧急车道尝试自行维修车辆。",
+        "explanation": "当一辆车在高速公路上抛锚时，驾驶员应把车移至紧急车道，使用路边电话联系Garda，不要在高速公路上放置警告设备。驾驶员绝对不应在紧急车道尝试自行维修车辆。",
         "image_name": "loader.gif"
     },
     {
@@ -7869,7 +7870,7 @@
         "question_text": "转速表提供哪方面的信息？",
         "option_a": "发动机转速。",
         "option_b": "暖风扇转速。",
-        "option_c": "车轮转速。",
+        "option_c": "变速箱转速",
         "option_d": "车轮转速。",
         "correct_answer": "A",
         "explanation": "转速表测量发动机的转速，即每分钟转数。通常来说，转数越高，发动机使用的燃料也越多，因此驾驶员应该留意转速表，以帮助以更环保的方式驾驶。",
@@ -8420,7 +8421,7 @@
         "catalog_id": "15",
         "question_text": "灯光校准不正确会有什么影响？",
         "option_a": "它们可能引起火灾。",
-        "option_b": "它们可能使灯泡过早磨损。",
+        "option_b": "它们可能降低电池寿命",
         "option_c": "它们可能使灯泡过早磨损。",
         "option_d": "它们可能使迎面而来的驾驶员眼花。",
         "correct_answer": "D",

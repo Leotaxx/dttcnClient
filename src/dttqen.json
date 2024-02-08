@@ -1278,7 +1278,7 @@
         "option_a": "As far to the left as possible.",
         "option_b": "In the lane where the problem occurred.",
         "option_c": "As far to the right as possible.",
-        "option_d": "As far to the right as possible.",
+        "option_d": "The nearest exit ramp.",
         "correct_answer": "A",
         "explanation": "When a vehicle breaks down it is important to move as far in to the left as possible for the convenience of other road users and the safety of the vehicles occupants",
         "image_name": "loader.gif"
@@ -1725,7 +1725,7 @@
         "option_d": "Stop in front of the motorcycle.",
         "correct_answer": "C",
         "explanation": "You must stop at the line where a junction is controlled by a Stop sign and Stop line. Do not proceed until it is safe to do so.",
-        "image_name": "loader.gif"
+        "image_name": "ABMW0264RU19.jpg"
     },
     {
         "question_id": "145",
@@ -5459,7 +5459,7 @@
         "question_id": "455",
         "catalog_id": "10",
         "question_text": "What does this sign mean?",
-        "option_a": "Children's play area ahead.",
+        "option_a": "Picnic area ahead.",
         "option_b": "Children's play area ahead.",
         "option_c": "Pedestrian crossing ahead.",
         "option_d": "School ahead.",
@@ -7873,7 +7873,7 @@
         "question_text": "What does a rev counter provide information on?",
         "option_a": "Engine revolutions.",
         "option_b": "Heater-fan revolutions.",
-        "option_c": "Wheel revolutions.",
+        "option_c": "Gear box revolutions.",
         "option_d": "Wheel revolutions.",
         "correct_answer": "A",
         "explanation": "The rev counter measures the speed of the engine, in revolutions per minute. Generally, the higher the revs, the more fuel the engine is using, so drivers should keep an eye on the rev counter to help drive in a more eco-friendly manner.",
@@ -8424,7 +8424,7 @@
         "catalog_id": "15",
         "question_text": "What effect could incorrectly aligned headlights have?",
         "option_a": "They could cause a fire.",
-        "option_b": "They could wear out the bulbs prematurely.",
+        "option_b": "They could reduce battery life. ",
         "option_c": "They could wear out the bulbs prematurely.",
         "option_d": "They could dazzle oncoming drivers.",
         "correct_answer": "D",

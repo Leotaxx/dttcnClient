@@ -71,7 +71,7 @@ const UserProfile = () => {
 
     return (
         <div className="flex flex-col justify-between h-screen bg-green-100">
-            <div className="px-8 pt-6 pb-4  max-w-xs mx-auto overflow-auto">
+            <div className="px-8 pt-6 pb-4  max-w-s mx-auto overflow-auto">
             
                 <div className="mb-4 text-gray-600 italic text-sm text-left">
             {language === 'CN' ? 

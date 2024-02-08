@@ -280,7 +280,7 @@ if (redoIncorrect) {
                     showExplanation={showExplanation} nextQuestion={nextRedoQuestion} language={language} redoIncorrect={redoIncorrect} nextRedoQuestion={nextRedoQuestion}/>;
 }
 const handleLogIn=()=>{
-    navigate('/login');
+    navigate('/');
 }
 const handleSignUp=()=>{
     navigate('/signup');

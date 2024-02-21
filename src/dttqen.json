@@ -9483,7 +9483,7 @@
         "option_b": "The brake pad clearance.",
         "option_c": "The wheel nut tightness.",
         "option_d": "The tyre tread depth.",
-        "correct_answer": "B",
+        "correct_answer": "C",
         "explanation": "After changing a wheel on a vehicle, check the tightness of the wheel nuts or studs on the replacement wheel after driving a short distance to ensure they are securely fitted. If in doubt seek assistance from a competent person.",
         "image_name": "loader.gif"
     },

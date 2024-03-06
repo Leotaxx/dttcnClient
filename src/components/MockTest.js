@@ -120,7 +120,7 @@ const getLocalizedCorrectAnswersText = (correctAnswers, totalQuestions) => {
           <div className="results-page p-4">
           <h2 className='bg-green-300 py-1'>{getLocalizedResultsText()}</h2>
           <p className='bg-yellow-400 py-1'>{getLocalizedCorrectAnswersText(correctAnswers, selectedQuestions.length)}</p>
-          <button onClick={() => navigate(`/UserProfile/${userId}`,{state:{user:user}})}className="bg-red-400 text-green-900 px-3 mt-2 py-1 rounded-full text-sm  hover:bg-red-500 md:text-base shadow-sm">
+          <button onClick={() => navigate(`/march/profile/${userId}`,{state:{user:user}})}className="bg-red-400 text-green-900 px-3 mt-2 py-1 rounded-full text-sm  hover:bg-red-500 md:text-base shadow-sm">
               
               {getLocalizedGoBackButtonText()}
           </button>
@@ -132,7 +132,7 @@ const getLocalizedCorrectAnswersText = (correctAnswers, totalQuestions) => {
     return (
         <div className="mock-test-page p-4">
                         <div className="bg-yellow-500 ml-2 mr-2 text-white mt-2 mb-2 py-2 px-4 rounded block w-full sm:w-auto transition-colors duration-300 ease-in-out" >{getLocalizedTimeLeftText()}
-                        <button onClick={() => navigate(`/UserProfile/${userId}`,{state:{user:user}})}className="bg-red-400 text-green-900 px-3 ml-2 py-1 rounded-full text-sm  hover:bg-red-500 md:text-base shadow-sm">
+                        <button onClick={() => navigate(`/march/profile/${userId}`,{state:{user:user}})}className="bg-red-400 text-green-900 px-3 ml-2 py-1 rounded-full text-sm  hover:bg-red-500 md:text-base shadow-sm">
               {language === 'CN' ? '终止测试（数据将不保存）' : 'back to profile'}</button></div> 
                         
             {selectedQuestions.length > 0 && (

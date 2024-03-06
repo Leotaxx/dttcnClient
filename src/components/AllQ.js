@@ -329,7 +329,7 @@ return (
                 >
                 {language === 'CN' ? `错题练习 (${incorrectQuestionIds.length}题)` : `Practice Incorrect (${incorrectQuestionIds.length})`}
                 </button>
-                <button onClick={() => navigate(`/UserProfile/${userId}`,{state:{user:user}})}className="bg-red-400 text-green-900 px-3 ml-2 py-1 rounded-full text-sm  hover:bg-red-500 md:text-base shadow-sm">
+                <button onClick={() => navigate(`/march/profile/${userId}`,{state:{user:user}})}className="bg-red-400 text-green-900 px-3 ml-2 py-1 rounded-full text-sm  hover:bg-red-500 md:text-base shadow-sm">
               {language === 'CN' ? '回到菜单页' : 'back to profile'}</button>
             </div>
             </div>

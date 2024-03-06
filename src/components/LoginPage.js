@@ -20,7 +20,7 @@ const LoginPage = () => {
             const user=response.data.user;
             console.log(user);
             const userId=user.userId;
-            navigate(`/Userprofile/${userId}/march`,{state:{user:user}}); // Change '/dashboard' to your success route
+            navigate(`/march/${userId}`,{state:{user:user}}); // Change '/dashboard' to your success route
         } catch (error) {
             setLoginAttempts(loginAttempts + 1);
             // Update the error message based on the response or a default message

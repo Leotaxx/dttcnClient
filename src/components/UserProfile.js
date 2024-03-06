@@ -34,7 +34,7 @@ const UserProfile = () => {
     console.log(results);
 
     const navigateToSection = (section) => {
-        navigate(`/${section}/${userId}`, { state: { user: user } });
+        navigate(`/march/${section}/${userId}`, { state: { user: user } });
     };
 
     const clearMockTestHistory = () => {

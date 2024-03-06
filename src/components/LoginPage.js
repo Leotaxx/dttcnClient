@@ -20,7 +20,7 @@ const LoginPage = () => {
             const user=response.data.user;
             console.log(user);
             const userId=user.userId;
-            navigate(`/Userprofile/${userId}`,{state:{user:user}}); // Change '/dashboard' to your success route
+            navigate(`/Userprofile/${userId}/march`,{state:{user:user}}); // Change '/dashboard' to your success route
         } catch (error) {
             setLoginAttempts(loginAttempts + 1);
             // Update the error message based on the response or a default message
@@ -35,6 +35,7 @@ const LoginPage = () => {
     const isDisabled = loginAttempts > 5;
     return (
         <div className="flex justify-center items-center h-screen bg-green-100">
+            <p>服务器重启，请重新登录</p>
             <form onSubmit={handleSubmit} className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 max-w-xs">
                 <h2 className="text-2xl text-gray-800 font-bold mb-6">登录</h2>
                 {errorMessage && (

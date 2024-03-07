@@ -38,7 +38,7 @@ const LoginPage = () => {
             
             <form onSubmit={handleSubmit} className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 max-w-xs">
                 <h2 className="text-2xl text-gray-800 font-bold mb-6">登录</h2>
-                <p>服务器重启，请重新登录</p>
+                
                 {errorMessage && (
                     <div className="text-red-500 mb-4">{errorMessage}</div>
                 )}

@@ -7,11 +7,14 @@ import LimitQuiz from './components/LimitQ';
 import Quiz from './components/AllQ';
 import UserProfile from './components/UserProfile';
 import MockTestPage from './components/MockTest';
+import Header from './components/Header';
 function App() {
   
   
   return (
     <Router>
+      <div>
+        <Header />
       <Routes>
         {/* Redirect users based on authentication status */}
         <Route path="/"  element={<LoginPage />} />
@@ -25,6 +28,7 @@ function App() {
         <Route path='/MockTest/:userId' element={<LoginPage />}/>
         
       </Routes>
+      </div>
     </Router>
   );
 }

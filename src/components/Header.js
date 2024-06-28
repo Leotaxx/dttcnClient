@@ -1,11 +1,10 @@
 // Header.js
 function Header() {
-    return (
-      <header className="bg-red-300">
-       所有付费的老板，如果通过了考试，发小红书好评经验贴并@老塔，可联系本人微信返现5欧。
-      </header>
-    );
-  }
-  
-  export default Header;
-  
+	return (
+		<header className='bg-red-300'>
+			7月官方考题库增至803题，图片优化，基础题型题干内容与目前的都保持不变，老板们可以放心练习，新题库app预计下周更新，到时候老板可以联系我微信获得使用权限。
+		</header>
+	);
+}
+
+export default Header;

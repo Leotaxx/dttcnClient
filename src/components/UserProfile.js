@@ -91,6 +91,9 @@ const UserProfile = () => {
 	const redirectToExternal = () => {
 		window.location.href = "https://nexttest-khaki.vercel.app";
 	};
+	const redirectToExternalcn = () => {
+		window.location.href = "https://nexttest-khaki.vercel.app/ch";
+	};
 	return (
 		<div className='flex flex-col justify-between h-screen bg-green-100'>
 			<div className='px-8 pt-6 pb-4  max-w-s mx-auto overflow-auto'>
@@ -193,6 +196,12 @@ const UserProfile = () => {
 					</div>
 				</div>
 			)}
+			<button
+				className='w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded focus:outline-none focus:shadow-outline'
+				onClick={redirectToExternalcn}
+			>
+				{language === "CN" ? "新题库中文版" : "Go to Next Test"}
+			</button>
 			<button
 				className='w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded focus:outline-none focus:shadow-outline'
 				onClick={redirectToExternal}

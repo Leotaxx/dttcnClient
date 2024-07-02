@@ -196,18 +196,20 @@ const UserProfile = () => {
 					</div>
 				</div>
 			)}
-			<button
-				className='w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded focus:outline-none focus:shadow-outline'
-				onClick={redirectToExternalcn}
-			>
-				{language === "CN" ? "新题库中文版" : "Go to Next Test"}
-			</button>
-			<button
-				className='w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded focus:outline-none focus:shadow-outline'
-				onClick={redirectToExternal}
-			>
-				{language === "CN" ? "新题库英语版" : "Go to Next Test"}
-			</button>
+			<div>
+				<button
+					className='w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4  rounded focus:outline-none focus:shadow-outline'
+					onClick={redirectToExternalcn}
+				>
+					{language === "CN" ? "新题库中文版" : "Go to Next Test"}
+				</button>
+				<button
+					className='w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded focus:outline-none focus:shadow-outline'
+					onClick={redirectToExternal}
+				>
+					{language === "CN" ? "新题库英语版" : "Go to Next Test"}
+				</button>
+			</div>
 		</div>
 	);
 };

@@ -88,9 +88,7 @@ const UserProfile = () => {
 		setSelectedResultDetails(details);
 		setIsModalOpen(true);
 	};
-	const redirectToExternal = () => {
-		window.location.href = "https://nexttest-khaki.vercel.app";
-	};
+
 	const redirectToExternalcn = () => {
 		window.location.href = "https://nexttest-khaki.vercel.app/ch";
 	};
@@ -127,6 +125,12 @@ const UserProfile = () => {
 					onClick={() => navigateToSection("mocktest")}
 				>
 					{texts.mockTest}
+				</button>
+				<button
+					className='w-full bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 mb-2 rounded focus:outline-none focus:shadow-outline'
+					onClick={redirectToExternalcn}
+				>
+					2024年7月新题库
 				</button>
 				<button
 					className='w-full bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline'
@@ -196,20 +200,6 @@ const UserProfile = () => {
 					</div>
 				</div>
 			)}
-			<div>
-				<button
-					className='w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4  mb-2 rounded focus:outline-none focus:shadow-outline'
-					onClick={redirectToExternalcn}
-				>
-					{language === "CN" ? "新题库中文版" : "Go to Next Test"}
-				</button>
-				<button
-					className='w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded focus:outline-none focus:shadow-outline'
-					onClick={redirectToExternal}
-				>
-					{language === "CN" ? "新题库英语版" : "Go to Next Test"}
-				</button>
-			</div>
 		</div>
 	);
 };
